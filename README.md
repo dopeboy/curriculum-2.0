@@ -11,7 +11,7 @@ ScriptEd Cirriculum
 | **5. String Functions** | 2 |  | Mad Libs | 
 | **6. String Manipulation** | 2  |  | Strings! | 
 | **7. Conditionals** | 2  |  | Number Guesser | 
-| [**8. Arrays & Loops**](other_file.md) | 2  | Students will learn about arrays and random numbers. | Magic 8 Ball | 
+| [**8. Arrays & Loops**](unit/lala.md) | 2  | Students will learn about arrays and random numbers. | Magic 8 Ball | 
 | **9. Hashes & Functions** | 2  |  | ATM | 
 | **10. Version Control** | 1-2  | | 
 
