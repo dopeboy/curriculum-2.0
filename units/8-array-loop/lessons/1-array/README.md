@@ -42,6 +42,35 @@ Someone give me an example of a list in real life. A grocery list contains items
 
 ### Introduction of new material ("I do")
 
+####Create an empty array: 
+
+```
+var teams=[];
+```
+
+####Create and initialize an array: 
+
+```
+var teams=["lakers", "nets", "knicks"];
+```
+
+####Access an element of an array: 
+
+```
+teams[0]
+```
+
+prints out `lakers`
+
+```
+teams[2]
+```
+
+prints out `knicks`
+
+####Change an element of an array: 
+
+
 ### Guided practice ("We do")
 
 ### Independent practice ("You do")
