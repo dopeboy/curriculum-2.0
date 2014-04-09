@@ -17,7 +17,7 @@ Students will be able to create, initialize, access, and manipulate arrays.
 
 ### Assessment
 
-Completion of exit-ticket quiz.
+Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
 ### Vocabulary
 
@@ -25,6 +25,7 @@ Completion of exit-ticket quiz.
 * Index
 * Length
 * Access
+* Datastructure
 
 ## During class
 
@@ -33,6 +34,14 @@ Completion of exit-ticket quiz.
 1. Attendance: http://scripted.org/attendance.
 2. TODO: some small quiz that tests students on previous lesson.
 
-### Opening
+### Opening + Hook
 
-Today we will be learning arrays. This is important because 
+Today we will learn about arrays. This is important because arrays are a tool that programmers can use to store and change a large set of data. It connects to what we've previously learned because we will be able to access and manipulate variables that are stored in an array.
+
+Someone give me an example of a list in real life. A grocery list contains items that I need to buy when I go shopping. A parking lot contains a list of cars that are parked. Have we seen lists before? A string is actually a list too! It's a list of characters strung together.
+
+### Introduction of new material ("I do")
+
+### Guided practice ("We do")
+
+### Independent practice ("You do")
