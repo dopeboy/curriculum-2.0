@@ -3,7 +3,7 @@ ScriptEd Cirriculum
 ####Semester I
 
 | Unit | Lessons | Focus | Final Project | 
-|---------|:------|:----|:---|:----------|
+|----|:------|:----|:---|:-------------|
 | [**Introduction**](https://github.com/ScriptEdcurriculum/curriculum/blob/master/lessons/01_Introductory%20Lesson/Teacher_Notes.md)| 1 | Students will understand program goals. | N/A | N/A |
 |  [**HTML & CSS**](https://github.com/ScriptEdcurriculum/curriculum/tree/master/lessons/02-05_html_css)| 4 | Students will create a simple webpage  using HTML markup. | About Me Page |
 |  [**CSS**] (https://github.com/ScriptEdcurriculum/curriculum/tree/master/lessons/07_color_block_lesson)| 2 | Students will understand positioning and divs. | Color Block Activity | 
