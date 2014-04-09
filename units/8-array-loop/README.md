@@ -5,9 +5,9 @@ This lesson introduces arrays and loops to our students. Students will learn how
 
 ##Lessons
 
-1. [Arrays](lesson-1-
-2. Loops
-3. Final Project
+1. [Arrays](lessons/1-array)
+2. Loops(lessons/2-loop)
+3. Final Project(lessons/3-finalproject)
 
 ##Vocabulary
 sdfsdf
