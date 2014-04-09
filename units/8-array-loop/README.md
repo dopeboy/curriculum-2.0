@@ -9,9 +9,6 @@ This lesson introduces arrays and loops to our students. Students will learn how
 2. [Loops](lessons/2-loop)
 3. [Final Project](lessons/3-finalproject)
 
-##Vocabulary
-sdfsdf
-
 ##Standards
 ###CPP.L2-05 I
 1. Student	can	use	``while``	and	``for``	loops	and	avoid	infinite	loops.
