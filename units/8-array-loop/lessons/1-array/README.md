@@ -137,3 +137,8 @@ Today you learned about arrays. This is important because arrays can be used to 
 #### Homework
 
 [Link to homework](homework/)
+
+## After class
+
+* Grade do-now & exit-ticket. Record in class spreadsheet.
+* Prepare for next lesson / hand off to next volunteer in rotation.
