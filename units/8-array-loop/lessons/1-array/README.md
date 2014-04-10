@@ -14,6 +14,7 @@ Students will be able to create, initialize, access, and manipulate arrays.
 * Arrays are made up of elements. These are like buckets that store something.
 * Each element in an array has an index. We access elements by using these indicies.
 * Arrays have a size.
+* Computers start counting at 0.
 
 ### Assessment
 
@@ -42,29 +43,85 @@ Someone give me an example of a list in real life. A grocery list contains items
 
 ### Introduction of new material ("I do")
 
-####Create and initialize an array: 
+####Create and initialize an array
 
 ```
 var fruits=["banana", "watermelon", "apple"];
 ```
 
-####Access and print the first element of our array: 
+####Access and print an element of an array
 
 ```
-teams[0]
+console.log(fruits[0]);
 ```
 
-prints out `banana`. Here, `0` is the index. Wait. If we're accessing the first element of an array, why is our index `1` and not `0`? This is because computers start counting at 0, not 1. 
+This prints out `banana`. Here, `0` is the index. Wait. If we're accessing the first element of an array, why is our index `1` and not `0`? This is because computers start counting at 0, not 1. 
+
+What if we wanted to access and print the second element of our array?
 
 ```
-teams[2]Here, `0` is the index. Wait. If we're accessing the first element of an array, why is our index `1` and not `0`? This is because computers start counting at 0, not 1. 
+console.log(fruits[1]);
+``` 
+
+This prints out `watermelon`. 
+
+And how about the third and last element of our array?
+
+```
+console.log(console.log(fruits[2]);
 ```
 
-prints out `apple`
+This prints out `apple`. 
 
-####Change an element of an array: 
+
+####Change an element of an array
+
+Let's change the first element of our array and then print it.
+
+```
+fruits[0] = "mango"
+console.log(teams[1])
+```
+
+This prints out `mango`.
+
+####Find and print the size of an array
+
+Let's talk about the size of an array. How big is our array? Let's use JavaScript to find out:
+
+``console.log(teams.length);``
+
+Tjis prints out `3`. What's the index of the last element in our array? How is connected to the length of it? What can we always conclude about the two?
 
 
 ### Guided practice ("We do")
 
+Now we're going to work with arrays together. 
+
+``var vegetables=["broccili", "kale", "tomato"]``
+
+* How do I print out the second element?
+* How do I change the first element?
+* How do I find the length of our array?
+* How do I find the last element in our array?
+* How do I find the last element in any array?
+
 ### Independent practice ("You do")
+
+TODO: fill in some exercise
+
+#### Exit ticket
+
+TODO: link to exit ticket
+
+### Closing
+
+Today you learned about arrays. This is important because arrays can be used to represent lists. We can store multiple variables in one array.
+
+#### Homework
+
+##### What is due
+
+##### By when
+
+##### How will it be turned in
