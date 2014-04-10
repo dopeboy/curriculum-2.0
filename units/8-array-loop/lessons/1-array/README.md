@@ -36,7 +36,7 @@ Students will show progress toward reaching the objective based on their perform
 ### Do-now
 
 1. Attendance: http://scripted.org/attendance.
-2. Write quiz based off of [assessments from previous lesson](../../7-conditionals/lessons/1-conditionals/assessments/)
+2. Do-now quiz
 
 ### Opening
 
@@ -128,16 +128,12 @@ TODO: fill in some exercise
 
 #### Exit ticket
 
-Compose exit ticket based off 
+Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about arrays. This is important because arrays can be used to represent lists. We can store multiple variables in one array.
+Today you learned about arrays. This is important because arrays can be used to represent lists. We can store multiple variables in one array. Arrays are another tool in our programmer's toolbox. We can use arrays to solve interesting problems.
 
 #### Homework
 
-##### What is due
-
-##### By when
-
-##### How will it be turned in
+[Link to homework](homework/)
