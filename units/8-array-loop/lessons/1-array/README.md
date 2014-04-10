@@ -34,7 +34,7 @@ Students will show progress toward reaching the objective based on their perform
 1. Attendance: http://scripted.org/attendance.
 2. TODO: some small quiz that tests students on previous lesson.
 
-### Opening + Hook
+### Opening
 
 Today we will learn about arrays. This is important because arrays are a tool that programmers can use to store and change a large set of data. It connects to what we've previously learned because we will be able to access and manipulate variables that are stored in an array.
 
@@ -42,31 +42,25 @@ Someone give me an example of a list in real life. A grocery list contains items
 
 ### Introduction of new material ("I do")
 
-####Create an empty array: 
-
-```
-var teams=[];
-```
-
 ####Create and initialize an array: 
 
 ```
-var teams=["lakers", "nets", "knicks"];
+var fruits=["banana", "watermelon", "apple"];
 ```
 
-####Access an element of an array: 
+####Access and print the first element of our array: 
 
 ```
 teams[0]
 ```
 
-prints out `lakers`
+prints out `banana`. Here, `0` is the index. Wait. If we're accessing the first element of an array, why is our index `1` and not `0`? This is because computers start counting at 0, not 1. 
 
 ```
-teams[2]
+teams[2]Here, `0` is the index. Wait. If we're accessing the first element of an array, why is our index `1` and not `0`? This is because computers start counting at 0, not 1. 
 ```
 
-prints out `knicks`
+prints out `apple`
 
 ####Change an element of an array: 
 
