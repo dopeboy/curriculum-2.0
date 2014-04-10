@@ -112,12 +112,12 @@ Now we're going to work with arrays together.
 
 ``var vegetables=["broccili", "kale", "tomato"]``
 
-* How do I print out the second element?
-* How do I change the first element?
+* How do I print out the second vegetable?
+* How do I change the first vegetable?
 * How do I find the length of our array?
-* How do I find the last element in our array?
-* How do I find the last element in any array?
-* How do I add one element to our array?
+* How do I find the last vegetable in our array?
+* How do I find the last vegetable in any array?
+* How do I add one vegetable to our array?
 
 ### Independent practice ("You do")
 
