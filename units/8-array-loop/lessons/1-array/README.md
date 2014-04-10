@@ -89,9 +89,21 @@ This prints out `mango`.
 
 Let's talk about the size of an array. How big is our array? Let's use JavaScript to find out:
 
-``console.log(teams.length);``
+``console.log(fruits.length);``
 
 Tjis prints out `3`. What's the index of the last element in our array? How is connected to the length of it? What can we always conclude about the two?
+
+####Add to an array
+
+What if we wanted to add another fruit to our array of fruits? We could do:
+
+```
+fruits.push("kiwi");
+console.log("fruits[3]");
+console.log(fruits.length);
+```
+
+This prints out `kiwi` and `4`. The `push()` function acts *on* an array. It takes in one parameter and then adds it to the end of the array.
 
 
 ### Guided practice ("We do")
@@ -105,6 +117,7 @@ Now we're going to work with arrays together.
 * How do I find the length of our array?
 * How do I find the last element in our array?
 * How do I find the last element in any array?
+* How do I add one element to our array?
 
 ### Independent practice ("You do")
 
