@@ -117,7 +117,7 @@ This prints out `kiwi` and `4`. The `push()` function acts *on* an array. It tak
 
 Now we're going to work with arrays together. 
 
-``var vegetables=["broccili", "kale", "tomato"]``
+``var vegetables=["broccoli", "kale", "tomato"]``
 
 * How do I print out the second vegetable?
 * How do I change the first vegetable?
