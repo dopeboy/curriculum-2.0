@@ -18,6 +18,9 @@ Students will be able to create, initialize, access, and manipulate arrays.
 
 ### Assessment
 
+1. Write do-now based off of [assessments from previous lesson](../../7-conditionals/lessons/1-conditionals/assessments/)
+2. Write exit-ticket based off [assessments form current lesson](assessments/)
+
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
 ### Vocabulary
@@ -33,7 +36,7 @@ Students will show progress toward reaching the objective based on their perform
 ### Do-now
 
 1. Attendance: http://scripted.org/attendance.
-2. TODO: some small quiz that tests students on previous lesson.
+2. Write quiz based off of [assessments from previous lesson](../../7-conditionals/lessons/1-conditionals/assessments/)
 
 ### Opening
 
@@ -80,7 +83,7 @@ Let's change the first element of our array and then print it.
 
 ```
 fruits[0] = "mango"
-console.log(teams[1])
+console.log(fruits[0])
 ```
 
 This prints out `mango`.
@@ -125,7 +128,7 @@ TODO: fill in some exercise
 
 #### Exit ticket
 
-TODO: link to exit ticket
+Compose exit ticket based off 
 
 ### Closing
 
