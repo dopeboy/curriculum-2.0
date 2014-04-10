@@ -18,8 +18,8 @@ Students will be able to create, initialize, access, and manipulate arrays.
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../7-conditionals/lessons/1-conditionals/assessments/)
-2. Write exit-ticket based off [assessments form current lesson](assessments/)
+1. Write do-now based off of [assessments from previous lesson](../../7-conditionals/lessons/1-conditionals/assessments/).
+2. Write exit-ticket based off [assessments form current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
@@ -30,6 +30,10 @@ Students will show progress toward reaching the objective based on their perform
 * Length
 * Access
 * Datastructure
+
+### References
+
+* http://www.w3schools.com/jsref/jsref_obj_array.asp
 
 ## During class
 
