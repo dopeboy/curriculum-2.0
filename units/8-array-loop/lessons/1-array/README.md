@@ -124,7 +124,7 @@ Now we're going to work with arrays together.
 
 ### Independent practice ("You do")
 
-TODO: fill in some exercise
+Write a list of your five favorite songs. Then do everything we did with vegetables for your array of songs.
 
 #### Exit ticket
 
