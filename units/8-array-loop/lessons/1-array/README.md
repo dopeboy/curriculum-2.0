@@ -142,6 +142,8 @@ Today you learned about arrays. This is important because arrays can be used to 
 
 [Link to homework](homework/)
 
+Remind students when homework is due and how it will be collected.
+
 ## After class
 
 * Grade do-now & exit-ticket. Record in class spreadsheet.
