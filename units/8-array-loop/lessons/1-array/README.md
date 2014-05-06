@@ -45,7 +45,7 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Opening
 
-Today we will learn about arrays. This is important because arrays are a tool that programmers can use to store and change a large set of data. It connects to what we've previously learned because we will be able to access and manipulate variables that are stored in an array.
+Today we will learn about arrays. This is important because arrays are a tool that programmers can use to store a large set of data. It connects to what we've previously learned because we will be able to access and manipulate variables that are stored in an array.
 
 Someone give me an example of a list in real life. A grocery list contains items that I need to buy when I go shopping. A parking lot contains a list of cars that are parked. Have we seen lists before? A string is actually a list too! It's a list of characters strung together.
 
