@@ -39,8 +39,9 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Do-now
 
-1. Attendance: http://scripted.org/attendance.
-2. Do-now quiz
+1. Attendance: http://scripted.org/attendance
+2. Return graded do-now and exit ticket from previous class
+3. Do-now quiz
 
 ### Opening
 
