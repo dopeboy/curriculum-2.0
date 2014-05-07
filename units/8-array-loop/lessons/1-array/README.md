@@ -101,9 +101,21 @@ Let's talk about the size of an array. How big is our array? Let's use JavaScrip
 
 Tjis prints out `3`. What's the index of the last element in our array? How is connected to the length of it? What can we always conclude about the two?
 
-####Add to an array
+####Add to the beginning of an array
 
-What if we wanted to add another fruit to our array of fruits? We could do:
+What if we want to add another fruit to the beginning of our array of fruits? We could do:
+
+```
+fruits.unshift("strawberry");
+console.log("fruits[0]");
+console.log(fruits.length);
+```
+
+This prints out `strawberry` and `4`. The `unshift()` function acts *on* an array. Here, it takes in one parameter and then adds it to the beginning of the array.
+
+####Add to the end of an array
+
+What if we want to add another fruit to the end of our array of fruits? We could do:
 
 ```
 fruits.push("kiwi");
@@ -111,7 +123,65 @@ console.log("fruits[3]");
 console.log(fruits.length);
 ```
 
-This prints out `kiwi` and `4`. The `push()` function acts *on* an array. It takes in one parameter and then adds it to the end of the array.
+This prints out `kiwi` and `4`. The `push()` function acts *on* an array. Here, it takes in one parameter and then adds it to the end of the array.
+
+####Remove from the beginning of an array
+
+What if we want to remove the first fruit from our array? We could do:
+
+```
+var fruit = fruits.shift();
+console.log(fruit);
+console.log(fruits.length);
+```
+
+This prints out `banana` and `2`. The `shift()` function acts *on* an array. It removes *and* returns the first element in an array.
+
+####Remove from the end of an array
+
+What if we want to remove the last fruit from our array? We could do:
+
+```
+var fruit = fruits.pop();
+console.log(fruit);
+console.log(fruits.length);
+```
+
+This prints out `apple` and `2`. The `pop()` function acts *on* an array. It removes *and* returns the last element in an array.
+
+####Select part of an array
+
+What if we want to just get the second and third fruits from our array? We could:
+
+```
+var last_two = fruits.slice(1, 2);
+console.log(last_two);
+console.log(fruits.length);
+```
+
+This prints out `["watermelon","apple"]` and `3`. The `slice()` function acts *on* an array. It takes two parameters--the starting and ending index--and returns all of the elements on and between those indicies. Note that it leaves the original array untouched which is why the size of the `fruits` array remains 3.
+
+####Concatenate two arrays together
+What if we want to concatenate (or join) two separate arrays together into one big array? We could:
+
+```
+var more_fruits = ["blackberry", "grape", "pineapple"];
+var all_fruits = fruits.concat(more_fruits);
+console.log(all_fruits);
+console.log(fruits.length);
+console.log(more_fruits.length);
+```
+
+This prints out `["banana", "watermelon", "apple", "blackberry", "grape", "pineapple"]`, `3`, `3`. The `concat()` function acts *on* an array. Here, it takes one parameter, another array, and appends it to the end of the first array. Note that it leaves both original arrays untouched which is why the size of the `fruits` and `more_fruits` arrays remain 3.
+
+####Join all elements into a string
+What if we want to print every element in an array concatenated together as a string? We could:
+
+```
+console.log(fruits.join());
+```
+
+This prints out `banana, watermelon, apple`. The `join()` function acts *on* an array and prints each element with a comma.
 
 
 ### Guided practice ("We do")
