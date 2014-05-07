@@ -51,10 +51,32 @@ Let's talk about an example involving a machine.How does a metro station work? I
 
 ### Introduction of new material ("I do")
 
-####Create and initialize an array
+####Create, initialize, and change a boolean variable
 
 ```
-var fruits=["banana", "watermelon", "apple"];
+var hungry = true;
+var full = false;
+```
+
+This is an example of two boolean typed variables. Boolean variables can only be set to one of two values: true or false. Let's print these variables:
+
+```
+console.log(hungry);
+console.log(full);
+```
+
+returns:
+
+```
+true
+false
+```
+
+Suppose we were no longer hungry. We could do:
+
+```
+hungry = false;
+full = true;
 ```
 
 ####Access and print an element of an array
