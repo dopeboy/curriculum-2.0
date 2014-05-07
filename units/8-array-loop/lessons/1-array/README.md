@@ -216,7 +216,7 @@ Write an array containing your five favorite songs.
 6. Add one song to the end of your array.
 7. Remove one song from the beginning of your array.
 8. Remove one song from the end of your array.
-9. Select the first two songs from your array?
+9. Select the first two songs from your array.
 10. Make another songs array. Concatenate it to  your original array.
 11. Print each song in your array without having to access each one individually.
 
