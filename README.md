@@ -10,7 +10,7 @@ ScriptEd Cirriculum
 | **4. JavaScript** | 4 |  | Tip Calculator | 
 | **5. String Functions** | 2 |  | Mad Libs | 
 | **6. String Manipulation** | 2  |  | Strings! | 
-| **7. Conditionals** | 2  |  | Number Guesser | 
+| [**7. Conditionals**](units/7-conditional/) | 2  |  | Number Guesser | 
 | [**8. Arrays & Loops**](units/8-array-loop/) | 3  | Students will learn about arrays and `while` / `for` loops. | Magic 8 Ball | 
 | **9. Hashes & Functions** | 2  |  | ATM | 
 | **10. Version Control** | 1-2  | | 
