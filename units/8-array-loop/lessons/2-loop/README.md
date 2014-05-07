@@ -99,6 +99,25 @@ Let's also break this down line-by-line:
 
 Based off this, we can say the loop's body ran two times or went through two **iterations**. Notice that the value of the last printed `i` is one less than the number in the condition.
 
+####Infinite `while` loop
+
+What happens if we do not include the `i=i+1` line? Something like: 
+
+```
+var i=0;
+
+while(i < 2)
+{
+  console.log(i);
+}
+
+console.log("Loop terminated");
+```
+
+After the first iteration of the loop, `i` will not be change. In fact, `i` will never change! Thus, the `i<2` condition will always be true. This means the loop will run forever. Your program will freeze, or halt, and the `Loop terminated` statement will never run.
+
+This is bad and we want to avoid these by making sure we are changing our index so that the exit condition is eventually true.
+
 
 ####Create a `for` loop
 ```
