@@ -116,7 +116,7 @@ Let's run through this code line-by-line too. [Repeat above exercise]
 
 #####Repeat operations
 
-Suppose I wanted to print the sequence 0 to 100, I could do that using:
+Suppose I want to print the sequence 0 to 100, I could do that using:
 
 ```
 console.log("0");
@@ -138,8 +138,6 @@ for (var i=0; i<101; i=i+1)
 {
   console.log(i);
 }
-
-console.log("Loop terminated");
 ```
 
 This prints:
@@ -152,6 +150,9 @@ This prints:
 ...
 100
 ```
+
+In four lines, we accomplished with a loop something that would have taken 101 lines without a loop!
+
 
 ####`break` and `return`
 What if we wanted to exit the loop before the exit condition was met? We could do this by doing the following:
@@ -262,15 +263,21 @@ Loop terminated
 
 Now we're going to work with loops together. 
 
-1. How do I write a `while` loop that iterates 5 times and prints the value of the index each time?
-2. How do I take (1) and convert it to a `for` loop?
-3. How do I take (2) and have it terminate after only 3 iterations using a `break` statement?
-4. How do I take (2) and have it skip the third iteration using a `continue` statement?
-5. Let's write an array full of 7 vegetables. How do I write a `for` loop that prints out each vegetable?
+1. How do I write a `while` loop that prints "Justin Bieber" 10 times?
+2. How do I write a `while` loop that iterates 5 times and prints out the sequence 0 to 4?
+3. How do I take (2) and convert it to a `for` loop?
+4. How do I take (3) and have it terminate after only 3 iterations using a `break` statement?
+5. How do I take (3) and have it skip the third iteration using a `continue` statement?
+6. Let's write an array full of 7 vegetables. How do I write a `for` loop that prints out each vegetable?
 
 ### Independent practice ("You do")
 
-Write a list of your five favorite songs. Then repeat everything that we did with our vegetables with your array of songs.
+1. Write a `while` loop that prints "Lady GaGa" 15 times.
+2. Write a `while` loop that iterates 8 times and prints out the sequence 0 to 7.
+3. Take (2) and convert it to a `for` loop.
+4. Take (3) and have it terminate after only 4 iterations using a `break` statement.
+5. Take (3) and have it skip the fifth iteration using a `continue` statement.
+6. Write an array full of 8 vegetables. Write a `for` loop that prints out each vegetable.
 
 #### Exit ticket
 
