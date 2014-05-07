@@ -1,12 +1,12 @@
 #Lesson 1 - Conditionals
 
-![image](http://i.imgur.com/64dLS3B.jpg)
+![image](http://i.imgur.com/ZRo5Z6j.jpg)
 
 ## Before class
 
 ### Objective
 
-Students will be able to create, initialize, access, and manipulate arrays.
+Students will be able to use booleans, conditionals, and logical operators.
 
 ### Key points
 
