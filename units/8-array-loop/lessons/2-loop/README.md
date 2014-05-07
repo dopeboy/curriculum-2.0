@@ -131,7 +131,7 @@ console.log("8");
 ...
 ```
 
-OK this is taking too much time. I'm a programmer and I'm so lazy. We programmers like to do things with the least amount of effort as possible. So let's do this in a loop instead:
+OK this is taking too much time. We programmers like to do things with the least amount of effort as possible. So let's do this in a loop instead:
 
 ```
 for (var i=0; i<101; i=i+1)
