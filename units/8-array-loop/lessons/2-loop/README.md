@@ -285,7 +285,7 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about loops. This is important because loops can be used to repeat an operation. They can also be used to iterate through an array.
+Today you learned about loops. This is important because loops can be used to repeat an operation. They can also be used to iterate through an array. Next, we will work on a project that connects our knowledge of arrays and loops together.
 
 #### Homework
 
