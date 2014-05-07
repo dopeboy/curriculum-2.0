@@ -186,7 +186,9 @@ Let's break this down line-by-line:
 5. Is `i` less than 2? Yes, because 1 is less than 2. Therefore, the condition is true and proceed to execute the body of the loop.
 6. Is `i` equal to 1? No, so skip the `if` statement and go to the next line in the body.
 7. `i` gets printed as 1.
-7. `Loop terminated` gets printed.
+8. `i` gets incremented. It is now equal to 2.
+9. Is `i` less than 2? No, because 2 is not less than 2. Therefore, the condition is false so we must terminate the loop and run the code after it.
+10. `Loop terminated` gets printed.
 
 
 ####Use arrays with loops
