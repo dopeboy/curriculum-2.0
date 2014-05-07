@@ -120,16 +120,22 @@ Now we're going to work with arrays together.
 
 ``var vegetables=["broccoli", "kale", "tomato"]``
 
-* How do I print out the second vegetable?
-* How do I change the first vegetable?
-* How do I find the length of our array?
-* How do I find the last vegetable in our array?
-* How do I find the last vegetable in any array?
-* How do I add one vegetable to our array?
+1. How do I print out the second vegetable?
+2. How do I change the first vegetable?
+3. How do I find the length of our array?
+4. How do I find the last vegetable in our array?
+5. How do I find the last vegetable in any array?
+6. How do I add one vegetable to our array?
 
 ### Independent practice ("You do")
 
-Write a list of your five favorite songs. Then do everything we did with vegetables for your array of songs.
+Write an array containing your five favorite songs.
+
+1. Print out the third song.
+2. Change the first song.
+3. Find the length of your array.
+4. Find the last song in your array.
+5. Add one song to your array.
 
 #### Exit ticket
 
