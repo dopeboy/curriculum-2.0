@@ -8,15 +8,15 @@
 4. Print out every element in the array as a string without accessing each one.
 5. Add ice-cream, salt, and chicken to the beginning of your array.
 6. Add beef, rice, and sugar to the end of your array.
-6. Repeat (3)
-7. Repeat (4)
-8. Remove the first and last items from your array.
-9. Repeat (3)
-10. Repeat (4)
-11. Select the first two items from your array.
-12. You just a call from your parents; they need to bake a cake for this weekend's party. They need flour and cream. Make a separate array containing your parents' items and then concatenate to the end of your list.
-13. Repeat (3)
-14. Repeat (4)
+7. Repeat (3)
+8. Repeat (4)
+9. Remove the first and last items from your array.
+10. Repeat (3)
+11. Repeat (4)
+12. Select the first two items from your array.
+13. You just a call from your parents; they need to bake a cake for this weekend's party. They need flour and cream. Make a separate array containing your parents' items. Then create a final grocery items array that has your parents' array concatenated to the end of your array.
+14. Repeat (3)
+15. Repeat (4)
 
 ## Deliverables
 
