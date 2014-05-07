@@ -226,7 +226,7 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about arrays. This is important because arrays are used to represent lists. We can store multiple variables in one array. Arrays are another tool in our programmer's toolbox. We can use arrays to solve interesting problems.
+Today you learned about arrays. This is important because arrays are used to represent lists. We can store multiple variables in one array. Next, we will learn about loops.
 
 #### Homework
 
