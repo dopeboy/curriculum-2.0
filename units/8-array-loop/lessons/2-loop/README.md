@@ -10,7 +10,7 @@ Students will be able to create ``while`` and ``for`` loops.
 
 ### Key points
 
-* Loops let you repeat the same operation over and over again.
+* Loops let you run the same operation over and over again.
 * Typically, loops go over an array. This is useful when you want to do something with every element in a array.
 * Usually, loops have an exit condition. That is, some criteria will be met that will end the running of the loop.
 * A loop that does not terminate is called an infinite loop. As programmers, we seek to avoid these because they freeze our program.
@@ -46,7 +46,7 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Opening
 
-Today we will learn about loops. This is important because loops are a tool that programmers can use to iterate through an array and process each element in it. It connects to what we've previously learned because we will be able to take advantage of what we know about arrays and conditions to create loops.
+Today we will learn about loops. This is important because loops are a tool that programmers can use to run the same operation over and over again. They are also useful for iterating through an array and processing each element in it. It connects to what we've previously learned because we will be able to take advantage of what we know about arrays and conditions to create loops.
 
 Someone give me an example of a loop in real life. When we take the bus and pay with change, the machine keeps counting every coin we deposit until we run out. The machine also calculates the total amount of money after each coin has been counted to check if we have deposited enough to pay the fare. Once we have, the machine stops counting and we hear a beep so that we know we can stop putting money in.
 
@@ -113,6 +113,45 @@ console.log("Loop terminated");
 This `for` loop performs the same exact operations as the `while` loop above. The only difference is the syntax; `for` loops are more compact and thus require less line of codes. Because we're programmers and we like to do things with the least amount of effort as possible, we prefer to use `for` loops when we can.
 
 Let's run through this code line-by-line too. [Repeat above exercise]
+
+#####Repeat operations
+
+Suppose I wanted to print the sequence 0 to 100, I could do that using:
+
+```
+console.log("0");
+console.log("1");
+console.log("2");
+console.log("3");
+console.log("4");
+console.log("5");
+console.log("6");
+console.log("7");
+console.log("8");
+...
+```
+
+OK this is taking too much time. I'm a programmer and I'm so lazy. We programmers like to do things with the least amount of effort as possible. So let's do this in a loop instead:
+
+```
+for (var i=0; i<101; i=i+1)
+{
+  console.log(i);
+}
+
+console.log("Loop terminated");
+```
+
+This prints:
+
+```
+0
+1
+2
+3
+...
+100
+```
 
 ####`break` and `return`
 What if we wanted to exit the loop before the exit condition was met? We could do this by doing the following:
@@ -223,16 +262,15 @@ Loop terminated
 
 Now we're going to work with loops together. 
 
-* How do I write a loop that iterates 5 times and prints the value of the index each time.
-* How do I take that loop and have it terminate after only 3 iterations using a `break` statement?
-* How do I find the length of our array?
-* How do I find the last vegetable in our array?
-* How do I find the last vegetable in any array?
-* How do I add one vegetable to our array?
+1. How do I write a `while` loop that iterates 5 times and prints the value of the index each time?
+2. How do I take (1) and convert it to a `for` loop?
+3. How do I take (2) and have it terminate after only 3 iterations using a `break` statement?
+4. How do I take (2) and have it skip the third iteration using a `continue` statement?
+5. Let's write an array full of 7 vegetables. How do I write a `for` loop that prints out each vegetable?
 
 ### Independent practice ("You do")
 
-Write a list of your five favorite songs. Then do everything we did with vegetables for your array of songs.
+Write a list of your five favorite songs. Then repeat everything that we did with our vegetables with your array of songs.
 
 #### Exit ticket
 
@@ -240,7 +278,7 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about arrays. This is important because arrays can be used to represent lists. We can store multiple variables in one array. Arrays are another tool in our programmer's toolbox. We can use arrays to solve interesting problems.
+Today you learned about loops. This is important because loops can be used to repeat an operation. They can also be used to iterate through an array.
 
 #### Homework
 
