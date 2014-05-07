@@ -129,7 +129,19 @@ for (var i=0; i<2; i=i+1)
 console.log("Loop terminated");
 ```
 
+#####Explanation
+
+This will cause the loop to run only one iteration. 
+
+#####Output
+
+```
+0
+Loop terminated.
+```
+
 Let's break this down line-by-line:
+
 1. `i` is set to 0.
 2. Is `i` less than 2? Yes, because 0 is less than 2. Therefore, the condition is true and proceed to execute the body of the loop.
 3. Is `i` equal to 1? No, so run the `else` statement. 
@@ -139,16 +151,78 @@ Let's break this down line-by-line:
 6. Is `i` equal to 1? Yes, so run the `break` statement. This exits the loop.
 7. `Loop terminated` gets printed.
 
+####`continue`
+What if we wanted to skip to the next iteration of the loop without running the remaining code in our body? We could do this by doing the following:
 
+```
+for (var i=0; i<2; i=i+1)
+{
+  if (i == 0)
+    continue;
+    
+  console.log(i);
+}
+
+console.log("Loop terminated");
+```
+
+#####Explanation
+
+This will cause the loop to skip printing `i` on the first iteration.
+
+#####Output
+
+```
+1
+Loop terminated.
+```
+
+Let's break this down line-by-line:
+
+1. `i` is set to 0.
+2. Is `i` less than 2? Yes, because 0 is less than 2. Therefore, the condition is true and proceed to execute the body of the loop.
+3. Is `i` equal to 0? Yes, so skip running the rest of the body and proceed to the next iteration of the loop.
+4. `i` gets incremented. It is now equal to 1.
+5. Is `i` less than 2? Yes, because 1 is less than 2. Therefore, the condition is true and proceed to execute the body of the loop.
+6. Is `i` equal to 1? No, so skip the `if` statement and go to the next line in the body.
+7. `i` gets printed as 1.
+7. `Loop terminated` gets printed.
+
+
+####Use arrays with loops
+
+We learned about arrays before. We know they act as lists and store multiple variables. Let's use loops to iterate through each element of an array:
+
+```
+var fruits=["banana", "watermelon", "apple"];
+
+for (var i=0; i<fruits.length; i=i+1)
+{
+    console.log(fruits[i]);
+}
+
+console.log("Loop terminated");
+```
+
+#####Explanation
+
+Notice that we use the `length` property of the `fruits` array which is 3 in this case. That means the loop will run through three iterations before it terminates. The 0, 1, and 2 index of `fruits` will be accessed.
+
+#####Output
+
+```
+banana
+watermelon
+apple
+Loop terminated
+```
 
 ### Guided practice ("We do")
 
-Now we're going to work with arrays together. 
+Now we're going to work with loops together. 
 
-``var vegetables=["broccoli", "kale", "tomato"]``
-
-* How do I print out the second vegetable?
-* How do I change the first vegetable?
+* How do I write a loop that iterates 5 times and prints the value of the index each time.
+* How do I take that loop and have it terminate after only 3 iterations using a `break` statement?
 * How do I find the length of our array?
 * How do I find the last vegetable in our array?
 * How do I find the last vegetable in any array?
