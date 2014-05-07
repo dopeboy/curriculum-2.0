@@ -10,30 +10,28 @@ Students will be able to use booleans, conditionals, and logical operators.
 
 ### Key points
 
-* Lists in real life are arrays in the programming world.
-* Arrays are made up of elements. These are like buckets that store something.
-* Each element in an array has an index. We access elements by using these indicies.
-* Arrays have a size.
-* Computers start counting at 0.
+* Boolean values are either true or false.
+* `if`/`else` statements let us set a condition and execute different code based on whether the condition is met.
+* Logical operators let us test for complex conditions.
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../7-conditionals/lessons/1-conditionals/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../6-string-manipulation/lessons/1-xxx/assessments/).
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
 ### Vocabulary
 
-* Element
-* Index
-* Length
-* Access
-* Datastructure
+* Boolean
+* Condition
+* Logical operator
 
 ### References
 
-* http://www.w3schools.com/jsref/jsref_obj_array.asp
+* http://www.w3schools.com/js/js_obj_boolean.asp
+* http://www.w3schools.com/js/js_if_else.asp
+* http://www.w3ctutorial.com/js-basic/js-comparisons
 
 ## During class
 
@@ -45,9 +43,11 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Opening
 
-Today we will learn about arrays. This is important because arrays are a tool that programmers can use to store a large set of data. It connects to what we've previously learned because we will be able to access and manipulate variables that are stored in an array.
+Today we will learn about boolean values, `if`/`else` statements, and logical operators. This is important because these concepts will allow us to write sophiscated programs that will run in different ways based upon what we input. It connects to what we've previously learned because we will be able test the values of variables we've created in the past and derive a boolean value.
 
-Someone give me an example of a list in real life. A grocery list contains items that I need to buy when I go shopping. A parking lot contains a list of cars that are parked. Have we seen lists before? A string is actually a list too! It's a list of characters strung together.
+Someone give me an example of a use of if/else logic in the real world. If there is milk left in the carton, then you will drink milk. Or else, you will need to go to the store to get milk. If you take a shower, then you will smell good. Or else, you will smell bad.
+
+Let's talk about an example involving a machine.How does a metro station work? If the remaining amount of money on your metro card is less than the fare, then you will see "INSUFFICIENT FARE" printed on the display and the turnstile will stay locked. Or else, the machine will subtract the fare amount from your balance, display it, and unlock the turnstile.
 
 ### Introduction of new material ("I do")
 
