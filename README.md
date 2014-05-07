@@ -2,8 +2,8 @@ ScriptEd Cirriculum
 ===================
 ####Semester I
 
-| Unit  | Lessons  | Final Project | 
-|-------|:-------:|-------------|
+| Unit  | Lessons | Focus | Final Project | 
+|-------|:-------:|------|--------------|
 | **1. Introduction**| 1  | N/A | N/A |
 | **2. HTML & CSS**| 4 | About Me Page |
 | **3. CSS**| 2 |  Color Block Activity | 
@@ -12,7 +12,6 @@ ScriptEd Cirriculum
 | **6. String Manipulation** | 2   | Strings! | 
 | **7. Conditionals** | 2  |  | Number Guesser | 
 | [**8. Arrays & Loops**](units/8-array-loop/) | 3  |
-| **9. Hashes and Functions** | 1-2  | 
 | **10. Version Control** | 1-2  | 
 
 ####Semester II
