@@ -195,7 +195,14 @@ Now we're going to work with arrays together.
 3. How do I find the length of our array?
 4. How do I find the last vegetable in our array?
 5. How do I find the last vegetable in any array?
-6. How do I add one vegetable to our array?
+6. How do I add one vegetable to the beginning of our array?
+7. How do I add one vegetable to the end of our array?
+7. How do I remove one vegetable from the beginning of our array?
+8. How do I remove one vegetable from the end of our array?
+9. How do I select the first two vegetabkes from our array?
+10. Let's make another vegetables array. How do I concatenate it to our original array?
+11. How do I print each vegetable in our array without having to access each one individually?
+
 
 ### Independent practice ("You do")
 
@@ -205,7 +212,13 @@ Write an array containing your five favorite songs.
 2. Change the first song.
 3. Find the length of your array.
 4. Find the last song in your array.
-5. Add one song to your array.
+5. Add one song to the beginning of your array.
+6. Add one song to the end of your array.
+7. Remove one song from the beginning of your array.
+8. Remove one song from the end of your array.
+9. Select the first two songs from your array?
+10. Make another songs array. Concatenate it to  your original array.
+11. Print each song in your array without having to access each one individually.
 
 #### Exit ticket
 
