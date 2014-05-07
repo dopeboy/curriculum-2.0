@@ -2,8 +2,8 @@ ScriptEd Cirriculum
 ===================
 ####Semester I
 
-| Unit  | Lessons | Focus | Final Project | 
-|-------|:-------:|------|--------------|
+| Unit  | Lessons  | Final Project | 
+|-------|:-------:|-------------|
 | **1. Introduction**| 1  | N/A | N/A |
 | **2. HTML & CSS**| 4 | About Me Page |
 | **3. CSS**| 2 |  Color Block Activity | 
