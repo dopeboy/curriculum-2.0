@@ -74,7 +74,7 @@ for (var i=2; i<17; i=i+1)
 // 8
 for (var i=0; i<15; i=i+1)
 {
-  if (i==7)
+  if (i==6)
     break;
   
   console.log(i);
