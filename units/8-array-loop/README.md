@@ -13,7 +13,7 @@ This lesson introduces arrays and loops to our students. Students will learn how
 
 ###CPP.L2-05 I - Arrays
 1. Student can use	arrays:	student	demonstrates	understanding	that	the	first	index	is	0;	student	can	access	elements	of	the array	and	change them;	student	can	find	the	length	of	an array.
-2. Student	can	use	`while`	and	`for`	loops	and	avoid	infinite	loops.
+2. Student can	perform	the	`pop`,	`push`,	`shift`,	`unshift`,	`slice`,	`concat`,	and	`join`	operations	on	arrays.
 
 ###CPP.L2-05 I - Loops
 1. Student can	use	``while``	and	``for``	loops	and	avoid	infinite	loops.
