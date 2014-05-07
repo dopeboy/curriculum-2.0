@@ -154,12 +154,12 @@ This prints out `apple` and `2`. The `pop()` function acts *on* an array. It rem
 What if we want to just get the second and third fruits from our array? We could:
 
 ```
-var last_two = fruits.slice(1, 2);
+var last_two = fruits.slice(1, 3);
 console.log(last_two);
 console.log(fruits.length);
 ```
 
-This prints out `["watermelon","apple"]` and `3`. The `slice()` function acts *on* an array. It takes two parameters--the starting and ending index--and returns all of the elements on and between those indicies. Note that it leaves the original array untouched which is why the size of the `fruits` array remains 3.
+This prints out `["watermelon","apple"]` and `3`. The `slice()` function acts *on* an array. It takes two parameters--the starting and ending index--and returns all of the elements on the first index and between the two indicies. Note that it leaves the original array untouched which is why the size of the `fruits` array remains 3.
 
 ####Concatenate two arrays together
 What if we want to concatenate (or join) two separate arrays together into one big array? We could:
