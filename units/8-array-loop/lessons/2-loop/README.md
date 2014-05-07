@@ -6,7 +6,7 @@
 
 ### Objective
 
-Students will be able to create ``while`` and ``for`` loops.
+Students will be able to create ``while`` and ``for`` loops. Students will be able to take repeatable tasks and convert them to loops. Students will be able to iterate through an array using loops.
 
 ### Key points
 
