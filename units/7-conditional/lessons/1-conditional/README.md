@@ -58,7 +58,7 @@ var hungry = true;
 var full = false;
 ```
 
-This is an example of two boolean typed variables. Boolean variables can only be set to one of two values: true or false. Let's print these variables:
+This is an example of two boolean typed variables. **Boolean** variables can only be set to one of two values: true or false. Let's print these variables:
 
 ```
 console.log(hungry);
@@ -72,36 +72,30 @@ true
 false
 ```
 
-Suppose we were no longer hungry. We could do:
+Suppose we were no longer hungry. We can change the values of the variables:
 
 ```
 hungry = false;
 full = true;
 ```
 
-####Access and print an element of an array
+####Conditionals
+
+**Conditionals** let us set a criteria and run different code based upon whether the criteria is met or not. Let's look at an example:
 
 ```
-console.log(fruits[0]);
+if (1 == 1)
+{
+  console.log("1 equals 1!");
+}
+
+else
+{
+  console.log("1 does not equal 1!");
+}
 ```
 
-This prints out `banana`. Here, `0` is the index. Wait. If we're accessing the first element of an array, why is our index `1` and not `0`? This is because computers start counting at 0, not 1. 
-
-What if we wanted to access and print the second element of our array?
-
-```
-console.log(fruits[1]);
-``` 
-
-This prints out `watermelon`. 
-
-And how about the third and last element of our array?
-
-```
-console.log(console.log(fruits[2]);
-```
-
-This prints out `apple`. 
+Let's break this down line-by-line. On the first line, we check 
 
 
 ####Change an element of an array
