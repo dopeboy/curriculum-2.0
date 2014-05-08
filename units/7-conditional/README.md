@@ -1,7 +1,7 @@
 #Unit 7 - Conditionals
 
 ##Synopsis
-This lessons introduces the concept of booleans, `if/else` statements, and logical operators. Students will learn how to create, set, and test boolean typed variables. They will learn how to use conditional statements. They will also learn how to use the `&&`, `||`, and `!` logical operators.
+This lessons introduces the concept of booleans, `if/else` statements, comparison operators, and logical operators. Students will learn how to create, set, and test boolean typed variables. They will learn how to use conditional statements. They will learn the basic comparison operators along with the `&&`, `||`, and `!` logical operators.
 
 ##Lessons
 
