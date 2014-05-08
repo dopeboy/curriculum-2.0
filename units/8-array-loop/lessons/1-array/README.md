@@ -199,7 +199,7 @@ Now we're going to work with arrays together.
 7. How do I add one vegetable to the end of our array?
 7. How do I remove one vegetable from the beginning of our array?
 8. How do I remove one vegetable from the end of our array?
-9. How do I select the first two vegetabkes from our array?
+9. How do I select the first two vegetables from our array?
 10. Let's make another vegetables array. How do I concatenate it to our original array?
 11. How do I print each vegetable in our array without having to access each one individually?
 
