@@ -67,7 +67,7 @@ console.log(hungry);
 console.log(full);
 ```
 
-returns:
+prints:
 
 ```
 true
