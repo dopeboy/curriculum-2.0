@@ -117,7 +117,7 @@ In this case, 1 is not equal to 2. The condition in the `if` statement is false.
 
 ##### `if` `else`
 
-What if we want to do one thing if our condition is true and another thing if our condition is false? We could:
+What if we want to do one thing if our condition is true or another thing if our condition is false? We could:
 
 ```
 if (1 == 2)
@@ -139,9 +139,33 @@ Thus, we see the following printed:
 1 does not equal 2!
 ```
 
+##### `else if`
+
+What if we wanted to do one thing if it met a certain condition or another thing if it met a separate condition? We could:
+
+```
+if (1 == 2)
+{
+  console.log("1 equals 2!");
+}
+
+else if (3 == 3)
+{
+  console.log("3 equals 3!");
+}
+```
+
+In this case, the `if` statement's condition is false. Therefore, we check the `else if` condition. Because 3 does equal 3, we see the following printed:
+
+```
+3 equals 3!
+```
+
+
 ##### More comparison operators
 
 To see the full list of comparison operators, go [here](http://www.w3schools.com/js/js_comparisons.asp).
+
 
 
 
