@@ -304,7 +304,7 @@ Write two boolean variables and initialize them to `false`. Name the variables "
 5. Print out "I might be Woody or Buzz" if either `woody` or `buzz` is true.
 6. Change the value of `buzz` to true.
 7. Print out "I am Andy's favorite" if both `woody` and `buzz` are true.
-8. Suppose we're building a website for Ken, Barbie, & Big Baby. We want to find out who of those three is using our website. We first need to ask them whether they are an adult. If they are an adult, we need to ask them their gender. Write code that does this and prints out who they are.
+8. Suppose you're building a website for Ken, Barbie, & Big Baby. You want to find out who of those three is using your website. We first need to ask them whether they are an adult. If they are an adult, we need to ask them their gender. Write code that does this and prints out who they are.
 
 #### Exit ticket
 
