@@ -45,7 +45,7 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Opening
 
-Today we will learn about boolean values, `if`/`else` statements, and logical operators. This is important because these concepts will allow us to write sophiscated programs that will run in different ways based upon what we input. It connects to what we've previously learned because we will be able test the values of variables we've created in the past and derive a boolean value.
+Today we will learn about boolean values, `if`/`else` statements, comparison operators, and logical operators. This is important because these concepts will allow us to write sophiscated programs that will run in different ways based upon what we input. It connects to what we've previously learned because we will be able test the values of variables we've created in the past and derive a boolean value.
 
 Someone give me an example of a use of if/else logic in the real world. If there is milk left in the carton, then you will drink milk. Or else, you will need to go to the store to get milk. If you take a shower, then you will smell good. Or else, you will smell bad.
 
