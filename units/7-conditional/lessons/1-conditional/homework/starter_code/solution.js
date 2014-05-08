@@ -1,3 +1,10 @@
+console.log("**********START OF EXERCISE 1**********");
+
+// Put code here
+
+console.log("**********END OF EXERCISE 1**********");
+
+
 console.log("**********START OF EXERCISE 2**********");
 
 // Put code here
