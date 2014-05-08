@@ -81,7 +81,7 @@ hungry = false;
 full = true;
 ```
 
-####Conditionals
+####Conditionals with comparison operators
 
 ##### True `if`
 
@@ -161,13 +161,52 @@ In this case, the `if` statement's condition is false. Therefore, we check the `
 3 equals 3!
 ```
 
-
 ##### More comparison operators
 
 To see the full list of comparison operators, go [here](http://www.w3schools.com/js/js_comparisons.asp).
 
+####Conditionals with logical operators
 
+#####``&&``
 
+What if we want to test for more complex conditions in our `if` statements? Consider the following example:
+
+```
+var tail = prompt("Do you have a tail?");
+var color = prompt("What color are you?");
+
+if (tail == "Yes" && color == "Green")
+{
+  console.log("You are Rex, the dinosaur.");
+}
+
+else if (tail == "Yes" && color == "Brown")
+{
+  console.log("You are Slinky, the dog.");
+}
+
+```
+
+Let's start at line 5. Here, we are testing for three conditions to be true. The `&&` stands for "and." In order for the body of the `if` statement to run, both conditions must be true. That is, the user must have entered "Yes" and then "Green" in order for `You are Rex, the dinosaur` to print. If this doesn't happen, the same rules apply to the proceeding `else if` statement.
+
+#####``||``
+
+Similarly, we can use the ``||`` to act as an "or." Consider the following example:
+
+```
+var tail = prompt("Do you have a tail?");
+
+if (name == "Buzz Lightyear" && fly == "Yes" && hat == "No")
+{
+  console.log("To infinity, and beyond!");
+}
+
+else if (name == "Sheriff Woody" && fly == "No" && hat == "Yes")
+{
+  console.log("There's a snake in my boot!");
+}
+
+```
 
 
 ### Guided practice ("We do")
