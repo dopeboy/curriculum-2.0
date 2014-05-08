@@ -268,23 +268,20 @@ Write two boolean variables and initialize them to `false`. Name the variables "
 5. How do I print out "I might be an elephant or a mouse" if either `elephant` or `mouse` is true?
 6. How do I change the value of `mouse` to true?
 7. How do I print out "I have a tail" if both `elephant` and `mouse` are true?
-8. 
+8. Suppose we're building a website for Nemo, Dory, (both fishes) and Bruce (shark). We want to find out who of those three is using our website. We first need to ask them whether they are a fish. If they are a fish, we need to ask them what color they are. How do I write code that does this and prints out who they are?
 
 ### Independent practice ("You do")
 
-Write an array containing your five favorite songs.
+Write two boolean variables and initialize them to `false`. Name the variables "woody" and "buzz."
 
-1. Print out the third song.
-2. Change the first song.
-3. Find the length of your array.
-4. Find the last song in your array.
-5. Add one song to the beginning of your array.
-6. Add one song to the end of your array.
-7. Remove one song from the beginning of your array.
-8. Remove one song from the end of your array.
-9. Select the first two songs from your array.
-10. Make another songs array. Concatenate it to  your original array.
-11. Print each song in your array without having to access each one individually.
+1. Print out the values of both variables.
+2. Change the value of the `woody` variable to `true`.
+3. Print out "I am a Woody. There's a snake in my boot!" if the value of `woody` is `true`.
+4. Print out "I am not a Buzz. Can't go to infinity and beyond!" if the value of `buzz` is `false`.
+5. Print out "I might be Woody or Buzz" if either `woody` or `buzz` is true.
+6. Change the value of `buzz` to true.
+7. Print out "I am Andy's favorite" if both `woody` and `buzz` are true.
+8. Suppose we're building a website for Ken, Barbie, & Big Baby. We want to find out who of those three is using our website. We first need to ask them whether they are an adult. If they are an adult, we need to ask them their gender. Write code that does this and prints out who they are.
 
 #### Exit ticket
 
@@ -292,7 +289,7 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about arrays. This is important because arrays are used to represent lists. We can store multiple variables in one array. Next, we will learn about loops.
+Today you learned about booleans, conditionals, logical, and comparison operators. This is important because these tools enable us to write sophiscated code that can run in different ways based upon the criteria we set. Next, we will learn about hashes and functions. 
 
 #### Homework
 
