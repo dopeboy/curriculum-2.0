@@ -92,14 +92,9 @@ if (1 == 1)
 {
   console.log("1 equals 1!");
 }
-
-else
-{
-  console.log("1 does not equal 1!");
-}
 ```
 
-Let's break this down line-by-line. On the first line, we check for equality by using the ``==`` **comparison operator**. This operator checks if the left side is equal to the right side. Because 1 is equal to 1, this condition is true. Therefore, the body of the `if` statement is executed. Because the condition in the `if` statement is true, the body of the `else` statement is never executed.
+Let's break this down line-by-line. On the first line, we check for equality by using the ``==`` **comparison operator**. This operator checks if the left side is equal to the right side. Because 1 is equal to 1, this condition is true. Therefore, the body of the `if` statement is executed. 
 
 Thus, we see the following printed:
 
@@ -109,7 +104,20 @@ Thus, we see the following printed:
 
 ##### False `if`
 
-What if the condition in the `if` statement were true? Something like:
+What if the condition in the `if` statement were false? Something like:
+
+```
+if (1 == 2)
+{
+  console.log("1 equals 2!");
+}
+```
+
+In this case, 1 is not equal to 2. The condition in the `if` statement is false. Therefore, the body of the `if` statement is never executed and we see nothing printed!
+
+##### `if` `else`
+
+What if we want to do one thing if our condition is true and another thing if our condition is false? We could:
 
 ```
 if (1 == 2)
@@ -123,7 +131,7 @@ else
 }
 ```
 
-In this case, 1 is not equal to 2. The condition in the `if` statement is false. Therefore, the body of the `else` statement runs. 
+In this case, 1 is not equal to 2. The condition in the `if` statement is false. Therefore, the body of the `else` statement runs.
 
 Thus, we see the following printed:
 
