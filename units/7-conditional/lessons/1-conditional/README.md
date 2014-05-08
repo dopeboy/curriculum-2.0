@@ -169,6 +169,29 @@ To see the full list of comparison operators, go [here](http://www.w3schools.com
 
 ####Conditionals with logical operators
 
+#####``!``
+
+Suppose we have two variables and we want to check that they do not equal each other. We can do this:
+
+```
+var x = 1;
+var y = 2;
+
+if (!(x == y))
+{
+  console.log("x does not equal y");
+}
+
+// OR
+
+if (x != y)
+{
+  console.log("x does not equal y");
+}
+```
+
+Both `if` statements are equivalent.
+
 #####``&&``
 
 What if we want to test for more complex conditions in our `if` statements? Consider the following example:
