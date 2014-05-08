@@ -14,6 +14,7 @@ Students will be able to use booleans, conditionals, and logical operators.
 * `if`/`else` statements let us set a condition and execute different code based on whether the condition is met.
 * Comparison operators let us test for equality or difference..
 * Logical operators let us test for complex conditions.
+* We can put conditionals inside other conditionals; this is called nesting.
 
 ### Assessment
 
@@ -28,6 +29,7 @@ Students will show progress toward reaching the objective based on their perform
 * Condition
 * Comparison operator
 * Logical operator
+* Nesting
 
 ### References
 
@@ -187,47 +189,86 @@ else if (tail == "Yes" && color == "Brown")
 
 ```
 
-Let's start at line 5. Here, we are testing for three conditions to be true. The `&&` stands for "and." In order for the body of the `if` statement to run, both conditions must be true. That is, the user must have entered "Yes" and then "Green" in order for `You are Rex, the dinosaur` to print. If this doesn't happen, the same rules apply to the proceeding `else if` statement.
+Let's start at line 5. Here, we are testing for both conditions to be true. The `&&` **logical operator** stands for "and." In order for the body of the `if` statement to run, both conditions must be true. That is, the user must have entered "Yes" and then "Green" in order for `You are Rex, the dinosaur` to print. If this doesn't happen, the same rules apply to the proceeding `else if` statement.
 
 #####``||``
 
-Similarly, we can use the ``||`` to act as an "or." Consider the following example:
+Similarly, we can use the ``||`` logical operator to act as an "or." Consider the following example:
 
 ```
-var tail = prompt("Do you have a tail?");
+var hat = prompt("Do you wear a hat?");
+var boots = prompt("Do you wear boots?");
 
-if (name == "Buzz Lightyear" && fly == "Yes" && hat == "No")
+
+if (hat == "Yes" || boots == "Yes")
 {
-  console.log("To infinity, and beyond!");
+  console.log("You are Sheriff Woody. There's a snake in my boot!");
 }
 
-else if (name == "Sheriff Woody" && fly == "No" && hat == "Yes")
+else
 {
-  console.log("There's a snake in my boot!");
+  console.log("I don't know who you are.");
 }
-
 ```
 
+Let's break this down line-by-line. On line four, if either `hat` is equal to "Yes" *or* `boots` is equal to "Yes", the body of the `if` statement will run. Suppose the user enters in "No" to both questions. In this case, the `if` condition is false. Therefore, we would see ``I don't know who you are`` get printed.
+
+#### Nested conditionals
+
+We can put `if` statements inside other `if` statements. This is called **nesting**. Here's an example:
+
+```
+var gender = prompt("What gender are you?");
+
+if (gender == "Male")
+{
+  var size = prompt("What size is your tuxedo?");
+  
+  if (size == "large")
+  {
+    console.log("Your waist size is a 38.");
+  }
+  
+  else if (size == "medium")
+  {
+    console.log("Your waist size is a 34.");
+  }
+  
+  else if (size == "small")
+  {
+    console.log("Your waist size is a 32.");
+  }  
+}
+
+else if (gender == "Female")
+{
+  var dress = prompt("What color is your dress?");
+  
+  if (dress == "Orange")
+  {
+    console.log("It must be fall.");
+  }
+  
+  else if (dress == "Green")
+  {
+    console.log("It must be spring.");
+  }
+}
+```
+Here, we first ask the user's gender. Based on the gender, we ask different questions. If the user is a male, we ask them about the size of their tuxedo because only men wear tuxedos. However, if they are female, we ask them about the color of their dress because only women wear dresses. 
 
 ### Guided practice ("We do")
 
-Now we're going to work with arrays together. 
+Write two boolean variables and initialize them to `false`. Name the variables "elephant" and "mouse."
 
-``var vegetables=["broccoli", "kale", "tomato"]``
-
-1. How do I print out the second vegetable?
-2. How do I change the first vegetable?
-3. How do I find the length of our array?
-4. How do I find the last vegetable in our array?
-5. How do I find the last vegetable in any array?
-6. How do I add one vegetable to the beginning of our array?
-7. How do I add one vegetable to the end of our array?
-7. How do I remove one vegetable from the beginning of our array?
-8. How do I remove one vegetable from the end of our array?
-9. How do I select the first two vegetabkes from our array?
-10. Let's make another vegetables array. How do I concatenate it to our original array?
-11. How do I print each vegetable in our array without having to access each one individually?
-
+1. How do I print out the values of both variables?
+2. How do I change the value of the `elephant` variable to `true`?
+3. How do I print out "I am an elephant" if the value of `elephant` is `true`?
+4. How do I print out "I am not a mouse" if the value of `mouse` is `false`?
+5. How do I print out "I might be an elephant or a mouse" if either `elephant` or `mouse` is true?
+6. How do I change the value of `mouse` to true?
+7. How do I print out "I have a tail" if both `elephant` and `mouse` are true?
+8. 
 
 ### Independent practice ("You do")
 
