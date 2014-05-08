@@ -2,7 +2,7 @@ ScriptEd Cirriculum
 ===================
 ####Semester I
 
-| Unit  | Lessons | Focus | Final Project | 
+| Unit  | Lessons | Topics | Final Project | 
 |-------|:-------:|------|--------------|
 | **1. Introduction**| 1 |  |  | N/A |
 | **2. HTML**| 4 |  |  |
