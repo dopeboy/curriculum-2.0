@@ -14,5 +14,3 @@ ScriptEd Cirriculum
 | [**8. Arrays & Loops**](units/8-array-loop/) | 3  | Arrays, `while` / `for` loops. | | 
 | **9. Hashes & Functions** |   |  |  | 
 | **10. Version Control** |   | | 
-
-####Semester II
