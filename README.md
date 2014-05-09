@@ -8,7 +8,7 @@ ScriptEd Cirriculum
 | **2. HTML**| 4 |  |  |
 | **3. CSS**| 2 |  |  | 
 | **4. JavaScript** | 4 |  |  | 
-| **5. String Functions** | 2 |  | | 
+| **5. jQuery** | 4 |  |  |
 | **6. String Manipulation** | 2  |  |  | 
 | [**7. Conditionals**](units/7-conditional/) | 2  | Boolean values, `if`/`else`, comparison operators, logical operators | | 
 | [**8. Arrays & Loops**](units/8-array-loop/) | 3  | Arrays, `while` / `for` loops. | | 
