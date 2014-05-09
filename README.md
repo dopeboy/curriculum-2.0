@@ -1,4 +1,4 @@
-ScriptEd Cirriculum
+ScriptEd Curriculum
 ===================
 ####Semester I
 
