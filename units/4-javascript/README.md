@@ -16,8 +16,8 @@ This lesson starts with an introduction to variables. Students will learn how to
 2. Student	understands	and	can	explain	variable	creation,	reassignment,	and	scope.
 
 ###CPP.L2-05 I - Math operators
-1.	Student	can	employ	math	functions	such	as	“pow”,	“rand”,	“ceiling”,	and	“floor”	to	manipulate	numbers.
+1.	Student	can	employ	math	functions	such	as	``pow``,	``rand``,	``ceiling``,	and	``floor``	to	manipulate	numbers.
 2.	Student	understands	JavaScript	operator	precedence	and	can	use	it	to	predict	the	effect	of	an	expression.	
-3.	Student	can	recognize	augmented	assignment	operators	(i+=1)	and	can	decompose	them	to	simpler	syntax.	
+3.	Student	can	recognize	augmented	assignment	operators	(``i+=1``)	and	can	decompose	them	to	simpler	syntax.	
 4.	Student	can	generate	random	numbers	and	control	their	range	to	produce	complex	behavior	in	interactive	pages.	
-5.	Student	can	handle	“null”,	“NaN”	or	“undefined”	inputs	to	calculations	when	solving	programming	problems.
+5.	Student	can	handle	``null``,	``NaN``	or	``undefined``	inputs	to	calculations	when	solving	programming	problems.
