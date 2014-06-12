@@ -36,6 +36,11 @@ Students will show progress toward reaching the objective based on their perform
 ### References
 
 * https://docs.google.com/presentation/d/1CAMz_T9qWWL6GSNx70ZtxwLm-AAN0sBgPaQMDtJ3ZD0/edit#slide=id.g11014a258_073
+* http://www.mathsisfun.com/operation-order-pemdas.html
+* http://www.w3schools.com/js/js_variables.asp
+* http://www.w3schools.com/js/js_datatypes.asp
+* http://www.w3schools.com/js/js_functions.asp
+* http://www.w3schools.com/js/js_comments.asp
 
 ## During class
 
@@ -119,7 +124,18 @@ gives us 24.
 
 #####Order of operations
 
-Remember PEMDAS! More [here]http://www.mathsisfun.com/operation-order-pemdas.html.
+Remember PEMDAS:
+
+1. Parenthesis
+2. Exponent
+3. Multiplication
+4. Divison
+5. Addition
+6. Substraction
+
+These are the same order of operations you follow in math class. See link in references for more.
+
+
 
 
 
