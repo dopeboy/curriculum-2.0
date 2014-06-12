@@ -188,4 +188,44 @@ console.log(typeof(age));
 
 prints out ``string`` because we put quotes around 22. This tells JavaScript to treat the value as a string.
 
+### Guided practice ("We do")
+
+Write one variable that is named "modeOfTransit" and is set to the string "bicycle." Write another variable that is named "numberOfWheels" and set it to the number 2.
+
+1. How do I print out the values of both variables?
+2. How do I change the value of the modeOfTransit variable to "tricycle"?
+3. How do I change the value of the numberOfWheels variable to 3?
+4. How do I multiply the value of the numberOfWheels variable by 2? 
+5. How do I decrease the numberOfWheels variable by 1 without using the subtract operator?
+
+### Independent practice ("You do")
+
+Write one variable that is named "character" and is set to the string "Shrek." Write another variable that is named "heightInFeet" and set it to the number 6.
+
+1. How do I print out the values of both variables?
+2. How do I change the value of the character variable to "Fiona"?
+3. How do I change the value of the heightInFeet variable to 5?
+4. How do I divide the value of the heightInFeet variable by 2? 
+5. How do I increase the character variable by 1 without using the addition operator?
+
+#### Exit ticket
+
+Give exit-ticket quiz.
+
+### Closing
+
+Today you learned about variables in JavaScript and JavaScript itself. This is important because JavaScript is a programming language that we will eventually use to interact with HTML & CSS. Variables are important because they let us store values that we can manipulate later on. Next, we will learn about functions.
+
+#### Homework
+
+[Link to homework](homework/)
+
+Remind students when homework is due and how it will be collected.
+
+## After class
+
+* Grade do-now & exit-ticket. Record in class spreadsheet.
+* Prepare for next lesson / hand off to next volunteer in rotation.
+
+
 
