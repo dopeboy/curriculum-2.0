@@ -101,7 +101,7 @@ Let's read this right to left. We're taking the number 2 and then adding it to t
 
 We would see ``12`` get printed out. We can similarly use the ``-`` (subtraction), ``/`` (division), and ``*`` (multiplication) operators. 
 
-Suppose we wanted to double the age to 24. We could
+Suppose we want to double the age to 24. We could
 
 ``age = age * 2;``
 
@@ -110,6 +110,16 @@ OR
 ``age = age + age;``
 
 Let's talk about the second suggestion. Again, right to left: take the variable ``age`` (which is currently set to 12) and add it to ``age`` again (also set to 12). The result of the addition is 24 which then gets stored in the variable ``age``.  
+
+So 
+
+``console.log(age)``
+
+gives us 24.
+
+#####Order of operations
+
+Remember PEMDAS! More [here]http://www.mathsisfun.com/operation-order-pemdas.html.
 
 
 
