@@ -68,7 +68,7 @@ What is a box? Why do we put things in a box? Can we take things out of the box 
 var singer = "Justin Bieber";
 ```
 
-This is an example of one variable that has a name called ``singer`` and a value called ``"Justin Bieber"``. We could say it is **instantiated** to the value ``"Justin Bieber"``. Notice the ``var`` keyword too; this is how we tell JavaScript we are making a new variable. Also notice the semi-colon at the end of the line; this is how we tell JavaScript we are done with a line of code. 
+This is an example of one variable that has a name called ``singer`` and a value called ``"Justin Bieber"``. We could say it is **instantiated** to the value ``"Justin Bieber"``. Notice the ``var`` keyword too; this is how we tell JavaScript we are making a new variable. Also notice the semi-colon at the end of the line; this is how we tell JavaScript we are done with a line of code. Finally, notice the quotes around the word Justin Bieber. These quotes tell JavaScript that this thing is a String.
 
 Suppose we want to print the value of the variable:
 
@@ -156,9 +156,36 @@ console.log(todayAge);
 
 This first line from above is equivalent to the second line from earlier. We can similarly use the ``--`` or **decrement** operator to decrease the value of a variable by 1.
 
+####Types
 
+Every variable in JavaScript has a type. So far, we have seen two types: strings (which have quotes around them) and numbers. We can use the ``typeof`` function to print the type. 
 
+```
+var name = "Justin Bieber";
+var age = 22;
+console.log(typeof(name));
+console.log(typeof(age));
+```
 
+prints out 
 
+```
+string
+number
+```
+
+Suppose we instead had the following:
+
+```
+var age = "22";
+```
+
+What type is the above variable? 
+
+```
+console.log(typeof(age));
+```
+
+prints out ``string`` because we put quotes around 22. This tells JavaScript to treat the value as a string.
 
 
