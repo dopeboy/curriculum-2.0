@@ -1,13 +1,14 @@
 #Unit 4 - JavaScript
 
 ##Synopsis
-This lesson starts with an introduction to variables. Students will learn how to create and edit variables. Next they will learn about functions and the elements that go into creating and calling one. They will also be exposed to functions helpful for debugging. Finally, they will learn what pseudo-code is and receive light practice with transforming it to actual JavaScript.
+This lesson starts with an introduction to variables. Students will learn how to create, instantiate, and edit variables. Next they will learn how to call and create functions. They will also be exposed to functions helpful for debugging. Next, they will learn what pseudo-code is and receive light practice with transforming it to actual JavaScript. Students will also learn how to properly document their code using comments.
 
 ##Lessons
 
 1. [Variables](lessons/1-variable)
 2. [Functions](lessons/2-function)
-3. [Final Project](lessons/3-finalproject)
+3. [Pseudo-code & comments](lessons/3-pseudocode)
+4. [Final Project](lessons/4-finalproject)
 
 ##Standards
 
@@ -21,3 +22,9 @@ This lesson starts with an introduction to variables. Students will learn how to
 3.	Student	can	recognize	augmented	assignment	operators	(``i+=1``)	and	can	decompose	them	to	simpler	syntax.	
 4.	Student	can	generate	random	numbers	and	control	their	range	to	produce	complex	behavior	in	interactive	pages.	
 5.	Student	can	handle	``null``,	``NaN``	or	``undefined``	inputs	to	calculations	when	solving	programming	problems.
+
+###CPP CL.L3B-03, CL.L2-04, CL.L3B-01
+1.	Student	can	plan	a	project	with	teammates	(using	wire	frames,	specifications	/requirements,	and	pseudocode).
+2.	Student	can	maintain	a	design	by	contract	relationship	with	other	team	members;	student	can	write	clear	code;	student	can	explain	code	by	including	clarifying	comments	in	their	code.
+
+
