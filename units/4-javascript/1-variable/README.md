@@ -6,36 +6,36 @@
 
 ### Objective
 
-Students will be able to use booleans, conditionals, and logical operators.
+Students will able to create, instantiate, and edit variables in JavaScript.
 
 ### Key points
 
-* Boolean values are either true or false.
-* `if`/`else` statements let us set a condition and execute different code based on whether the condition is met.
-* Comparison operators let us test for equality or difference..
-* Logical operators let us test for complex conditions.
-* We can put conditionals inside other conditionals; this is called nesting.
+* JavaScript is a programming language that we can run in our browser.
+* Variables are like boxes; they store something.
+* Variables have a name and a value.
+* We can perform various operations on variables.
+* Each variable has a type.
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../6-string-manipulation/lessons/1-xxx/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../3-css/lessons/1-xxx/assessments/).
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
 ### Vocabulary
 
-* Boolean
-* Condition
-* Comparison operator
-* Logical operator
-* Nesting
+* JavaScript
+* Variable
+* Instantiate
+* Assign
+* Increment / Decrement
+* Arithmetic operation
+* Type
 
 ### References
 
-* http://www.w3schools.com/js/js_obj_boolean.asp
-* http://www.w3schools.com/js/js_if_else.asp
-* http://www.w3ctutorial.com/js-basic/js-comparisons
+* https://docs.google.com/presentation/d/1CAMz_T9qWWL6GSNx70ZtxwLm-AAN0sBgPaQMDtJ3ZD0/edit#slide=id.g11014a258_073
 
 ## During class
 
@@ -47,43 +47,51 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Opening
 
-Today we will learn about boolean values, `if`/`else` statements, comparison operators, and logical operators. This is important because these concepts will allow us to write sophiscated programs that will run in different ways based upon what we input. It connects to what we've previously learned because we will be able test the values of variables we've created in the past and derive a boolean value.
+Today we will learn about variables in JavaScript. This is important because we can use variables to store things that we can later on look up. It connects to what we've previously learned because we will be able to, eventually, write JavaScript code that interacts with the HTML & CSS we have written before.
 
-Someone give me an example of a use of if/else logic in the real world. If there is milk left in the carton, then you will drink milk. Or else, you will need to go to the store to get milk. If you take a shower, then you will smell good. Or else, you will smell bad.
+What is a programming language? Give me some examples. Remind me what a browser is. JavaScript is also a programming language and we can run it in our browser.
 
-Let's talk about an example involving a machine.How does a metro station work? If the remaining amount of money on your metro card is less than the fare, then you will see "INSUFFICIENT FARE" printed on the display and the turnstile will stay locked. Or else, the machine will subtract the fare amount from your balance, display it, and unlock the turnstile.
+What is a box? Why do we put things in a box? Can we take things out of the box once we've put stuff in it? 
 
 ### Introduction of new material ("I do")
 
-####Create, initialize, and change a boolean variable
+####Create, instantiate, and change a variable
+
+**Variables** in JavaScript are like boxes in real life. All variables have a ***name** and a **value**.
 
 ```
-var hungry = true;
-var full = false;
+var singer = "Justin Bieber";
 ```
 
-This is an example of two boolean typed variables. **Boolean** variables can only be set to one of two values: true or false. Let's print these variables:
+This is an example of one variable that has a name called ``singer`` and a value called ``"Justin Bieber"``. We could say it is **instantiated** to the value ``"Justin Bieber"``. Notice the ``var`` keyword too; this is how we tell JavaScript we are making a new variable. Also notice the semi-colon at the end of the line; this is how we tell JavaScript we are done with a line of code. 
+
+Suppose we want to print the value of the variable:
 
 ```
-console.log(hungry);
-console.log(full);
+console.log(singer);
 ```
 
-prints:
+This line prints ``"Justin Bieber`` to the console using the ``log()`` function. We'll explore both the console and functions later on in this unit. For now, pass in any variable you create into the console.log() function to print it out..
+
+Suppose our favorite singer is Ariana Grande, not Justin Bieber. We could change the value of the variable:
+
 
 ```
-true
-false
+singer = "Ariana Grande";
+console.log(singer);
 ```
 
-Suppose we were no longer hungry. We can change the values of the variables:
+This code prints out ``"Ariana Grande"`` to the console. 
+
+####Arithmetic operations
+
+Once we've stored something into a variable, we can do things with it. Suppose we had a variable that stored a number:
 
 ```
-hungry = false;
-full = true;
+var age = 10;
 ```
 
-####Conditionals with comparison operators
+
 
 ##### True `if`
 
