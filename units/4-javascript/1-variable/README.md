@@ -122,7 +122,7 @@ So
 
 ``console.log(age)``
 
-gives us 24.
+now gives us 24.
 
 #####Order of operations
 
@@ -133,7 +133,7 @@ Remember PEMDAS:
 3. Multiplication
 4. Divison
 5. Addition
-6. Substraction
+6. Subtraction
 
 These are the same order of operations you follow in math class. See link in references for more.
 
