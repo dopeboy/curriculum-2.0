@@ -85,21 +85,31 @@ This code prints out ``"Ariana Grande"`` to the console.
 
 ####Arithmetic operations
 
-Once we've stored something into a variable, we can do things with it. Suppose we had a variable that stored a number:
+Once we've stored something into a variable, we can do things with it. Suppose we have a variable that stored a number:
 
 ```
 var age = 10;
 ```
 
-Suppose we wanted to add two years to this age. We could do use the `+` or addition operator:
+Suppose we want to add two years to this age. We could use the `+` or addition operator:
 
 ``age = age + 2;``
 
-Let's read this right to left. We're taking the variable ``age`` and adding two to it. We're then setting the result of that addition to the variable ``age``. So if we did:
+Let's read this right to left. We're taking the number 2 and then adding it to the variable ``age``. We're then setting the result of that addition to the variable ``age``. So if we did:
 
 ``console.log(age);``
 
 We would see ``12`` get printed out. We can similarly use the ``-`` (subtraction), ``/`` (division), and ``*`` (multiplication) operators. 
+
+Suppose we wanted to double the age to 24. We could
+
+``age = age * 2;``
+
+OR
+
+``age = age + age;``
+
+Let's talk about the second suggestion. Again, right to left: take the variable ``age`` (which is currently set to 12) and add it to ``age`` again (also set to 12). The result of the addition is 24 which then gets stored in the variable ``age``.  
 
 
 
