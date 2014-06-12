@@ -137,6 +137,27 @@ Remember PEMDAS:
 
 These are the same order of operations you follow in math class. See link in references for more.
 
+#####Increment / Decrement
+
+It's your birthday today. You were 16 yesterday and now you are 17 today. Let's represent this in JavaScript:
+
+```
+var yesterdayAge = 16;
+var todayAge = yesterdayAge + 1;
+console.log(todayAge);
+```
+
+This prints out ``17`` like we expect. But line two took forever to write. Let's short it by using the **increment** operator. 
+
+```
+todayAge = yesterdayAge++;
+console.log(todayAge);
+```
+
+This first line equivalent to the second line from above. We can similarly use the ``--`` or **decrement** operator to decrease the value of a variable by 1.
+
+
+
 
 
 
