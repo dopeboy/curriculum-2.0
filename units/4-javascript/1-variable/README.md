@@ -147,14 +147,14 @@ var todayAge = yesterdayAge + 1;
 console.log(todayAge);
 ```
 
-This prints out ``17`` like we expect. But line two took forever to write. Let's short it by using the **increment** operator. 
+This prints out ``17`` like we expect. But line two took forever to write. Let's shorten it by using the **increment** operator. 
 
 ```
 todayAge = yesterdayAge++;
 console.log(todayAge);
 ```
 
-This first line equivalent to the second line from above. We can similarly use the ``--`` or **decrement** operator to decrease the value of a variable by 1.
+This first line from above is equivalent to the second line from earlier. We can similarly use the ``--`` or **decrement** operator to decrease the value of a variable by 1.
 
 
 
