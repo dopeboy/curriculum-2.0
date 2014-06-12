@@ -108,11 +108,13 @@ We would see ``12`` get printed out. We can similarly use the ``-`` (subtraction
 
 Suppose we want to double the age to 24. We could
 
-``age = age * 2;``
+```
+age = age * 2;
 
 OR
 
-``age = age + age;``
+age = age + age;
+```
 
 Let's talk about the second suggestion. Again, right to left: take the variable ``age`` (which is currently set to 12) and add it to ``age`` again (also set to 12). The result of the addition is 24 which then gets stored in the variable ``age``.  
 
