@@ -98,11 +98,15 @@ var age = 10;
 
 Suppose we want to add two years to this age. We could use the `+` or addition operator:
 
-``age = age + 2;``
+```
+age = age + 2;
+```
 
 Let's read this right to left. We're taking the number 2 and then adding it to the variable ``age``. We're then setting the result of that addition to the variable ``age``. So if we did:
 
-``console.log(age);``
+```
+console.log(age);
+```
 
 We would see ``12`` get printed out. We can similarly use the ``-`` (subtraction), ``/`` (division), and ``*`` (multiplication) operators. 
 
@@ -120,7 +124,9 @@ Let's talk about the second suggestion. Again, right to left: take the variable 
 
 So 
 
-``console.log(age)``
+```
+console.log(age)
+```
 
 now gives us 24.
 
