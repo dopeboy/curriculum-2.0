@@ -120,16 +120,18 @@ Suppose we wanted to simulate a game die. This means we have to generate a rando
 
 ```
 var randomDecimalBetweenZeroOne = Math.random();
-var randomDecimalBetweenZeroSix = randomDecimalBetweenZeroOne * 6;
-var randomDecimalBetweenOneSix = randomDecimalBetweenZeroSix + 1;
+var randomDecimalBetweenZeroFive = randomDecimalBetweenZeroOne * 6;
+var randomDecimalBetweenOneSix = randomDecimalBetweenZeroFive + 1;
 var randomIntegerBetweenOneSix = Math.floor(randomDecimalBetweenOneSix);
 console.log(randomIntegerBetweenOneSix);
 ```
 
 Let's break this down line-by-line.
 
-1. Line 1: We call the `random()` function and do not pass in any parameters. It gives us a number between 0 and 1. 
-2. Line 2: We then take this number and multiply it by 6. This gets us a number 
+1. On line 1, we call the `random()` function and do not pass in any parameters. It gives us a decimal number between 0 and 1. 
+2. On line 2, we then take this number and multiply it by 6. This gives us a decimal number between 0 and 5.
+3. One line 3, we take this number and add 1 to it. The resulting decimal number is now between 1 and 6.
+4. One line 4, we take this number and run the `floor()` function on it. This turns it into an integer.
 
 ### Guided practice ("We do")
 
