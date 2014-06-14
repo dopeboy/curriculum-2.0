@@ -6,7 +6,7 @@ This lessons introduces the concept of booleans, `if/else` statements, compariso
 ##Lessons
 
 1. [Conditionals](lessons/1-conditional)
-3. [Final Project](lessons/2-finalproject)
+3. [Project](lessons/2-project)
 
 ##Standards
 
