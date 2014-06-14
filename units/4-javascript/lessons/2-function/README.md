@@ -230,23 +230,21 @@ Here, the `x` variable on line 3 is a parameter and thus, in the local scope. Th
 
 ### Guided practice ("We do")
 
-Write one variable that is named "modeOfTransit" and is set to the string "bicycle." Write another variable that is named "numberOfWheels" and set it to the number 2.
+I want to write a function that converts meters to feet.
 
-1. How do I print out the values of both variables?
-2. How do I change the value of the modeOfTransit variable to "tricycle"?
-3. How do I change the value of the numberOfWheels variable to 3?
-4. How do I multiply the value of the numberOfWheels variable by 2? 
-5. How do I decrease the numberOfWheels variable by 1 without using the subtract operator?
+1. Let's think out loud before we start typing. What are the inputs and outputs to the function?
+2. What's the formula to convert a meter to a foot?
+3. What's an appropriate name for our function?
+4. We've completed the prep work. Let's write the function together.
 
 ### Independent practice ("You do")
 
-Write one variable that is named "character" and is set to the string "Shrek." Write another variable that is named "heightInFeet" and set it to the number 6.
+Write a function that simulates the rolling of a 9 sided die.
 
-1. How do I print out the values of both variables?
-2. How do I change the value of the character variable to "Fiona"?
-3. How do I change the value of the heightInFeet variable to 5?
-4. How do I divide the value of the heightInFeet variable by 2? 
-5. How do I increase the character variable by 1 without using the addition operator?
+1. Think out loud before you start typing. What are the inputs and outputs to the function?
+2. What's the formula to get a random number between 1 and 9?
+3. What's an appropriate name for your function?
+4. You've completed the prep work. Write the function in JavaScript. Call it a couple times to ensure it works correctly.
 
 #### Exit ticket
 
@@ -254,7 +252,7 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about variables in JavaScript and JavaScript itself. This is important because JavaScript is a programming language that we will eventually use to interact with HTML & CSS. Variables are important because they let us store values that we can manipulate later on. Next, we will learn about functions.
+Today you learned about how to call and create functions in JavaScript. This is important because functions let us package code that we can reuse over and over again. Others have written functions that we can use in our programs. We can also create functions to reuse in our own programs. Next, we will learn about pseudo-code and code commenting.
 
 #### Homework
 
