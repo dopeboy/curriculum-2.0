@@ -28,9 +28,11 @@ Students will show progress toward reaching the objective based on their perform
 * Call
 * Body
 * Parameter
+* Prompt
 * Input
 * Output
 * Console
+* Debug
 * Scope
 * Library
 
@@ -38,6 +40,7 @@ Students will show progress toward reaching the objective based on their perform
 
 * https://docs.google.com/presentation/d/1CAMz_T9qWWL6GSNx70ZtxwLm-AAN0sBgPaQMDtJ3ZD0/edit#slide=id.g11014a258_073
 * http://www.w3schools.com/js/js_functions.asp
+* https://developer.chrome.com/devtools/docs/console
 
 ## During class
 
@@ -71,7 +74,30 @@ Here, the name of the function is "alert". Notice the open and closed parenthese
 
 The `alert` function was written by someone else. We don't know how it works and we don't need to. This makes our life easier because everytime we want to make a pop-up box with text in it, we don't have to recreate the wheel. Someone else did the hard work for us. 
 
+#####Prompt
+
+The **`prompt`** function lets us (1) ask the user a question and (2) store the answer to the question in a variable. Let's look at an example:
+
+```
+var name = prompt("What is your name?");
+alert(name);
+```
+
+Here, the user is asked for their name in the form of a pop-up box. Then, that name is printed in another pop-up box. This is also a function that someone else wrote for us.
+
 #####Console
+
+A **console** is a tool that lets you investigate or **debug** your code. We can use the `log` function to print statements to the console:
+
+```
+console.log("Wingardium leviosa!");
+```
+
+Here, the function's name is `log`. The parameter is a string `Wingardium leviosa!`. And the output is the text printed in the console window.
+
+#####Math
+
+
 
 ### Guided practice ("We do")
 
