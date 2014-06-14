@@ -8,7 +8,6 @@
 4. Write a function that asks the user for their age and then logs it to the console.
 5. Write a function that returns the result of the following equation: 5a^2 + 4b + c. You should use the `pow()` function. Your function should take in three parameters (a,b,c).
 
-
 ## Deliverables
 
 Your JavaScript code.
