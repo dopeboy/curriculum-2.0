@@ -8,7 +8,7 @@ This lesson starts with an introduction to variables. Students will learn how to
 1. [Variables](lessons/1-variable)
 2. [Functions](lessons/2-function)
 3. [Pseudo-code & comments](lessons/3-pseudocode)
-4. [Final Project](lessons/4-finalproject)
+4. [Project](lessons/4-project)
 
 ##Standards
 
