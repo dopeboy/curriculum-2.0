@@ -145,6 +145,7 @@ console.log(Math.floor((Math.random() * 6) + 1));
 
 We know how to call functions that other people wrote. Now we will learn how to write our own functions.Let's look at a simple one:
 
+#####Without parameters
 
 ```
 function sayHi()
@@ -153,13 +154,33 @@ function sayHi()
 }
 ```
 
-This function has a name `sayHi`. It does not take in any parameters because there is nothing between the parentheses. Note the **open curly brace** `{` and the **closed curly brace** `}`. Everything between those two braces form the **body** of the function. The body is where the code for the function resides. The `return` statement specifies what the function will output. If we followed this function with:
+This function has a name `sayHi`. It does not take in any parameters because there is nothing between the parentheses. Note the **open curly brace** `{` and the **closed curly brace** `}`. Everything between those two braces form the **body** of the function. The body is where the code for the function resides. The `return` statement specifies what the function will output. To run the function, we must call it like any other function:
 
 ```
 console.log(sayHi());
 ```
 
-We would see "Hello!" print to the console. 
+Here, we would see `"Hello!"` print in the console. 
+
+#####With parameters
+
+Let's look at a function with a parameter:
+
+```
+function incrementByOne(var number)
+{
+  return number+1;
+}
+
+```
+
+This function takes in one parameter. It then adds 1 to the number and returns the sum. So if we called:
+
+```
+console.log(incrementByOne(10));
+```
+
+We would see `11` printed out to the console.
 
 ####Scope
 
