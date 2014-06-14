@@ -213,7 +213,7 @@ function castSpell()
 
 Here, the `x` variable on line 5 is in the local scope. Therefore, a call to the `castSpell` function will print `Expecto Patronum` to the console.
 
-#####Local scope (1)
+#####Local scope (2)
 
 ```
 var x = "Avada Kadavra";
