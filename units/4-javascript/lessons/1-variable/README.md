@@ -208,11 +208,11 @@ Write one variable that is named "modeOfTransit" and is set to the string "bicyc
 
 Write one variable that is named "character" and is set to the string "Shrek." Write another variable that is named "heightInFeet" and set it to the number 6.
 
-1. How do I print out the values of both variables?
-2. How do I change the value of the character variable to "Fiona"?
-3. How do I change the value of the heightInFeet variable to 5?
-4. How do I divide the value of the heightInFeet variable by 2? 
-5. How do I increase the character variable by 1 without using the addition operator?
+1. Print out the values of both variables?
+2. Change the value of the character variable to "Fiona"?
+3. Change the value of the heightInFeet variable to 5?
+4. Divide the value of the heightInFeet variable by 2? 
+5. Increase the character variable by 1 without using the addition operator?
 
 #### Exit ticket
 
