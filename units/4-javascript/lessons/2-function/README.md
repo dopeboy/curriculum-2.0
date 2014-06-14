@@ -11,7 +11,7 @@ Students will able to call and create functions in JavaScript.
 ### Key points
 
 * A function is a block of code that performs a task. To use a function, you must call it. 
-* A parameter is a variable that is passed into a function. The function uses this variable to help perform its task.
+* A parameter is a value or variable that is passed into a function. The function uses this variable to help perform its task.
 * We use functions so that we do not have to rewrite code over again.
 * Other programmers write functions for us to make our lives easier. These functions together form a library.
 
