@@ -167,7 +167,7 @@ Here, we would see `"Hello!"` print in the console.
 Let's look at a function with a parameter:
 
 ```
-function incrementByOne(var number)
+function incrementByOne(number)
 {
   return number+1;
 }
@@ -218,7 +218,7 @@ Here, the `x` variable on line 5 is in the local scope. Therefore, a call to the
 ```
 var x = "Avada Kadavra";
 
-function castSpell(var x)
+function castSpell(x)
 {
   console.log(x);
 }
