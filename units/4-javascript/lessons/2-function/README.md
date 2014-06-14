@@ -1,6 +1,6 @@
 #Lesson 2 - Functions
 
-![image](http://i.imgur.com/oaxSIDO.jpg)
+![image](http://i.imgur.com/hd7SiOs.jpg)
 
 ## Before class
 
