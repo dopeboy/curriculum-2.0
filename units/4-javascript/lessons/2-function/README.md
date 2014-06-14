@@ -93,7 +93,14 @@ A **console** is a tool that lets you investigate or **debug** your code. We can
 console.log("Wingardium leviosa!");
 ```
 
-Here, the function's name is `log`. The parameter is a string `Wingardium leviosa!`. And the output is the text printed in the console window.
+Here, the function's name is `log`. The parameter is a string `Wingardium leviosa!`. And the output is the text printed in the console window. We can also print variables too:
+
+```
+var dozen = 6+6;
+console.log(dozen);
+```
+
+This will print out `12` to the console.
 
 #####Math
 
