@@ -7,7 +7,7 @@ This lesson introduces arrays and loops to our students. Students will learn how
 
 1. [Arrays](lessons/1-array)
 2. [Loops](lessons/2-loop)
-3. [Final Project](lessons/3-finalproject)
+3. [Project](lessons/3-project)
 
 ##Standards
 
