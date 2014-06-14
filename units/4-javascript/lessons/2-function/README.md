@@ -59,119 +59,19 @@ What's a washing machine? Why do we use one? Couldn't we just wash our clothes m
 
 ####Calling an existing function
 
+#####Alert
+
 A **function** is a block of code that performs a task. To use a function, you must **call** it. Let's call the `alert` function:
 
 ```
 alert("Squirrel!");
 ```
 
-Here, the name of the function is "alert". Notice the open and closed parentheses; every call to a function must have both. In this case, we also specified a **parameter** to the function: the string "Squirrel!". A parameter is a variable or value that is passed to a function to help perform its job. The `alert` function takes the parameter and displays a pop-up box with the contents of what was passed to it. 
+Here, the name of the function is "alert". Notice the open and closed parentheses; every call to a function must have both. In this case, we also specified a **parameter** to the function: the string "Squirrel!". A parameter is a variable or value that is passed to a function to help perform its job. The `alert` function takes the parameter and displays a pop-up box with the contents of what was passed to it. We can also call this parameter the **input** to the function because it is going *in* to the function. The pop-up box is the **output** to the function because it is the result of it.
 
-####Arithmetic operations
+The `alert` function was written by someone else. We don't know how it works and we don't need to. This makes our life easier because everytime we want to make a pop-up box with text in it, we don't have to recreate the wheel. Someone else did the hard work for us. 
 
-Once we've stored something into a variable, we can do things with it. Suppose we have a variable that stored a number:
-
-```
-var age = 10;
-```
-
-Suppose we want to add two years to this age. We could use the `+` or addition operator:
-
-```
-age = age + 2;
-```
-
-Let's read this right to left. We're taking the number 2 and then adding it to the variable ``age``. We're then setting the result of that addition to the variable ``age``. So if we did:
-
-```
-console.log(age);
-```
-
-We would see ``12`` get printed out. We can similarly use the ``-`` (subtraction), ``/`` (division), and ``*`` (multiplication) operators. 
-
-Suppose we want to double the age to 24. We could
-
-```
-age = age * 2;
-
-OR
-
-age = age + age;
-```
-
-Let's talk about the second suggestion. Again, right to left: take the variable ``age`` (which is currently set to 12) and add it to ``age`` again (also set to 12). The result of the addition is 24 which then gets stored in the variable ``age``.  
-
-So 
-
-```
-console.log(age)
-```
-
-now gives us 24.
-
-#####Order of operations
-
-Remember PEMDAS:
-
-1. Parenthesis
-2. Exponent
-3. Multiplication
-4. Divison
-5. Addition
-6. Subtraction
-
-These are the same order of operations you follow in math class. See link in references for more.
-
-#####Increment / Decrement
-
-It's your birthday today. You were 16 yesterday and now you are 17 today. Let's represent this in JavaScript:
-
-```
-var yesterdayAge = 16;
-var todayAge = yesterdayAge + 1;
-console.log(todayAge);
-```
-
-This prints out ``17`` like we expect. But line two took forever to write. Let's shorten it by using the **increment** operator. 
-
-```
-todayAge = yesterdayAge++;
-console.log(todayAge);
-```
-
-This first line from above is equivalent to the second line from earlier. We can similarly use the ``--`` or **decrement** operator to decrease the value of a variable by 1.
-
-####Types
-
-Every variable in JavaScript has a type. So far, we have seen two types: strings (which have quotes around them) and numbers. We can use the ``typeof`` function to print the type. 
-
-```
-var name = "Justin Bieber";
-var age = 22;
-console.log(typeof(name));
-console.log(typeof(age));
-```
-
-prints out 
-
-```
-string
-number
-```
-
-Suppose we instead had the following:
-
-```
-var age = "22";
-```
-
-What type is the above variable? 
-
-```
-console.log(typeof(age));
-```
-
-prints out ``string`` because we put quotes around 22. This tells JavaScript to treat the value as a string.
+#####Console
 
 ### Guided practice ("We do")
 
