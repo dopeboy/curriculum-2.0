@@ -27,6 +27,8 @@ Students will show progress toward reaching the objective based on their perform
 * Function
 * Call
 * Body
+* Open/close parenthesis
+* Open/close curly brace
 * Parameter
 * Prompt
 * Input
@@ -61,7 +63,7 @@ What's a washing machine? Why do we use one? Couldn't we just wash our clothes m
 
 ### Introduction of new material ("I do")
 
-####Calling an existing function
+####Call an existing function
 
 #####Alert
 
@@ -71,7 +73,7 @@ A **function** is a block of code that performs a task. To use a function, you m
 alert("Squirrel!");
 ```
 
-Here, the name of the function is "alert". Notice the open and closed parentheses; every call to a function must have both. In this case, we also specified a **parameter** to the function: the string "Squirrel!". A parameter is a variable or value that is passed to a function to help perform its job. The `alert` function takes the parameter and displays a pop-up box with the contents of what was passed to it. We can also call this parameter the **input** to the function because it is going *in* to the function. The pop-up box is the **output** to the function because it is the result of it.
+Here, the name of the function is "alert". Notice the **open** and **closed parenthesis**; every call to a function must have both. In this case, we also specified a **parameter** to the function: the string "Squirrel!". A parameter is a variable or value that is passed to a function to help perform its job. The `alert` function takes the parameter and displays a pop-up box with the contents of what was passed to it. We can also call this parameter the **input** to the function because it is going *in* to the function. The pop-up box is the **output** to the function because it is the result of it.
 
 The `alert` function was written by someone else. We don't know how it works and we don't need to. This makes our life easier because everytime we want to make a pop-up box with text in it, we don't have to recreate the wheel. Someone else did the hard work for us. 
 
@@ -139,7 +141,27 @@ To save code, we can actually represent those five lines in one:
 console.log(Math.floor((Math.random() * 6) + 1));
 ```
 
-####Creating a function
+####Create a function
+
+We know how to call functions that other people wrote. Now we will learn how to write our own functions.Let's look at a simple one:
+
+
+```
+function sayHi()
+{
+  return "Hello!";
+}
+```
+
+This function has a name `sayHi`. It does not take in any parameters because there is nothing between the parentheses. Note the **open curly brace** `{` and the **closed curly brace** `}`. Everything between those two braces form the **body** of the function. The body is where the code for the function resides. The `return` statement specifies what the function will output. If we followed this function with:
+
+```
+console.log(sayHi());
+```
+
+We would see "Hello!" print to the console. 
+
+####Scope
 
 
 ### Guided practice ("We do")
