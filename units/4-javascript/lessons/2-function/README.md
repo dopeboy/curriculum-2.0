@@ -184,6 +184,49 @@ We would see `11` printed out to the console.
 
 ####Scope
 
+**Scope** refers to where a variable is usable. Let's look at three different scenarios.
+
+#####Global scope
+
+```
+var x = "Avada Kadavra";
+
+function castSpell()
+{
+  console.log(x);
+}
+```
+
+Here, the `x` variable is in the global scope. Therefore, a call to the `castSpell` function will print `Avada Kadavra` to the console.
+
+#####Local scope (1)
+
+```
+var x = "Avada Kadavra";
+
+function castSpell()
+{
+  var x = "Expecto Patronum";
+  console.log(x);
+}
+```
+
+Here, the `x` variable on line 5 is in the local scope. Therefore, a call to the `castSpell` function will print `Expecto Patronum` to the console.
+
+#####Local scope (1)
+
+```
+var x = "Avada Kadavra";
+
+function castSpell(var x)
+{
+  console.log(x);
+}
+
+castSpell("Expelliarmus");
+```
+
+Here, the `x` variable on line 3 is a parameter and thus, in the local scope. Therefore, a call to the `castSpell` function will print `Expelliarmus` to the console.
 
 ### Guided practice ("We do")
 
