@@ -41,6 +41,7 @@ Students will show progress toward reaching the objective based on their perform
 * https://docs.google.com/presentation/d/1CAMz_T9qWWL6GSNx70ZtxwLm-AAN0sBgPaQMDtJ3ZD0/edit#slide=id.g11014a258_073
 * http://www.w3schools.com/js/js_functions.asp
 * https://developer.chrome.com/devtools/docs/console
+* http://www.w3schools.com/jsref/jsref_obj_math.asp
 
 ## During class
 
@@ -100,11 +101,35 @@ var dozen = 6+6;
 console.log(dozen);
 ```
 
-This will print out `12` to the console.
+Here, the input to the function is a variable. The variable has a number type. This will print out `12` to the console.
 
-#####Math
+#####Random number
 
+JavaScript comes with a library of math related functions. One important one is the `random()` function. It enables us to generate a random number. 
 
+Anytime we use a function that someone else wrote, it's important to look at the documentation for it so we can understand the inputs and outputs. See [here](http://www.w3schools.com/jsref/jsref_random.asp) for details about the `random()` function.
+
+To generate a random number between 0 and 1, we:
+
+```
+var randomNumber = Math.random();
+console.log(randomNumber);
+```
+
+Suppose we wanted to simulate a game die. This means we have to generate a random number between 1 and 6:
+
+```
+var randomDecimalBetweenZeroOne = Math.random();
+var randomDecimalBetweenZeroSix = randomDecimalBetweenZeroOne * 6;
+var randomDecimalBetweenOneSix = randomDecimalBetweenZeroSix + 1;
+var randomIntegerBetweenOneSix = Math.floor(randomDecimalBetweenOneSix);
+console.log(randomIntegerBetweenOneSix);
+```
+
+Let's break this down line-by-line.
+
+1. Line 1: We call the `random()` function and do not pass in any parameters. It gives us a number between 0 and 1. 
+2. Line 2: We then take this number and multiply it by 6. This gets us a number 
 
 ### Guided practice ("We do")
 
