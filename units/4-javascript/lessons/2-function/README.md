@@ -6,41 +6,38 @@
 
 ### Objective
 
-Students will able to create, instantiate, and edit variables in JavaScript.
+Students will able to call and create functions in JavaScript.
 
 ### Key points
 
-* JavaScript is a programming language that we can run in our browser.
-* Variables are like boxes; they store something.
-* Variables have a name and a value.
-* We can perform various operations on variables.
-* Each variable has a type.
+* A function is a block of code that performs a task. To use a function, you must call it. 
+* A parameter is a variable that is passed into a function. The function uses this variable to help perform its task.
+* We use functions so that we do not have to rewrite code over again.
+* Other programmers write functions for us to make our lives easier. These functions together form a library.
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../3-css/lessons/1-xxx/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../4-javascript/lessons/1-variable/assessments/).
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
 ### Vocabulary
 
-* JavaScript
-* Variable
-* Instantiate
-* Assign
-* Increment / Decrement
-* Arithmetic operation
-* Type
+* Function
+* Call
+* Body
+* Parameter
+* Input
+* Output
+* Console
+* Scope
+* Library
 
 ### References
 
 * https://docs.google.com/presentation/d/1CAMz_T9qWWL6GSNx70ZtxwLm-AAN0sBgPaQMDtJ3ZD0/edit#slide=id.g11014a258_073
-* http://www.mathsisfun.com/operation-order-pemdas.html
-* http://www.w3schools.com/js/js_variables.asp
-* http://www.w3schools.com/js/js_datatypes.asp
 * http://www.w3schools.com/js/js_functions.asp
-* http://www.w3schools.com/js/js_comments.asp
 
 ## During class
 
@@ -52,41 +49,23 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Opening
 
-Today we will learn about variables in JavaScript. This is important because we can use variables to store things that we can later on look up. It connects to what we've previously learned because we will be able to, eventually, write JavaScript code that interacts with the HTML & CSS we have written before.
+Today we will learn about functions in JavaScript. This is important because functions let us package code into blocks that we can reuse. It connects to what we've previously learned because we can take the code we've written before and package it into functions. This will prevent us from writing the same code over and over again. We've also been using a handful functions already and this lesson will explain how and why we've been doing that.
 
-What is a programming language? Give me some examples. Remind me what a browser is. JavaScript is also a programming language and we can run it in our browser.
+What's a function in math? Why do we use them? 
 
-What is a box? Why do we put things in a box? Can we take things out of the box once we've put stuff in it? 
+What's a washing machine? Why do we use one? Couldn't we just wash our clothes manually everytime they got dirty? What do we have to give to a washing machine in order for it to performs its task? What do we get when it is done?
 
 ### Introduction of new material ("I do")
 
-####Instantiate, print and change a variable
+####Calling an existing function
 
-**Variables** in JavaScript are like boxes in real life. All variables have a **name** and a **value**.
-
-```
-var singer = "Justin Bieber";
-```
-
-This is an example of one variable that has a name called ``singer`` and a value called ``"Justin Bieber"``. We could say it is **instantiated** to the value ``"Justin Bieber"``. Notice the ``var`` keyword too; this is how we tell JavaScript we are making a new variable. Also notice the semi-colon at the end of the line; this is how we tell JavaScript we are done with a line of code. Finally, notice the quotes around the word Justin Bieber. These quotes tell JavaScript that this thing is a String.
-
-Suppose we want to print the value of the variable:
+A **function** is a block of code that performs a task. To use a function, you must **call** it. Let's call the `alert` function:
 
 ```
-console.log(singer);
+alert("Squirrel!");
 ```
 
-This line prints ``"Justin Bieber`` to the console using the ``log()`` function. We'll explore both the console and functions later on in this unit. For now, pass in any variable you create into the console.log() function to print it out..
-
-Suppose our favorite singer is Ariana Grande, not Justin Bieber. We could change the value of the variable:
-
-
-```
-singer = "Ariana Grande";
-console.log(singer);
-```
-
-This code prints out ``"Ariana Grande"`` to the console. 
+Here, the name of the function is "alert". Notice the open and closed parentheses; every call to a function must have both. In this case, we also specified a **parameter** to the function: the string "Squirrel!". A parameter is a variable or value that is passed to a function to help perform its job. The `alert` function takes the parameter and displays a pop-up box with the contents of what was passed to it. 
 
 ####Arithmetic operations
 
