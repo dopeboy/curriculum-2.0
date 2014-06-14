@@ -133,6 +133,15 @@ Let's break this down line-by-line.
 3. One line 3, we take this number and add 1 to it. The resulting decimal number is now between 1 and 6.
 4. One line 4, we take this number and run the `floor()` function on it. This turns it into an integer.
 
+To save code, we can actually represent those five lines in one:
+
+```
+console.log(Math.floor((Math.random() * 6) + 1));
+```
+
+####Creating a function
+
+
 ### Guided practice ("We do")
 
 Write one variable that is named "modeOfTransit" and is set to the string "bicycle." Write another variable that is named "numberOfWheels" and set it to the number 2.
