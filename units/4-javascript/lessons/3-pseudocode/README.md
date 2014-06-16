@@ -66,7 +66,7 @@ Let's talk more about (3) in the next section.
 
 #####Pseudo-code
 
-**Pseudo-code** is a rough representation of what your code will look like. It is not runnable JavaScript code. It is written in plain english. 
+Pseudo-code is a rough representation of what your code will look like. It is not runnable JavaScript code. It is written in plain english. 
 
 Think about what you do before you write an essay. You brainstorm. You create an outline. You might create other diagrams to help you understand both the topic you're going to write about as well as the structure you plan to put your writing into. Similarly, programmers write pseudo-code before they write their actual code.
 
@@ -117,7 +117,7 @@ Programmers do not typically work by themselves. They work in teams. They collab
 
 #####Code convention
 
-A **code convention** is a agreed upon rule that programmers follow when writing their code. Code conventions specify the style your code should adopt. They do not impact the logic your code performs. 
+A code convention is a agreed upon rule that programmers follow when writing their code. Code conventions specify the style your code should adopt. They do not impact the logic your code performs. 
 
 Let's take the previous code involving dog years and analyze it.
 
@@ -142,7 +142,7 @@ There are many more code conventions. See the references section for a complete 
 
 #####Code comments
 
-**Code comments** enable a programmer to put text alongside their code. This text is ignored by the computer. It is only meant for humans to read.
+Code comments enable a programmer to put text alongside their code. This text is ignored by the computer. It is only meant for humans to read.
 
 As an example, let's comment the dog years code:
 
