@@ -52,11 +52,43 @@ What's an architect? What do they do? What document do they use to capture their
 
 ### Introduction of new material ("I do")
 
-####Pseudo-code
+####Design
 
 When you're given a programming task, do not go to the keyboard. In fact, take a step away from the computer. Sit down at a desk and think about the task in your head. Here are some questions you should ask yourself:
 
-1. fsdfdf
+1. What are the inputs and outputs to the program? 
+2. Is there an **algorithm** or step-by-step procedure of calculations for your program? Are there any formulas involved?
+3. What's the pseudo-code for the program?
+
+Let's talk more about (3) in the next section.
+
+####Pseudo-code
+
+**Pseudo-code** is a rough representation of what your code will look like. It is not runnable JavaScript code. It is written in plain english. 
+
+Think about what you do before you write an essay. You brainstorm. You create an outline. You might create other diagrams to help you understand both the topic you're going to write about as well as the structure you plan to put your writing into. Similarly, programmers write pseudo-code before they write their actual code.
+
+####Example
+
+Suppose you were given the task to write a program that converts human years to dog years. Let's go through each of the three questions above:
+
+1. Inputs & outputs: the program will probably take in a number that represents human years and spit out a number that represents dog years.
+2. Algorithm: is there a formula we can use? A quick google search returns [this](http://www.onlineconversion.com/dogyears.htm) page. The formula is: 10.5 dog years per human year for the first 2 years, then 4 dog years per human year for each year after.
+3. Pseudo-code: let's take (1) & (2) and write, in basic english, what we expect our program to do.
+
+```
+create a variable called x
+create a variable called y
+
+ask user for human years, store it in a variable x
+
+if x is less than or equal to 2 then
+  store x*10.5 in y
+else
+  store x*4 in y
+  
+print out y
+```
 
 ### Guided practice ("We do")
 
