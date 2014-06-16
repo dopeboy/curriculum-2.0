@@ -7,7 +7,7 @@ function solveQuadraticEquation(a,b,c)
   var numeratorTwo = (-1)*b - inside;
   
   var answerOne = numeratorOne / (2*a);
-  var answerTwo = numeratorTne / (2*a);
+  var answerTwo = numeratorTwo / (2*a);
   
   console.log(answerOne);
   console.log(answerTwo);
@@ -16,3 +16,15 @@ function solveQuadraticEquation(a,b,c)
 console.log("**********END OF EXERCISE 4**********");
 
 
+console.log("**********START OF EXERCISE 5**********");
+
+solveQuadraticEquation(1,3,-4);
+
+console.log("**********END OF EXERCISE 5**********");
+
+
+console.log("**********START OF EXERCISE 6**********");
+
+solveQuadraticEquation(2,-4,-3)
+
+console.log("**********END OF EXERCISE 6**********");
