@@ -64,13 +64,13 @@ When you're given a programming task, do not go to the keyboard. In fact, take a
 
 Let's talk more about (3) in the next section.
 
-####Pseudo-code
+#####Pseudo-code
 
 **Pseudo-code** is a rough representation of what your code will look like. It is not runnable JavaScript code. It is written in plain english. 
 
 Think about what you do before you write an essay. You brainstorm. You create an outline. You might create other diagrams to help you understand both the topic you're going to write about as well as the structure you plan to put your writing into. Similarly, programmers write pseudo-code before they write their actual code.
 
-####Example
+#####Example
 
 Suppose you were given the task to write a program that converts human years to dog years. Let's go through each of the three questions above:
 
