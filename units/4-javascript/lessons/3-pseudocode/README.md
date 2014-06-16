@@ -24,15 +24,17 @@ Students will show progress toward reaching the objective based on their perform
 ### Vocabulary
 
 * Pseudo-code
-* Design
 * Algorithm
 * Code comments
+* Code conventions
+* Camel case
 
 ### References
 
 * http://www.w3schools.com/js/js_comments.asp
 * http://en.wikipedia.org/wiki/Algorithm
 * http://en.wikipedia.org/wiki/Pseudo_code
+* http://javascript.crockford.com/code.html
 
 ## During class
 
@@ -93,20 +95,77 @@ print out y
 Note the use of plain-english; there is no JavaScript above. This pseudo-code gives us a chance to focus just on the logic of the problem. We do not have to worry about syntax errors, bad input/output, or any program language specific problems. Let's now convert the above into real JavaScript code:
 
 ```
-var x = 0;
-var y = 0;
+var dogAgeInHumansYears = 0;
+var dogAgeInDogYears = 0;
 
-x = prompt("How old is your dog in human years?");
+dogAgeInHumansYears = prompt("How old is your dog in human years?");
 
-if (x < 2)
-  y = x*10.5;
-else
-  y = x*4;
+if (dogAgeInHumansYears <= 2)
+  dogAgeInDogYears = x*10.5;
   
-console.log(y);
+else
+  dogAgeInDogYears = dogAgeInHumansYears*4;
+  
+console.log(dogAgeInDogYears);
 ```
 
 This is code we can run and use. Note the similarities and differences between it and the pseudo-code. Also note the use of the `if` and `else` statements. We will explore them in more detail later but for now, know that they can be used to test a condition.
+
+####Documentation
+
+Programmers do not typically work by themselves. They work in teams. They collaborate with others by dividing up a task. In this environment, it's very important for each programmer to communicate what their code does to the rest of the group. There are many ways this is done but we will just look at code conventions and code comments.
+
+#####Code convention
+
+A **code convention** is a agreed upon rule that programmers follow when writing their code. Code conventions specify the style your code should adopt. They do not impact the logic your code performs. 
+
+Let's take the previous code involving dog years and analyze it.
+
+```
+var dogAgeInHumansYears = 0;
+var dogAgeInDogYears = 0;
+
+dogAgeInHumansYears = prompt("How old is your dog in human years?");
+
+if (dogAgeInHumansYears <= 2)
+  dogAgeInDogYears = x*10.5;
+  
+else
+  dogAgeInDogYears = dogAgeInHumansYears*4;
+  
+console.log(dogAgeInDogYears);
+```
+
+Notice that the variable names all start with a lower case letter. Then each word following the first has an upper-case. This is called **camel case**. It is an example of a code convention. 
+
+There are many more code conventions. See the references section for a complete guide.
+
+#####Code comments
+
+**Code comments** enable a programmer to put text alongside their code. This text is ignored by the computer. It is only meant for humans to read.
+
+As an example, let's comment the dog years code:
+
+
+```
+var dogAgeInHumansYears = 0; // This variable stores the dog's age in human years
+var dogAgeInDogYears = 0;    // This variable stores the dog's age in dog years
+
+dogAgeInHumansYears = prompt("How old is your dog in human years?");
+
+// If the dog's age in human years is less than or equal to 2, multiply it by 10.5. Else, multiply it by 4.
+// Formula taken from http://www.onlineconversion.com/dogyears.htm
+if (dogAgeInHumansYears <= 2)
+  dogAgeInDogYears = x*10.5;
+  
+else
+  dogAgeInDogYears = dogAgeInHumansYears*4;
+  
+console.log(dogAgeInDogYears); // Print out the dog's age in dog years
+```
+
+Notice that each comment starts with `//`. This signals to the computer that it is a comment.
+
 
 ### Guided practice ("We do")
 
