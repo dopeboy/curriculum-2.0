@@ -80,11 +80,11 @@ Suppose you were given the task to write a program that converts human years to 
 create a variable called x
 create a variable called y
 
-ask user for human years, store it in a variable x
+ask user for the age of their dog in human years, store it in a variable x
 
 if x is less than or equal to 2 then
   store x*10.5 in y
-else
+else if it's not less than or equal to 2 then
   store x*4 in y
   
 print out y
