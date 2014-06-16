@@ -28,3 +28,9 @@ console.log("**********START OF EXERCISE 6**********");
 solveQuadraticEquation(2,-4,-3)
 
 console.log("**********END OF EXERCISE 6**********");
+
+console.log("**********START OF EXERCISE 7**********");
+
+solveQuadraticEquation(2,-3,0.5)
+
+console.log("**********END OF EXERCISE 7**********");
