@@ -166,23 +166,22 @@ console.log(dogAgeInDogYears); // Print out the dog's age in dog years
 
 Notice that each comment starts with `//`. This signals to the computer that it is a comment.
 
-
 ### Guided practice ("We do")
 
-I want to write a function that converts meters to feet.
+Let's write a function that calculates the area of a circle given a radius.
 
 1. Let's think out loud before we start typing. What are the inputs and outputs to the function?
-2. What's the formula to convert a meter to a foot?
-3. What's an appropriate name for our function?
+2. What's the formula to calculate the area of a circle?
+3. What's the pseudo-code look like?
 4. We've completed the prep work. Let's write the function together.
 
 ### Independent practice ("You do")
 
-Write a function that simulates the rolling of a 9 sided die.
+Write a function that solves the quadratic formula given inputs a,b, & c.
 
 1. Think out loud before you start typing. What are the inputs and outputs to the function?
-2. What's the formula to get a random number between 1 and 9?
-3. What's an appropriate name for your function?
+2. What is the quadratic formula?
+3. What's the pseudo-code look like?
 4. You've completed the prep work. Write the function in JavaScript. Call it a couple times to ensure it works correctly.
 
 #### Exit ticket
