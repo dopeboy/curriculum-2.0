@@ -177,10 +177,10 @@ Let's write a function that calculates the area of a circle given a radius.
 
 ### Independent practice ("You do")
 
-Write a function that solves the quadratic formula given inputs a,b, & c.
+Write a function that calculates the volume and area of a sphere.
 
 1. Think out loud before you start typing. What are the inputs and outputs to the function?
-2. What is the quadratic formula?
+2. What are the formulad for the volume and area of a sphere?
 3. What's the pseudo-code look like?
 4. You've completed the prep work. Write the function in JavaScript. Call it a couple times to ensure it works correctly.
 
@@ -190,7 +190,9 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about how to call and create functions in JavaScript. This is important because functions let us package code that we can reuse over and over again. Others have written functions that we can use in our programs. We can also create functions to reuse in our own programs. Next, we will learn about pseudo-code and code commenting.
+Today you learned how to approach a programming task. You learned to plan and design the task in your head and on paper before writing code. This is important because programming tasks can be complex. You now have the skills to break down a complex task into manageable pieces. You also learned how to document your code using code comments. This is important because you will eventually work in teams where you need to be able to share your code and have others understand it easily. 
+
+Next, we will learn about string manipulation.
 
 #### Homework
 
