@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Write a function that solves the quadratic formula given inputs a,b, & c. You should ask the user for each value.
+Write a function that solves the quadratic formula given inputs a,b, & c. You should ask the user for each value. Hint: you will need to use JavaScript's math functions.
 
 1. Think out loud before you start typing. What are the inputs and outputs to the function?
 2. What is the quadratic formula?
