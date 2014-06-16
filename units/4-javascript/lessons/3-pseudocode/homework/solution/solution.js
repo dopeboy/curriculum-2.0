@@ -1,9 +1,12 @@
 console.log("**********START OF EXERCISE 4**********");
 
+// Reference: http://www.purplemath.com/modules/quadform.htm
 function solveQuadraticEquation(a,b,c)
 {
-  var inside = Math.sqrt(Math.pow(b,2) - (4*a*c));
-  var numeratorOne = (-1)*b + inside;
+  var inside = Math.sqrt(Math.pow(b,2) - (4*a*c));  // Inside the square root
+  
+  // Note: two variables to cover the +- business.
+  var numeratorOne = (-1)*b + inside;               
   var numeratorTwo = (-1)*b - inside;
   
   var answerOne = numeratorOne / (2*a);
