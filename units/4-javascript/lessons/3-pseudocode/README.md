@@ -90,6 +90,24 @@ else
 print out y
 ```
 
+Note the use of plain-english; there is no JavaScript above. This pseudo-code gives us a chance to focus just on the logic of the problem. We do not have to worry about syntax errors, bad input/output, or any program language specific problems. Let's now convert the above into real JavaScript code:
+
+```
+var x = 0;
+var y = 0;
+
+x = prompt("How old is your dog in human years?");
+
+if (x < 2)
+  y = x*10.5;
+else
+  y = x*4;
+  
+console.log(y);
+```
+
+This is code we can run and use. Note the similarities and differences between it and the pseudo-code. Also note the use of the `if` and `else` statements. We will explore them in more detail later but for now, know that they can be used to test a condition.
+
 ### Guided practice ("We do")
 
 I want to write a function that converts meters to feet.
