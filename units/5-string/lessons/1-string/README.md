@@ -1,39 +1,40 @@
 #Lesson 1 - Strings
 
-![image](http://imgur.com/e0rn7sJ)
+![image](http://i.imgur.com/e0rn7sJ.jpg)
 
 ## Before class
 
 ### Objective
 
-Students will be able to create, initialize, access, and manipulate arrays.
+Students will be able to create, initialize, access, manipulate, compare, and cast strings.
 
 ### Key points
 
-* Lists in real life are arrays in the programming world.
-* Arrays are made up of elements. These are like buckets that store something.
-* Each element in an array has an index. We access elements by using these indicies.
-* Arrays have a size.
-* Computers start counting at 0.
+* Strings are made up of multiple characters. A set of characters "strung" together make a string.
+* Existing functions can be used to manipulate strings.
+* Strings can be cast to a number and vice versa.
+* Strings can be compared to one another.
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../7-conditionals/lessons/1-conditionals/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../4-javascript/lessons/3-pseudocode/assessments/).
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
 ### Vocabulary
 
-* Element
+* String
+* Double quotes
 * Index
-* Length
-* Access
-* Datastructure
+* Concatenate
+* Trim
+* Cast
 
 ### References
 
-* http://www.w3schools.com/jsref/jsref_obj_array.asp
+* http://www.w3schools.com/js/js_strings.asp
+* http://www.w3schools.com/js/js_string_methods.asp
 
 ## During class
 
@@ -45,17 +46,21 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Opening
 
-Today we will learn about arrays. This is important because arrays are a tool that programmers can use to store a large set of data. It connects to what we've previously learned because we will be able to access and manipulate variables that are stored in an array.
+Today we will learn about strings. This is important because strings store what we humans use everyday to communicate with each other: words and sentences. It connects to what we've previously learned because we will be able to create variables to store strings. Additionally, we will get to call pre-built functions to manipulate strings.
 
-Someone give me an example of a list in real life. A grocery list contains items that I need to buy when I go shopping. A parking lot contains a list of cars that are parked. Have we seen lists before? A string is actually a list too! It's a list of characters strung together.
+Someone give me an example of a word. Any word. What is a word made up of? How can I change this word? How can I add more to the word?
 
 ### Introduction of new material ("I do")
 
-####Create and initialize an array
+####Create and initialize a string
 
 ```
-var fruits=["banana", "watermelon", "apple"];
+var buzz = "To infinity, and beyond!";
 ```
+
+Let's break this down right to left. Notice the **double quotes** (`"`). All strings start and end with them. Inside the double quotes we find the actual contents of the string which is a sentence in this case. Your text editor will change the color of the contents of your string. It does this because it wants to visually assist you when you are scanning through your code.
+
+This string is then stored in a variable called `buzz`.
 
 ####Access and print an element of an array
 
