@@ -1,7 +1,7 @@
 #Unit 5 - Strings
 
 ##Synopsis
-This lesson introduces strings to our students. Students will learn what a string is. They will learn how to access and manipulate strings through functions. Students will also learn the basics of casting and comparing strings. 
+This lesson introduces strings to our students. Students will learn what a string is. They will learn how to create, initialize, and access them. Next, they will learn how to manipulate strings through functions. Finally, students will also learn the basics of casting and comparing strings. 
 
 ##Lessons
 
