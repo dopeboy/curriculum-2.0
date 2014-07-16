@@ -58,7 +58,7 @@ Someone give me an example of a list in real life. A grocery list contains items
 var fruits=["banana", "watermelon", "apple"];
 ```
 
-Let's break this down right to left. Note the *open bracket* (`[`) and *close bracket* (`]`). These brackets specify the beginning and end of the array. This particular array has three *elements* each of which are strings. Note that each element is separated by a comma.
+Let's break this down right to left. Note the **open bracket** (`[`) and **close bracket** (`]`). These brackets specify the beginning and end of the array. This particular array has three **elements** each of which are strings. Note that each element is separated by a comma.
 
 ####Access and print an element of an array
 
