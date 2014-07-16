@@ -11,10 +11,7 @@ This lesson introduces arrays and loops to our students. Students will learn how
 
 ##Standards
 
-###CPP.L2-05 I - Arrays
-1. Student can use	arrays:	student	demonstrates	understanding	that	the	first	index	is	0;	student	can	access	elements	of	the array	and	change them;	student	can	find	the	length	of	an array.
-2. Student can	perform	the	`pop`,	`push`,	`shift`,	`unshift`,	`slice`,	`concat`,	and	`join`	operations	on	arrays.
-
-###CPP.L2-05 I - Loops
-1. Student can	use	``while``	and	``for``	loops	and	avoid	infinite	loops.
-2. Student understands	and	can	use	``break``,	``continue``,	and	``return``	statements.
+###CPP.L2-05 I - Strings
+1. Student can	use	string functions to	find the length	of a string, split a string, concatenate a	string,	cast	a	string	to	a	number, find	the	index	of	a	character,	and	make	strings	uppercase	and	lowercase.
+2. Student	can	compare	strings,	accounting	for	case	and	whitespace,	and	use	the	results	in	conditional	statements.
+3. Student	can	find	all	the	instances	of	a	character	in	a	string.
