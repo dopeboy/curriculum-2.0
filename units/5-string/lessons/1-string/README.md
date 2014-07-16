@@ -1,6 +1,6 @@
-#Lesson 1 - Arrays
+#Lesson 1 - Strings
 
-![image](http://i.imgur.com/64dLS3B.jpg)
+![image](http://imgur.com/e0rn7sJ)
 
 ## Before class
 
