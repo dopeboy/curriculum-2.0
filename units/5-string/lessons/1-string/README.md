@@ -12,6 +12,7 @@ Students will be able to create, initialize, access, manipulate, compare, and ca
 
 * Strings are made up of multiple characters. A set of characters "strung" together make a string.
 * Existing functions can be used to manipulate strings.
+* The first index of a string is 0. The last index is length-1.
 * Strings can be cast to a number and vice versa.
 * Strings can be compared to one another.
 
@@ -71,7 +72,36 @@ This prints out `To infinity, and beyond!` to the console.
 ####String manipulation
 
 #####String length
-ddd
+
+Suppose we want to find the size of our string. We can:
+
+```
+var bluefish = "Dory";
+console.log(bluefish.length);
+```
+
+All strings have a length attribute. The above will print `4` to the console.
+
+#####Access character
+
+Suppose we want to find the first character of a string. We can:
+
+```
+var bluefish = "Dory";
+console.log(bluefish.charAt(0));
+```
+
+**charAt** is a function that takes in one parameter. This parameter is the **index** or position inside the string. Notice how the first letter of a string is always at the 0 index. The above prints `D` out to the console.
+
+What if we want to print the last character? We can:
+
+```
+var bluefish = "Dory";
+console.log(bluefish.charAt(bluefish.length-1));
+```
+
+Let's first think about what `bluefish.length-1` means. We know the length is 4 from above. 4-1 results in 3. So we are asking for the character at the 3rd index in our string. Note that the last character in a string will always be one less than its size.
+
 
 ### Guided practice ("We do")
 
