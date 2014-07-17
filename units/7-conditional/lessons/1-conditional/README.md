@@ -18,7 +18,7 @@ Students will be able to use booleans, conditionals, and logical operators.
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../5-string/lessons/1-string/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../../5-string/lessons/1-string/assessments/).
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
