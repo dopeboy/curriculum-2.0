@@ -154,6 +154,17 @@ console.log(nicePotatoHead);
 
 This prints `hey, a laser! how come you don't have a laser, woody?`.
 
+#####Replace
+
+Suppose we want to replace a word in a string. We can:
+
+```
+var dory = "Hey, look! Sharks!";
+var otherDory = dory.replace("Sharks", "Turtles");
+console.log(otherDory);
+```
+
+The `replace()` function takes in two parameter: a string to replace and the string to replace with. The above prints `Hey, look! Turtles!`.
 
 ### Guided practice ("We do")
 
