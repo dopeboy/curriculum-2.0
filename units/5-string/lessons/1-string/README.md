@@ -283,11 +283,11 @@ Consider the following string:
 
 1. Print out the length of the string.
 2. Print out the first and last character of the string.
-3. Print out the index of the letter "b".
+3. Print out the index of the letter "g".
 4. Separate the first sentence from the second. Put each sentence in its own variable and then print each of those two variables.
-5. Print the sentence in upper case form? In lower case.
-6. Replace the word "balloons" with the word "sprinkles" and print it.
-7. Add the sentence "Like it's 1999.    " to the end of the string and print it.
+5. Print the sentence in upper case form. Again in lower case.
+6. Replace the word "vessel" with the word "pixie" and print it.
+7. Add the sentence "Who's in charge here?    " to the end of the string and print it.
 8. Remove the white space at the end of the sentence and print it.
 
 #### Exit ticket
