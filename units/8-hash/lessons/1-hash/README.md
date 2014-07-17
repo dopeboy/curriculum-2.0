@@ -197,8 +197,6 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about arrays. This is important because arrays are used to represent lists. We can store multiple variables in one array. Next, we will learn about loops.
-
 Today you learned about hashes. This is important because hashes are used to represent unordered list. Next, we will learn about jQuery.
 
 #### Homework
