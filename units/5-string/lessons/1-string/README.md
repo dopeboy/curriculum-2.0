@@ -182,6 +182,15 @@ The `concat` function takes in one parameter: the string that is to be added to 
 
 The above prints `No, no more whale!You can't speak whale!`. Notice that there's no whitespace between the first `whale` and the exclamation mark.
 
+We can also use the ``+`` operator:
+
+```
+console.log("Maybe a different dialect." + " Mmmmoooooowaaaaah...");
+```
+
+This prints `Maybe a different dialect. Mmmmoooooowaaaaah...`.
+
+
 #####Trim
 
 The invisible character that gets created when you tap the space bar on your keyboard is called **whitespace**. Consider the following string:
