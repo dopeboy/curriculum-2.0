@@ -261,39 +261,34 @@ true
 
 ### Guided practice ("We do")
 
-Now we're going to work with arrays together. 
+Now we're going to work with strings together. 
 
-``var vegetables=["broccoli", "kale", "tomato"]``
+``var dory = "Hey, look, balloons. It is a party.";`
 
-1. How do I print out the second vegetable?
-2. How do I change the first vegetable?
-3. How do I find the length of our array?
-4. How do I find the last vegetable in our array?
-5. How do I find the last vegetable in any array?
-6. How do I add one vegetable to the beginning of our array?
-7. How do I add one vegetable to the end of our array?
-7. How do I remove one vegetable from the beginning of our array?
-8. How do I remove one vegetable from the end of our array?
-9. How do I select the first two vegetables from our array?
-10. Let's make another vegetables array. How do I concatenate it to our original array?
-11. How do I print each vegetable in our array without having to access each one individually?
+1. How do I print out the length of the string?
+2. How do I print out the first and last character of the string?
+3. How do I print out the index of the letter "b"?
+4. How do I separate the first sentence from the second? I want each sentence in its own variable and then I want to print each of those two variables.
+5. How do I print the sentence in upper case form? In lower case?
+6. How do I replace the word "balloons" with the word "sprinkles" and print it?
+7. How do I add the sentence "Like it's 1999.    " to the end of the string and print it?
+8. How do I remove the white space at the end of the sentence and print it?
 
 
 ### Independent practice ("You do")
 
-Write an array containing your five favorite songs.
+Consider the following string:
 
-1. Print out the third song.
-2. Change the first song.
-3. Find the length of your array.
-4. Find the last song in your array.
-5. Add one song to the beginning of your array.
-6. Add one song to the end of your array.
-7. Remove one song from the beginning of your array.
-8. Remove one song from the end of your array.
-9. Select the first two songs from your array.
-10. Make another songs array. Concatenate it to  your original array.
-11. Print each song in your array without having to access each one individually.
+``var buzz = "This is an intergalactic emergency. I need to commandeer your vessel to Sector 12.";``
+
+1. Print out the length of the string.
+2. Print out the first and last character of the string.
+3. Print out the index of the letter "b".
+4. Separate the first sentence from the second. Put each sentence in its own variable and then print each of those two variables.
+5. Print the sentence in upper case form? In lower case.
+6. Replace the word "balloons" with the word "sprinkles" and print it.
+7. Add the sentence "Like it's 1999.    " to the end of the string and print it.
+8. Remove the white space at the end of the sentence and print it.
 
 #### Exit ticket
 
@@ -301,7 +296,7 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about arrays. This is important because arrays are used to represent lists. We can store multiple variables in one array. Next, we will learn about loops.
+Today you learned about strings. This is important because strings are used to store words and sentences that humans use to talk. Next, we will learn about conditionals.
 
 #### Homework
 
