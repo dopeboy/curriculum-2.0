@@ -4,7 +4,7 @@
 
 1. Your grocery shopping list has cereal, bread, and eggs. On paper, write this down.
 2. Now, write it as an array in JavaScript.
-3. Print out the length of the array..
+3. Print out the length of the array.
 4. Print out every element in the array as a string without accessing each element.
 5. Add ice-cream, salt, and chicken to your array so that they are the first three elements (in that order).
 6. Add beef, rice, and sugar to the end of your array so that they are the last three elements (in that order).
