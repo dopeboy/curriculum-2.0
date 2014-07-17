@@ -210,6 +210,31 @@ console.log(cleanMarlin);
 
 ####Cast
 
+Suppose the following:
+
+```
+var x = 42;
+```
+
+Suppose we want to concatenate a string to the end of that number. Based off what we've learned above, we can:
+
+```
+x.concat(" is the best number ever!");
+```
+
+If we try the above code, it will fail. JavaScript will give us an error message. This is because the variable `x` is a number. Numbers cannot be concatenated with. Only strings can. So we must convert or **cast** the variable to a string. We do this by:
+
+```
+var xString = parseInt(x);
+var newString = xString.concat(" is the best number ever!");
+console.log(newString);
+```
+
+`parseInt` is a function that takes in one parameter: an integer. It returns the string form of the integer. 
+
+The above code prints `42 is the best number ever!`.
+
+
 ### Guided practice ("We do")
 
 Now we're going to work with arrays together. 
