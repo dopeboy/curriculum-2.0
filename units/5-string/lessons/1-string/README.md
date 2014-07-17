@@ -184,7 +184,7 @@ The above prints `No, no more whale!You can't speak whale!`. Notice that there's
 
 #####Trim
 
-**Whitespace** is the invisible character that gets created when you tap the space bar on your keyboard. Consider the following string:
+The invisible character that gets created when you tap the space bar on your keyboard is called **whitespace**. Consider the following string:
 
 ```
 var dory = "Your son Chico?";
@@ -203,7 +203,7 @@ If we print the length of this string, we will get 7. Let's eliminate the whites
 
 ```
 var cleanMarlin = marlin.trim();
-console.log(cleanMarlin);
+console.log(cleanMarlin.length);
 ```
 
 `trim()` is a function that removes whitespace both at the beginning and end of the string it is operating on. The above will print `4` to the console.
@@ -230,10 +230,34 @@ var newString = xString.concat(" is the best number ever!");
 console.log(newString);
 ```
 
-`parseInt` is a function that takes in one parameter: an integer. It returns the string form of the integer. 
+`parseInt()` is a function that takes in one parameter: an integer. It returns the string form of the integer. 
 
 The above code prints `42 is the best number ever!`.
 
+####Comparison
+
+To compare two strings, we can use the `==` operator:
+
+```
+var w = "Hello";
+var x = "Hello";
+var y = "hello";
+var z = "hello  ";
+
+console.log(w==x);
+console.log(w==y);
+console.log(y==z);
+console.log(y==z.trim());
+```
+
+prints the following boolean values:
+
+```
+true
+false
+false
+true
+```
 
 ### Guided practice ("We do")
 
