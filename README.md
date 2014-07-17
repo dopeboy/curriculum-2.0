@@ -9,8 +9,8 @@ ScriptEd Curriculum
 | **3. CSS**|  |  |  | 
 | [**4. JavaScript**] (units/4-javascript/) | 4 | Variables, functions, pseudo-code, comments |  | 
 | [**5. String Manipulation**] (units/5-string/) | 2  | Functions, casting, comparison |  | 
-| [**6. Conditionals**](units/7-conditional/) | 2  | Boolean values, `if`/`else`, comparison operators, logical operators | | 
-| [**7. Arrays & Loops**](units/8-array-loop/) | 3  | Arrays, `while` / `for` loops. | | 
+| [**6. Conditionals**](units/6-conditional/) | 2  | Boolean values, `if`/`else`, comparison operators, logical operators | | 
+| [**7. Arrays & Loops**](units/7-array-loop/) | 3  | Arrays, `while` / `for` loops. | | 
 | **8. Hashes** |   |  |  | 
 | **9. jQuery** |  |  |  |
 | **10. Version Control** |   | | 
