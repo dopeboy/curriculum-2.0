@@ -73,7 +73,7 @@ This prints out `To infinity, and beyond!` to the console.
 
 #####String length
 
-Suppose we want to find the size of our string. We can:
+Suppose we want to find the length of our string. We can:
 
 ```
 var bluefish = "Dory";
@@ -91,7 +91,7 @@ var bluefish = "Dory";
 console.log(bluefish.charAt(0));
 ```
 
-**charAt** is a function that takes in one parameter. This parameter is the **index** or position inside the string. Notice how the first letter of a string is always at the 0 index. (This has to do with computers starting count at 0 instead of 1. We'll learn more about this in the arrays section.) The above prints `D` out to the console.
+`charAt` is a function that takes in one parameter. This parameter is the **index** or position of the character inside the string. Notice how the first character of a string is always at the 0 index. (This has to do with computers starting count at 0 instead of 1. We'll learn more about this in the arrays section.) The function returns the character at the position of the index. The above prints `D` out to the console.
 
 What if we want to print the last character? We can:
 
@@ -100,7 +100,19 @@ var bluefish = "Dory";
 console.log(bluefish.charAt(bluefish.length-1));
 ```
 
-Let's first think about what `bluefish.length-1` means. We know the length is 4 from above. 4-1 results in 3. So we are asking for the character at the 3rd index in our string. Note that the last character in a string will always be one less than its size.
+Let's first think about what `bluefish.length-1` means. We know the length is 4 from above. 4-1 results in 3. So we are asking for the character at the 3rd index in our string. Note that the last character in a string will always be one less than its length.
+
+#####Index of a character
+
+Suppose we want to find the index of the letter 'r' in our string. We can:
+
+```
+var bluefish = "Dory";
+console.log(bluefish.indexOf("r"));
+```
+
+`indexOf` is a function that takes in one parameter. This parameter is the character that you wish to the find the index of. The function finds the first occurrence of the character and returns the index of it. The above prints `2` to the console. Why doesn't it print 3?
+
 
 
 ### Guided practice ("We do")
