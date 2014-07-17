@@ -17,7 +17,7 @@ Students will able to call and create functions in JavaScript.
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../4-javascript/lessons/1-variable/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../lessons/1-variable/assessments/).
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
