@@ -30,6 +30,7 @@ Students will show progress toward reaching the objective based on their perform
 * Index
 * Sub-string
 * Concatenate
+* Whitespace
 * Trim
 * Cast
 
@@ -181,7 +182,33 @@ The `concat` function takes in one parameter: the string that is to be added to 
 
 The above prints `No, no more whale!You can't speak whale!`. Notice that there's no whitespace between the first `whale` and the exclamation mark.
 
+#####Trim
 
+**Whitespace** is the invisible character that gets created when you tap the space bar on your keyboard. Consider the following string:
+
+```
+var dory = "Your son Chico?";
+```
+
+This string has two white spaces in it. One at index 4 between `Your` and `son`. Another at index 8 between `son` and `Chico`. 
+
+Sometimes strings have unnecessary whitespaces at the end of them like so:
+
+```
+var marlin = "Nemo   ";
+```
+
+If we print the length of this string, we will get 7. Let's eliminate the whitespace at the end of the string:
+
+
+```
+var cleanMarlin = marlin.trim();
+console.log(cleanMarlin);
+```
+
+`trim()` is a function that removes whitespace both at the beginning and end of the string it is operating on. The above will print `4` to the console.
+
+####Cast
 
 ### Guided practice ("We do")
 
