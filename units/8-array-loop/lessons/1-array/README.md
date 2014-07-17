@@ -18,7 +18,7 @@ Students will be able to create, initialize, access, and manipulate arrays.
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../6-conditionals/lessons/1-conditionals/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../../6-conditionals/lessons/1-conditionals/assessments/).
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
