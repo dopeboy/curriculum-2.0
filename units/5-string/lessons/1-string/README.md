@@ -77,8 +77,8 @@ This prints out `To infinity, and beyond!` to the console.
 Suppose we want to find the length of our string. We can:
 
 ```
-var bluefish = "Dory";
-console.log(bluefish.length);
+var blueFish = "Dory";
+console.log(blueFish.length);
 ```
 
 All strings have a length attribute. The above will print `4` to the console.
@@ -88,8 +88,8 @@ All strings have a length attribute. The above will print `4` to the console.
 Suppose we want to find the first character of a string. We can:
 
 ```
-var bluefish = "Dory";
-console.log(bluefish.charAt(0));
+var blueFish = "Dory";
+console.log(blueFish.charAt(0));
 ```
 
 `charAt` is a function that takes in one parameter. This parameter is the **index** or position of the character inside the string. Notice how the first character of a string is always at the 0 index. (This has to do with computers starting count at 0 instead of 1. We'll learn more about this in the arrays section.) The function returns the character at the position of the index. The above prints `D` out to the console.
@@ -97,19 +97,19 @@ console.log(bluefish.charAt(0));
 What if we want to print the last character? We can:
 
 ```
-var bluefish = "Dory";
-console.log(bluefish.charAt(bluefish.length-1));
+var blueFish = "Dory";
+console.log(blueFish.charAt(blueFish.length-1));
 ```
 
-Let's first think about what `bluefish.length-1` means. We know the length is 4 from above. 4-1 results in 3. So we are asking for the character at the 3rd index in our string. Note that the last character in a string will always be one less than its length.
+Let's first think about what `blueFish.length-1` means. We know the length is 4 from above. 4-1 results in 3. So we are asking for the character at the 3rd index in our string. Note that the last character in a string will always be one less than its length.
 
 #####Index of a character
 
 Suppose we want to find the index of the letter 'r' in our string. We can:
 
 ```
-var bluefish = "Dory";
-console.log(bluefish.indexOf("r"));
+var blueFish = "Dory";
+console.log(blueFish.indexOf("r"));
 ```
 
 `indexOf` is a function that takes in one parameter. This parameter is the character that you wish to the find the index of. The function finds the first occurrence of the character and returns the index of it. The above prints `2` to the console. Why doesn't it print 3?
@@ -125,6 +125,34 @@ console.log(rex.slice(2,6));
 ```
 
 `slice` is a function that takes two parameters: a starting index and an ending index. The function then extracts the mini-string inside the original based on the two indices. This resulting string is called a **sub-string**.
+
+The above prints:
+
+```
+I
+roar
+```
+
+#####Upper case & lower case
+
+Suppose we have a string and want to make it all upper case. We can:
+
+```
+var potatoHead = "Hey, a laser! How come you don't have a laser, Woody?";
+var angryPotatoHead = potatoHead.toUpperCase();
+console.log(angryPotatoHead);
+```
+
+This prints `HEY, A LASER! HOW COME YOU DON'T HAVE A LASER, WOODY?`.
+
+Suppose we want to make our new string all lower case. We can:
+
+```
+var nicePotatoHead = angryPotatoHead.toLowerCase();
+console.log(nicePotatoHead);
+```
+
+This prints `hey, a laser! how come you don't have a laser, woody?`.
 
 
 ### Guided practice ("We do")
