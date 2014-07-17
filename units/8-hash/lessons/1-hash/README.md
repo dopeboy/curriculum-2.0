@@ -6,15 +6,13 @@
 
 ### Objective
 
-Students will be able to create, initialize, access, and manipulate arrays.
+Students will be able to create, initialize, access, manipulate, and iterate through hashes.
 
 ### Key points
 
-* Lists in real life are arrays in the programming world.
-* Arrays are made up of elements. These are like buckets that store something.
-* Each element in an array has an index. We access elements by using these indicies.
-* Arrays have a size.
-* Computers start counting at 0.
+* Hashes, like arrays, are used to store data.
+* Unlike arrays, hashes represent an unordered list through key-value pairs.
+* Hashes can be stored inside hashes.
 
 ### Assessment
 
