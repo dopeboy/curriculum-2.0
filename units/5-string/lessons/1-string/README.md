@@ -164,7 +164,24 @@ var otherDory = dory.replace("Sharks", "Turtles");
 console.log(otherDory);
 ```
 
-The `replace()` function takes in two parameter: a string to replace and the string to replace with. The above prints `Hey, look! Turtles!`.
+The `replace()` function takes in two parameters: a string to replace and the string to replace with. It searches in the original string for the first parameter. It then replaces it with the second parameter. The above prints `Hey, look! Turtles!`.
+
+#####Concatenate
+
+Suppose you want to join two strings together. We can:
+
+```
+var marlinOne = "No, no more whale!";
+var marlinTwo = "You can't speak whale!";
+var marlinJoined = marlinOne.concat(marlinTwo);
+console.log(marlinJoined);
+```
+
+The `concat` function takes in one parameter: the string that is to be added to the end of the original string. It returns a joined or **concatenated** string. 
+
+The above prints `No, no more whale!You can't speak whale!`. Notice that there's no whitespace between the first `whale` and the exclamation mark.
+
+
 
 ### Guided practice ("We do")
 
