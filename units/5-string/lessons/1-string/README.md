@@ -28,6 +28,7 @@ Students will show progress toward reaching the objective based on their perform
 * String
 * Double quotes
 * Index
+* Sub-string
 * Concatenate
 * Trim
 * Cast
@@ -113,6 +114,17 @@ console.log(bluefish.indexOf("r"));
 
 `indexOf` is a function that takes in one parameter. This parameter is the character that you wish to the find the index of. The function finds the first occurrence of the character and returns the index of it. The above prints `2` to the console. Why doesn't it print 3?
 
+#####Split a string
+
+Suppose we have a string that contains a sentence with two words. Suppose we want to split the sentence into two parts. We can:
+
+```
+var rex = "I roar!";
+console.log(rex.slice(0,1));
+console.log(rex.slice(2,6));
+```
+
+`slice` is a function that takes two parameters: a starting index and an ending index. The function then extracts the mini-string inside the original based on the two indices. This resulting string is called a **sub-string**.
 
 
 ### Guided practice ("We do")
