@@ -16,23 +16,20 @@ Students will be able to create, initialize, access, manipulate, and iterate thr
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../7-conditionals/lessons/1-conditionals/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../../7-array-loop/lessons/1-array/assessments/).
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
 ### Vocabulary
 
-* Element
-* Bracket
-* Index
-* Length
-* Access
-* Datastructure
+* Curly brace
+* Key-value pair
+* For-in loop
 
 ### References
 
-* http://www.w3schools.com/jsref/jsref_obj_array.asp
+* http://www.javascriptkata.com/2007/03/29/how-to-use-javascript-hashes/
 
 ## During class
 
@@ -44,146 +41,109 @@ Students will show progress toward reaching the objective based on their perform
 
 ### Opening
 
-Today we will learn about arrays. This is important because arrays are a tool that programmers can use to store a large set of data. It connects to what we've previously learned because we will be able to access and manipulate variables that are stored in an array.
+Today we will learn about hashes. This is important because hashes are a tool that programmers use to store a large set of unordered data. It connects to what we've previously learned because we will be able to perform array like operations with hashes. 
 
-Someone give me an example of a list in real life. A grocery list contains items that I need to buy when I go shopping. A parking lot contains a list of cars that are parked. Have we seen lists before? A string is actually a list too! It's a list of characters strung together.
+Someone give me an example of an ordered list in real life. A recipe is an example. An instruction manual is another. Now give me an example of an unordered list in real life. A grocery list is one. A classroom contains a list of chairs in no particular order. Let's talk how about how we can represent these kind of lists in JavaScript.
 
 ### Introduction of new material ("I do")
 
-####Create and initialize an array
+####Create and initialize a hash
 
 ```
-var fruits=["banana", "watermelon", "apple"];
+var animalSounds = {cow: "Moo", cat: "Meow", dog: "Woof"};
 ```
 
-Let's break this down right to left. Note the **open bracket** (`[`) and **close bracket** (`]`). These brackets specify the beginning and end of the array. This particular array has three **elements** each of which are strings. Note that each element is separated by a comma. We then take this array and store in a variable called `fruits`.
+Let's break this down right to left. Note the **open curly brace** (`{`) and **close curly brace** (`}`). These braces specify the beginning and end of the hash. This particular hash has three **key-value** pairs. Note that each key-value pair is separated by a comma. We then take this hash and store in a variable called `animalSounds`.
 
-####Access and print an element of an array
+Let's talk about the key-value pairs more. In this hash, `cow`, `cat`, and `dog` represent keys. `"Moo"`, `"Meow"`, and `"Woof"` represent those keys' respective values. These values happen to be strings.
 
-```
-console.log(fruits[0]);
-```
-
-This prints out `banana`. Here, `0` is the index. Wait. If we're accessing the first element of an array, why is our index `1` and not `0`? This is because computers start counting at 0, not 1. 
-
-What if we wanted to access and print the second element of our array?
+####Access and print an element of a hash
 
 ```
-console.log(fruits[1]);
+console.log(animalSounds["cat"]);
+```
+
+This prints out `Meow`. Here, `cat` is the key. Whereas with arrays we use indices to access elements, with hashes we use keys.
+
+What if we want to access and print the value corresponding to the `dog` key of our hash?
+
+```
+console.log(animalSounds["dog"]);
 ``` 
 
-This prints out `watermelon`. 
+This prints out `Woof`. 
 
-And how about the third and last element of our array?
-
-```
-console.log(console.log(fruits[2]);
-```
-
-This prints out `apple`. 
-
-
-####Change an element of an array
-
-Let's change the first element of our array and then print it.
+And how about the value corresponding to the `cow` key?
 
 ```
-fruits[0] = "mango"
-console.log(fruits[0])
+console.log(console.log(animalSounds["cow"]);
 ```
 
-This prints out `mango`.
+This prints out `Moo`. 
 
-####Find and print the size of an array
 
-Let's talk about the size of an array. How big is our array? Let's use JavaScript to find out:
+####Change the value of a key-value pair in a hash
 
-``console.log(fruits.length);``
-
-Tjis prints out `3`. What's the index of the last element in our array? How is connected to the length of it? What can we always conclude about the two?
-
-####Add to the beginning of an array
-
-What if we want to add another fruit to the beginning of our array of fruits? We could do:
+Let's change `cat`'s value:
 
 ```
-fruits.unshift("strawberry");
-console.log("fruits[0]");
-console.log(fruits.length);
+animalSounds["cat"] = "Purr";
+console.log(animalSounds["cat"]);
 ```
 
-This prints out `strawberry` and `4`. The `unshift()` function acts *on* an array. Here, it takes in one parameter and then adds it to the beginning of the array.
+This prints out `Purr`.
 
-####Add to the end of an array
+####Add a key-value pair to the hash
 
-What if we want to add another fruit to the end of our array of fruits? We could do:
-
-```
-fruits.push("kiwi");
-console.log("fruits[3]");
-console.log(fruits.length);
-```
-
-This prints out `kiwi` and `4`. The `push()` function acts *on* an array. Here, it takes in one parameter and then adds it to the end of the array.
-
-####Remove from the beginning of an array
-
-What if we want to remove the first fruit from our array? We could do:
+What if we want to add another animal-sound pair to our hash? We can:
 
 ```
-var fruit = fruits.shift();
-console.log(fruit);
-console.log(fruits.length);
+animalSounds["snake"] = "Hiss";
+console.log(animalSounds["snake"]);
 ```
 
-This prints out `banana` and `2`. The `shift()` function acts *on* an array. It removes *and* returns the first element in an array.
+This prints out `Hiss`. 
 
-####Remove from the end of an array
+####Iterate
 
-What if we want to remove the last fruit from our array? We could do:
-
-```
-var fruit = fruits.pop();
-console.log(fruit);
-console.log(fruits.length);
-```
-
-This prints out `apple` and `2`. The `pop()` function acts *on* an array. It removes *and* returns the last element in an array.
-
-####Select part of an array
-
-What if we want to just get the second and third fruits from our array? We could:
+What if we want to print every element in our hash? We can:
 
 ```
-var last_two = fruits.slice(1, 3);
-console.log(last_two);
-console.log(fruits.length);
+var animalSounds = {cow: "Moo", cat: "Meow", dog: "Woof"};
+
+for (key in animalSounds) 
+{ 
+  console.log("key: " + key + ", value: " + animalSounds[key]); 
+}
 ```
 
-This prints out `["watermelon","apple"]` and `3`. The `slice()` function acts *on* an array. It takes two parameters--the starting and ending index--and returns all of the elements on the first index and between the two indicies. Note that it leaves the original array untouched which is why the size of the `fruits` array remains 3.
-
-####Concatenate two arrays together
-What if we want to concatenate (or join) two separate arrays together into one big array? We could:
+This is an example of a **for-in** loop. It will print each key-value pair in the hash. The above prints:
 
 ```
-var more_fruits = ["blackberry", "grape", "pineapple"];
-var all_fruits = fruits.concat(more_fruits);
-console.log(all_fruits);
-console.log(fruits.length);
-console.log(more_fruits.length);
+key: cow, value: Moo
+key: cat, value: Meow
+key: dog, value: Woof
 ```
 
-This prints out `["banana", "watermelon", "apple", "blackberry", "grape", "pineapple"]`, `3`, `3`. The `concat()` function acts *on* an array. Here, it takes one parameter, another array, and appends it to the end of the first array. Note that it leaves both original arrays untouched which is why the size of the `fruits` and `more_fruits` arrays remain 3.
+####Hash in a hash
 
-####Join all elements into a string
-What if we want to print every element in an array concatenated together as a string? We could:
+Like Matryoshka dolls (see picture at top), we can store hashes inside of other hashes:
 
 ```
-console.log(fruits.join());
+var animalSounds = 
+{
+  cow: "Moo", 
+  cat: "Meow", 
+  dog: "Woof",
+  bird: {robin: "Chirp", swan: "Cry"}
+};
+
+var birdSounds = animalSounds["bird"]
+
+console.log(birdSounds["swan"]); 
 ```
 
-This prints out `banana, watermelon, apple`. The `join()` function acts *on* an array and prints each element with a comma.
-
+Here, the `bird` key has a value that is a hash. So we first unload that hash into its own variable. Then we access like it any other hash.
 
 ### Guided practice ("We do")
 
