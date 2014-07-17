@@ -49,13 +49,13 @@ for (key in favoriteFoods)
   {
     for (var i=0; i<favoriteFoods[key].length; ++i)
     {
-      console.log("\t" + favoriteFoods[key][i]);
+      console.log("\t\t" + favoriteFoods[key][i]);
     }
   }
   
   else
   {
-    console.log(favoriteFoods[key]);
+    console.log("\t\t" + favoriteFoods[key]);
   }
 }
 
