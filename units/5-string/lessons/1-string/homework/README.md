@@ -9,7 +9,7 @@
 5. Adding the following to the end of the last name variable: "!". Print it.
 6. Concatenate the first name and the last name together and store it in a new variable called x. Print it.
 7. Ask the user how old they are. Store it in a variable and then print it.
-8. Add the following to the end of variable x: "And you're [age] years old!";
+8. Add the following to the end of variable x: "And you're [age] years old!". Print x.
 
 
 ## Deliverables
