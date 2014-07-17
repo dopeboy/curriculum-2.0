@@ -272,7 +272,7 @@ true
 
 Now we're going to work with strings together. 
 
-``var dory = "Hey, look, balloons. It is a party.";`
+`var dory = "Hey, look, balloons. It is a party.";`
 
 1. How do I print out the length of the string?
 2. How do I print out the first and last character of the string?
