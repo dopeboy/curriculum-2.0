@@ -12,7 +12,7 @@
 ### Daily Objective
 
 * Students will be able to create a webpage that includes one relative image and one absolute image.
-* Students will be able to add simple styles to their webpage using the <style> tag. 
+* Students will be able to add simple styles to their webpage using the <style></style> tag. 
 
 
 ### Key points
