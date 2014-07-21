@@ -6,8 +6,8 @@ This unit begins with an activity to demonstrate the difference between how a hu
 ##Lessons
 
 1. [Human vs. Computing Thought Processes](lessons/1-Computing Processes)
-2. [Algorithms](lessons/2-function)
-3. [Boolean and Variables](lessons/3-pseudocode)
+2. [Algorithms](lessons/2-Algorithms)
+3. [Boolean and Variables](lessons/3-Variables and Logic)
 
 ##Standards
 
