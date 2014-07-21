@@ -72,5 +72,5 @@ Students then break up into groups of two’s, one human and one robot. The huma
 Today for homework you are going to complete a similar process that will be acted out in class tomorrow. Write directions, for a robot, to fold a paper airplane.
 
 ## After Class
----
+
 * Prepare for next lesson / hand off to next volunteer in rotation.
