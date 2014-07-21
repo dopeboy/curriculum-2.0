@@ -1,4 +1,4 @@
-#Unit 4 - Introduction
+#Unit 1 - Introduction
 
 ##Synopsis
 This unit begins with an activity to demonstrate the difference between how a human and a program think. The first portion is completed without the use of a computer. After this, the students begin work on Scratch 2.0. Scratch is a block based programming language that allows for visual representation of a computer program without using any syntax. Through three quick activities in Scratch the students will obtain a base knowledge in creating Algorithms, Boolean Logic and Variables. 
