@@ -45,13 +45,12 @@ Students will be able to demonstrate the ability to use computing thought proces
 ### Do-now
 
 1. Attendance: http://scripted.org/attendance
-2. Return graded do-now and exit ticket from previous class
-3. Do-now quiz
+2. Hand each student a syllabus as they walk in.
+3. Introduce yourself to every student
 
-### Opening
 
-Today we will learn about variables in JavaScript. This is important because we can use variables to store things that we can later on look up. It connects to what we've previously learned because we will be able to, eventually, write JavaScript code that interacts with the HTML & CSS we have written before.
 
-What is a programming language? Give me some examples. Remind me what a browser is. JavaScript is also a programming language and we can run it in our browser.
+## Opening
 
-What is a box? Why do we put things in a box? Can we take things out of the box once we've put stuff in it? 
+“Welcome to ScriptEd! I am **_________** and I work at** _________** as a _______.” Introduce yourself to the students. Tell them a little about your background -- students love to hear about you! ”Let’s everyone please read over the course syllabus.” Allow student volunteers to read the syllabus aloud. Emphasize the following main points:
+
