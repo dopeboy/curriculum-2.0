@@ -5,7 +5,7 @@ ScriptEd Curriculum
 | Unit  | Lessons | Topics | Project | 
 |-------|:-------:|------|--------------|
 | [**1. Introduction**](units/1-introduction/)| 3 | Computing processes, Algorithms, Boolean and Variables |  | N/A |
-| **2. HTML**(units/2-HTML/)| 5 |  |"About Me" Website   |
+| [**2. HTML**](units/2-HTML/)| 5 | Webpages structure, Simple Styles, Sitemapping |"About Me" Website   |
 | **3. CSS**|  |  |  | 
 | [**4. JavaScript**] (units/4-javascript/) | 4 | Variables, functions, pseudo-code, comments |  | 
 | [**5. Strings**] (units/5-string/) | 2  | Functions, casting, comparison |  | 
