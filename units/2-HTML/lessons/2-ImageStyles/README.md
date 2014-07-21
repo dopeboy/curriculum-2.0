@@ -12,18 +12,14 @@
 ### Daily Objective
 
 * Students will be able to create a webpage that includes one relative image and one absolute image.
-<<<<<<< HEAD
-* Students will be able to add simple styles to their webpage using the '<style>' tag. 
-=======
-* Students will be able to add simple styles to their webpage using the <style></style> tag. 
->>>>>>> FETCH_HEAD
+* Students will be able to add simple styles to their webpage using the style tag. 
 
 
 ### Key points
 
 * A relative URL is saved locally within your library.
 * An absolute URL is a link to something saved online.
-* CSS adds styles to our webpages. Normally we link to a style sheet but today we will use quick styles in a <style> tag
+* CSS adds styles to our webpages. Normally we link to a style sheet but today we will use quick styles in a style tag
 
 ### Assessment
 
@@ -37,6 +33,6 @@
 * Relative URL
 * CSS
 * IDE (Intergrated Development Environment)
-* <img src=” “>
+* img src=
 
 
