@@ -24,7 +24,6 @@ Use parallel structure
 Use various types of phrases (noun, verb, adjectival, adverbial, participial, prepositional, absolute) and clauses (independent, dependent; noun, relative, adverbial) to convey specific meanings and add variety and interest to writing or presentations.
 
 ####CSTA Standards
-
 ###CT.L2-03
 Define an algorithm as a sequence of instructions that can be processed by a computer. 
 
