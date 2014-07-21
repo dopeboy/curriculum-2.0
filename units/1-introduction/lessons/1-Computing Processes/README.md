@@ -27,13 +27,10 @@ Students will be able to demonstrate the ability to use computing thought proces
 
 ### Vocabulary
 
-* JavaScript
-* Variable
-* Instantiate
-* Assign
-* Increment / Decrement
-* Arithmetic operation
-* Type
+* Computer
+* Computing
+* Program
+* Algorithm
 
 ### References
 
