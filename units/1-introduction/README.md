@@ -25,6 +25,6 @@ This lesson starts with an introduction to variables. Students will learn how to
 
 ###CL.L3B-03, CL.L2-04, CL.L3B-01
 1.	Student	can	plan	a	project	with	teammates	(using	wire	frames,	specifications	/ requirements,	and	pseudocode).
-2.	Student	can	maintain	a	design	by	contract	relationship	with	other	team	members;	student	can	write	clear	code;	student	can	explain	code	by	including	clarifying	comments	in	their	code.
+2.	Student	can	maintain	a	design	by	contract	relationship	with	other	team	members;	student	can	write	clear	code;	student	can	explain	code	by	including	clarifying	comments	in	their	code
 
 
