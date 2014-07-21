@@ -7,7 +7,8 @@
 ###Teacher Preperation
 * Set up a table in the front of the room facing all the student desks. This is for the Paper Airplane demo.
 * A basic understanding of Scratch. Teacher should be familiar with motion, looks, control and event blocks.
-
+
+
 ### Daily Objective
 
 Students will be able to construct an algorithm in Scratch that moves a sprite about the stage.
@@ -51,19 +52,43 @@ Students will be able to construct an algorithm in Scratch that moves a sprite a
 ## Opening
 
 “Please hand-in your directions on how to make a paper airplane.” Collect homework and choose a “not-so-good” set of directions to demonstrate. Ask a student volunteer to read the directions aloud while you (the robot) act it out.
-  After you demo of a set of poorly written instructions, choose a set of well written instructions for a student to read and another student to follow at the front of the class. Ask class “How could these directions been improved?” After a quick conversation display the quote below on the board.![image](http://i.imgur.com/JbvNKe1.png)
-Reflections question to pose to the class can include, but not be limited to:
+  
+After you demo of a set of poorly written instructions, choose a set of well written instructions for a student to read and another student to follow at the front of the class. Ask class “How could these directions been improved?” After a quick conversation display the quote below on the board.  
 
-* How do a human and a computer/program work together?* Do you ever team with a computer/program?## Introduction of new material: Scratch (“I Do”)
-Ask students to log onto scratch.mit.edu. Students should set up a Scratch account using their school email. Once the account is created students will go to the CREATE tab. Once all accounts are set up the teacher will provide a quick demo (~2 minutes) on how Scratch works.  
-Example How-to Demo: “These are blocks, they can be moved (click and dragged) into the script area (where the block become active) to move the sprite (Scratchy the cat) on the stage (The white area Scratchy lives in).”
-**Be sure to include that Scratch is a precursor to JavaScript. We will only be using Scratch for about 2 days**## Guided Practice (“We Do”)
-“We have seen Scratchy move and turn in the stage. Now can you make scratchy move in a square that is 100 steps long when the user clicks the green flag?”  **Note: You must use wait blocks or it will look like nothing happened**Most students will end up with a script like this → 
-![image](http://i.imgur.com/CfFd6pj.png)  ## Independent practice ("You do")
+![image](http://i.imgur.com/JbvNKe1.png)
+
+Reflections question to pose to the class can include, but not be limited to:
+
+* How do a human and a computer/program work together?
+* Do you ever team with a computer/program?
+
+
+## Introduction of new material: Scratch (“I Do”)
+
+Ask students to log onto scratch.mit.edu. Students should set up a Scratch account using their school email. Once the account is created students will go to the CREATE tab. Once all accounts are set up the teacher will provide a quick demo (~2 minutes) on how Scratch works.  
+
+
+Example How-to Demo: “These are blocks, they can be moved (click and dragged) into the script area (where the block become active) to move the sprite (Scratchy the cat) on the stage (The white area Scratchy lives in).”
+
+**Be sure to include that Scratch is a precursor to JavaScript. We will only be using Scratch for about 2 days**
+
+## Guided Practice (“We Do”)
+
+“We have seen Scratchy move and turn in the stage. Now can you make scratchy move in a square that is 100 steps long when the user clicks the green flag?”  
+**Note: You must use wait blocks or it will look like nothing happened**
+
+Most students will end up with a script like this → 
+![image](http://i.imgur.com/CfFd6pj.png)  
+
+## Independent practice ("You do")
+
 After many students come up with the answer above (from the “we do” section) ask them to complete the same task but this time using less blocks. **Hint: Use the repeat block**
 
-Students should then create the program below, which uses fewer blocks by repeating the same action four times.Ask class: “Why would a developer prefer to use the program with the repeat block over the first program you create?” 
-![image](http://i.imgur.com/hq9CBL6.png)
+Students should then create the program below, which uses fewer blocks by repeating the same action four times.
+
+Ask class: “Why would a developer prefer to use the program with the repeat block over the first program you create?” 
+
+![image](http://i.imgur.com/hq9CBL6.png)
 ## Closing/ Homework
 
 “We have made our first program today! Let’s reflect on what we have done. Would anyone like to share what they did that may have gone further than what the class has done?...etc.”
