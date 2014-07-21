@@ -84,7 +84,7 @@ Ask students to create the webpage firstpage.html (Seen below) using a text edit
 
 ## Introduction of new material #3 (“I Do”)
 
-Before starting this section ask students to close their laptops one more time. Provide a very brief lecture on <head></head>. There are 2 slides in the Google Presentation to use (see references).
+Before starting this section ask students to close their laptops one more time. Provide a very brief lecture on the head tag. There are 2 slides in the Google Presentation to use (see references).
 
 
 ## Independent practice #3("You do")
