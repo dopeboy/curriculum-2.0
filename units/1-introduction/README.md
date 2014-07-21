@@ -1,8 +1,7 @@
 #Unit 4 - JavaScript
 
 ##Synopsis
-This lesson starts with an introduction to variables. Students will learn how to create, instantiate, and edit variables. Next they will learn how to call and create functions. They will also be exposed to functions helpful for debugging. Next, they will learn what pseudo-code is and receive light practice with transforming it to actual JavaScript. Students will also learn how to properly document their code using comments.
-
+This unit begins with an activity to demonstrate the difference between how a human and a program think. The first portion is completed without the use of a computer. After this, the students begin work on Scratch 2.0. Scratch is a block based programming language that allows for visual representation of a computer program without using any syntax. Through three quick activities in Scratch the students will obtain a base knowledge in creating Algorithms, Boolean Logic and Variables. 
 ##Lessons
 
 1. [Variables](lessons/1-variable)
