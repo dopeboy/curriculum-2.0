@@ -29,5 +29,5 @@ Use various types of phrases (noun, verb, adjectival, adverbial, participial, pr
 Define an algorithm as a sequence of instructions that can be processed by a computer. 
 
 ###CT.L2-04
-Evaluate ways that different algorithms may be used to solve the same problem. 
+Evaluate ways that different algorithms may be used to solve the same problem.
 
