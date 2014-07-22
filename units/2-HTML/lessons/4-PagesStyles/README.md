@@ -105,6 +105,6 @@ Students who are not complete with their site by the end of class should complet
 ## After Class
 
 * Look over each student's website for completion. If most students could benefit from having more time then use next class period to complete this project.
-* Prepare for next lesson / hand off to next volunteer in rotation.
+*  Prepare for next lesson / hand off to next volunteer in rotation.
 
 
