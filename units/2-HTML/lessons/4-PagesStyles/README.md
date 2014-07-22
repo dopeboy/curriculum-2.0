@@ -97,7 +97,7 @@ The rest of class can be dedicated to students completing this website using the
 
 ## Check for understanding
 Leave time at the end of class for students to wrap up and ask teachers any questions they may have.  
-Students should send you there website. Consider leaving time to allow students to webhost. A great free webhosting site is www.bitballon.com.
+Students should send you there website. Consider leaving time to allow students to webhost. A great free webhosting site is www.bitballoon.com.
 
 ##Homework
 Students who are not complete with their site by the end of class should complete it at home for homework.
