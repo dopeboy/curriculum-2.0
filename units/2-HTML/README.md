@@ -1,7 +1,7 @@
 #Unit 2 - HTML
 
 ##Synopsis
-This unit introduces the student to the fundamentals of web design using HTML and CSS. The first lesson begins with students creating simple web pages using basic html tags.  
+This unit introduces the student to the fundamentals of web design using HTML and CSS. It asssumes no background knowledge in HTML at all. By the end of the unit every student is expected to have a completed 4-page website that uses a multitude of HTML and CSS tags. 
 
 ##Lessons
 
@@ -28,5 +28,7 @@ Understand that a function is a rule that assigns to each input exactly one outp
 ####CSTA Standards
 
 ###CPP.L3A-01
-Evaluate ways that different algorithms may be used to solve the same problem. 
+Evaluate ways that different algorithms may be used to solve the same problem.
+
+ 
 
