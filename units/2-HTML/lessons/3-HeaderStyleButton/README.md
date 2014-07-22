@@ -72,7 +72,7 @@ During this time teachers will circulate to help students with technical issues.
 
 **Note:** This is a long period of time for a teenager to be completing a single task. Some may need an occasional break from time-to-time. Feel free to have a quick off-topic conversation with a student if you see them struggling to focus.
 
-## Closing/ Homework
+## Closing
 After completing sections 1, 2 & 3 students should begin working on the Activity at the bottom of the Walkthrough worksheet; which reads: 
 
 ![Image](http://i.imgur.com/tZmFR5b.png)
