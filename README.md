@@ -14,7 +14,8 @@ ScriptEd Curriculum Year 1
 | [**8. Hashes**](units/8-hash) | 2  | Hashes, key-value pairs, `for-in` loops  |  | 
 | **9. jQuery** |  |  |  |
 | **10. Version Control** |   | | 
-
+  
+  
 ---
 
 ScriptEd-Year2-Curriculum
