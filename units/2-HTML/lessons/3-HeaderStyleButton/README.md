@@ -10,7 +10,7 @@
 
 ### Daily Objective
 
-* Students will be able to create a webpage that includes a header section, several styles and JavaScript buttons while working in the General Assambly tutorial environment. 
+* Students will be able to create a webpage that includes a header section, several styles and JavaScript buttons while working in the General Assembly tutorial environment. 
 
 
 ### Key points
