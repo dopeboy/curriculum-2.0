@@ -40,7 +40,7 @@
 * <https://c9.io/>
 * <http://w3schools.com>
 * <http://dash.ga.co>
-* [Project 2 walkthrough Worksheet](https://www.dropbox.com/s/x7kyti0jt6easj0/GeneralAssemblyPacketJeffBlog.docx ) Must print a copy for each student
+* [Project 2 walkthrough Worksheet](https://www.dropbox.com/s/x7kyti0jt6easj0/GeneralAssemblyPacketJeffBlog.docx ) **Teacher must print a copy for each student**
 
 ## During class
 
