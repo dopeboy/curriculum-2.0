@@ -18,7 +18,7 @@ ScriptEd Curriculum Year 1
   
 ---
 
-ScriptEd-Year2-Curriculum
+ScriptEd Curriculum Year 2
 =========================
 ####Semester I
 
