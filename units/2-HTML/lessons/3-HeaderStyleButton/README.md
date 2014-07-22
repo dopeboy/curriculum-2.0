@@ -22,7 +22,7 @@
 
 ### Assessment
 
-1. Worksheet to accompany dash.ga.co walkthrough (see references)
+1. Worksheet to accompany dash.ga.co tutorial (see references)
 2. Site made in Cloud9 IDE after completing walkthrough. (to be completed in the following lesson)
 
 
