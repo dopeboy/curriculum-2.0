@@ -87,6 +87,8 @@ Students who are not complete with the tutorial and/or the worksheet by the end 
  
 ## After Class
 
+* Teachers must provide a grade for the tutorial worksheet. It is crutial to provide this feedback so that students will see the value of their work.
+
 * Prepare for next lesson / hand off to next volunteer in rotation.
 
 
