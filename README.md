@@ -26,11 +26,11 @@ ScriptEd Curriculum Year 2
 |-------|:-------:|------|--------------|
 | **1. JS Scavenger Hunt**| 9/20/14 | Variables, Functions, Strings, Conditionals, Loops, Arrays, Hashes, JQuery | Scavenger hunt of many short programs (<10 lines each) |
 | **2. Rock, Paper, Scissors**|  |  |  |
-| **3. Pokemon Playing Cards**|  |  |  | 
+| **3. Playing Cards**|  |  |  | 
 | **4. SoundMood**  |  |  |  | 
 | **5. Speech Synthesis**  |   |  |  | 
 | **6. Fractal Art with Turtle Graphic** |   |  | | 
 | **7. Art generator** |   |  | | 
-| **8. NYC Data Heatmap** |   |   |  | 
+| **8. NYC Datamap** |   |   |  | 
 | **9. Entrepreneurism** |  |  |  |
 | **10. ** |   | | 
