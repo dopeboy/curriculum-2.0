@@ -1,9 +1,14 @@
-#Unit 1 - Introduction
+#Project 1 - Scavenger Hunt
 
 ##Synopsis
-This unit begins with an activity to demonstrate the difference between how a human and a program think. The first portion is completed without the use of a computer. After this, the students begin work on Scratch 2.0. Scratch is a block based programming language that allows for visual representation of a computer program without using any syntax. Through three quick activities in Scratch the students will obtain a base knowledge in creating Algorithms, Boolean Logic and Variables. 
+This main goal of this project to re-aclimate the students to the skills learned in year 1. The structure of the project is to have many short (<10 lines) programs that all have a point value determined by difficulty. There are many programs to choose from but the length of this project should be made by the teacher's discression. **The project should end when the teacher feels that all students in the class are ready to move on to project 2.** Before students are given the scavenger hunt clue worksheet they should be told the following:
 
-##Lessons
+ * Programs build on eachother, so it is in your best interest to complete them sequentially.
+ * Collaboration is encouraged.. copying is not!
+ * In order to receive credit at the end of the hunt all programs must be saved (This is so the students have a library of programs to reference back to in the future.)  
+* Prizes will be awarded to the top point earners.
+
+##Scavenger Hunt Clues
 
 1. [Human vs. Computing Thought Processes](lessons/1-Computing Processes)
 2. [Algorithms](lessons/2-Algorithms)
