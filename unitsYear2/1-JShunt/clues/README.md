@@ -37,3 +37,24 @@ These programs should all be completed in either a text editor or cloud9.
 | 10 | madlibs1.js  | ...asks for one item then prints out a sentance using that item.    | 2 | 
 | 11 | madlibs3.js  | ...asks for three items then prints out a story using all three items.| 3 |
 | 12 | roman.js  | ...can convert any interger from 1-1000 into a roman numeral.| 10 |  
+
+####JavaScript: Strings
+
+| Clue  | Name | Create a program that... | Points | 
+|-------|:-------:|------|--------------|
+| 1| msPotato.js|  ...has a variable called "msPotato" and is set to the string "I'm packing your angry eyes." Print the string  | 1 |
+| 1a| length |...prints out the length of the string. |2 |
+| 1b | first and last | ...prints the first and last characters in the string | 2 | 
+| 1c| shoes | ...adds "And your shoes, just in case" to the end of the string | 2 | 
+| 1d | upper case | ...prints the entire string in all caps| 2 | 
+| 1e | nose  | ...replaces the word shoes with "nose"| 2 | 
+
+####JavaScript: Conditionals
+
+| Clue  | Name | Create a program that... | Points | 
+|-------|:-------:|------|--------------|
+
+####JavaScript: Loops
+
+| Clue  | Name | Create a program that... | Points | 
+|-------|:-------:|------|--------------|
