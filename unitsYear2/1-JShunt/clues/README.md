@@ -1,40 +1,21 @@
-#Project 1 - Scavenger Hunt
-![Image](http://i.imgur.com/N7dzgjo.png)
-
-##Synopsis
-This main goal of this project to re-aclimate the students to the skills learned in year 1. The structure of the project is to have many short (<10 lines) programs that all have a point value determined by difficulty. There are many programs to choose from but the length of this project should be made by the teacher's discression. **The project should end when the teacher feels that all students in the class are ready to move on to project 2.** Before students are given the scavenger hunt clue worksheet they should be told the following:
-
- * Programs build on eachother, so it is in your best interest to complete them sequentially.
- * Collaboration is encouraged.. copying is not!
- * In order to receive credit at the end of the hunt all programs must be saved (This is so the students have a library of programs to reference back to in the future.)   
-* Prizes will be awarded to the top point earners.
-
-##Scavenger Hunt Clues
-
-1. [Human vs. Computing Thought Processes](lessons/1-Computing Processes)
-2. [Algorithms](lessons/2-Algorithms)
-3. [Boolean and Variables](lessons/3-Variables and Logic)
-
-##Standards
-
-####English Standards
-**CCSS.ELA-Literacy.L9.-10.1**  
-[CCSS.ELA-LITERACY.L9-10.1](http://www.corestandards.org/ELA-Literacy/L/9-10/1/)
-
-Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.
-
-[CCSS.ELA-LITERACY.L.9-10.1.A](http://www.corestandards.org/ELA-Literacy/L/9-10/1/a/)  
-Use parallel structure
-
-[CCSS.ELA-LITERACY.L.9-10.1.B](http://www.corestandards.org/ELA-Literacy/L/9-10/1/b/)  
-Use various types of phrases (noun, verb, adjectival, adverbial, participial, prepositional, absolute) and clauses (independent, dependent; noun, relative, adverbial) to convey specific meanings and add variety and interest to writing or presentations.
-
-####CSTA Standards
-
-###CT.L2-03
-Define an algorithm as a sequence of instructions that can be processed by a computer. 
-
-###CT.L2-04
-Evaluate ways that different algorithms may be used to solve the same problem. 
+#Scavenger Hunt Clues
+![Image](http://i.imgur.com/7PecKI9.png)
 
 
+===================
+####HTML/CSS
+These programs should all be completed in either a text editor or cloud9.
+
+| Clue  | Name | Create a webpage/website that... | Points | 
+|-------|:-------:|------|--------------|
+| 1| hello.html|  says "Hello, World!" in the body | 4 |
+| 2| headBody.html |has "Hello!" as the title and "World!" written in the body |1 |
+| 3| lists.html | has an ordered list and an unordered list. Each list needs a title and 3 items. | 1 | 
+| 4 | img.html | has two images stacked on top of each other. Each image must have text under it | 2 | 
+| 5 | 2  | Functions, casting, comparison |  | 
+| 6 | 2  | Boolean values, `if`/`else`, comparison operators, logical operators | | 
+| 7 | 3  | Arrays, `while` / `for` loops. | | 
+| 8 | 2  | Hashes, key-value pairs, `for-in` loops  |  | 
+| 9 |  |  |  |
+| 10 |   | | 
+  

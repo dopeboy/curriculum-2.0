@@ -54,7 +54,7 @@
 
 ## Introduction of new material (“I Do”)
 
-“We are going to take our firstpage.html project from last class and add two pictures to it.. later in class we will add some CSS styles too” On the board create a new workspace in Cloud9. Make sure to create a folder and new file with a .html extension. **It is important to show students how to properly organize/save files right form the start.** 
+**Ask students to close computer screens** “We are going to take our firstpage.html project from last class and add two pictures to it.. later in class we will add some CSS styles too” On the board create a new workspace in Cloud9. Make sure to create a folder and new file with a .html extension. **It is important to show students how to properly organize/save files right form the start.** 
 
 Demonstrate, in front of the class, how to add a picture to an absolute image (an image linked online) to a webpage using  the img src= tag. After placing that picture in also place a relative image on this page (an image saved locally) You should ask questions such as:
 
