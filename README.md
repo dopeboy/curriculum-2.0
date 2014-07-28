@@ -24,7 +24,7 @@ ScriptEd Curriculum Year 2
 
 | Unit  | Date(s) of Lesson | Skills | Project | 
 |-------|:-------:|------|--------------|
-| **1. JS Scavenger Hunt**| 9/20/14 | Variables, Functions, Strings, Conditionals, Loops, Arrays, Hashes, JQuery | Scavenger hunt of many short programs (<10 lines each) |
+| [**1. JS Scavenger Hunt**](unitsYear2/1-JShunt)| 9/20/14 | Variables, Functions, Strings, Conditionals, Loops, Arrays, Hashes, JQuery | Scavenger hunt of many short programs (<10 lines each) |
 | **2. Rock, Paper, Scissors**|  |  |  |
 | **3. Playing Cards**|  |  |  | 
 | **4. SoundMood**  |  |  |  | 
