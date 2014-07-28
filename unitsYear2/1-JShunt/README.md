@@ -1,4 +1,5 @@
 #Project 1 - Scavenger Hunt
+![Image](http://i.imgur.com/N7dzgjo.png)
 
 ##Synopsis
 This main goal of this project to re-aclimate the students to the skills learned in year 1. The structure of the project is to have many short (<10 lines) programs that all have a point value determined by difficulty. There are many programs to choose from but the length of this project should be made by the teacher's discression. **The project should end when the teacher feels that all students in the class are ready to move on to project 2.** Before students are given the scavenger hunt clue worksheet they should be told the following:
