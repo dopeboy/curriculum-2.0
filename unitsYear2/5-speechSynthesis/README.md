@@ -1,4 +1,4 @@
-#Project 2 - Rock, Paper, Scissors
+#Project 5 - Speech Synthesis
 ![Image](http://)
 
 ##Synopsis
