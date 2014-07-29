@@ -30,13 +30,10 @@ These programs should all be completed in either a text editor or cloud9.
 | 4| hello3ages.js | ...asks for the names and ages of all the teachers in this class then prints their names and ages. | 5 | 
 | 5 | transport.js | ...has one variable that is named "modeOfTransit" and is set to the string "bicycle." Write another variable that is named "numberOfWheels" and set it to the number 2. Print both variables. | 1 | 
 | 5a | transport.js (unicycle)  | ...uses division to set "numberOfWheels" to one and set "modeOfTransit" to unicycle.| 2 | 
-| 6 | count5.js | ...prints 1 through 5. | 1 | 
-| 7 | count10.js | ...prints 1 through 10. | 1 | 
-| 8 | count476.js | ...prints 1 through 476. | 4 | 
-| 9 | avg.js | ...asks for two numbers and prints the average of those two numbers. | 2 |
-| 10 | madlibs1.js  | ...asks for one item then prints out a sentance using that item.    | 2 | 
-| 11 | madlibs3.js  | ...asks for three items then prints out a story using all three items.| 3 |
-| 12 | roman.js  | ...can convert any interger from 1-1000 into a roman numeral.| 10 |  
+| 6 | avg.js | ...asks for two numbers and prints the average of those two numbers. | 2 |
+| 7 | madlibs1.js  | ...asks for one item then prints out a sentance using that item.    | 2 | 
+| 8 | madlibs3.js  | ...asks for three items then prints out a story using all three items.| 3 |
+| 9 | roman.js  | ...can convert any interger from 1-1000 into a roman numeral.| 10 |  
 
 ####JavaScript: Strings
 
@@ -53,8 +50,20 @@ These programs should all be completed in either a text editor or cloud9.
 
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
+| 1 | scriptEdLove.js | ...asks if you love ScriptEd and responds either "Yay!" or "Boo!" | 2 | 
+| 2 | iceCream.js | ...asks what your favorite Ice Cream is and responds either "Yay! Chocholate" or "Boo! Vanilla" or "Huh?" | 2 | 
+| 3 | class.js | ...asks a student what grade they are in and responds with "You are a Freshman", Sophomore, Junior or Senior. | 3 |
+| 4 | dayOfWeek.js | ...asks what day of the week it is and has a response for each day of the week | 3 |
+| 5 | lazyEight.js | Create a Magic 8 Ball program that claims to be able to answer any question you have. However, it always answers the same thing, "IDK stop asking!" | 3 |
+| 6 | grade.js | ...can convert a test grade (1-100) to a letter grade (A-F). | 4|
 
 ####JavaScript: Loops
 
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
+| 1 | count5.js | ...prints 1 through 5. | 1 | 
+| 2 | count10.js | ...prints 1 through 10. | 1 | 
+| 3 | count476.js | ...prints 1 through 476. | 4 | 
+| 4 | sum55.js | ...prints the sum of the numbers 1 through 55. (final value is 1540) | 4 | 
+| 5 | sum128.js | ...prints the sum of the numbers 1 through 128. (final value is 8256) | 2 | 
+| 6 | prod476.js | ...prints the product of the numbers 1 through 15. (final value is 1307674368000)  | 3 |
