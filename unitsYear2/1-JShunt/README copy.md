@@ -1,14 +1,9 @@
 #Project 1 - Scavenger Hunt
 ![Image](http://i.imgur.com/N7dzgjo.png)
 ##Synopsis
-This main goal of this project to re-aclimate the students to the skills learned in year 1. The structure of the project is to have many short (<10 lines) programs that all have a point value determined by difficulty. There are many programs to choose from but the length of this project should be made by the teacher's discression. **The project should end when the teacher feels that all students in the class are ready to move on to project 2.** Before students are given the scavenger hunt clue worksheet they should be told the following:
+This main goal of this project to re-aclimate the students to the skills learned in year 1. The structure of the project is to have many short (<10 lines) programs that all have a point value determined by difficulty. There are many programs to choose from but the length of this project should be made by the teacher's discression. **The project should end when the teacher feels that all students in the class are ready to move on to project 2.** 
 
- * Programs build on each other, so it is in your best interest to complete them sequentially.
-  * In order to receive credit at the end of the hunt all programs must be saved (This is so the students have a library of programs to reference back to in the future.)   
- * Even though programs build on each other it is important to complete each program in its own file (there are few expections, teachers should use their best judgement). 
- * Collaboration is encouraged.. copying is not!
- * Before moving onto a new program the student must have a program checked and tallied by a teacher. 
-* Prizes will be awarded to the top point earners.
+
 
 #Before Class
 *The teacher should acclimate themselves with the programs in the [Clues Worksheet](clues/README.md). This will help prepare the teacher for any questions that may arise.
@@ -17,8 +12,10 @@ This main goal of this project to re-aclimate the students to the skills learned
 *Printing a copy of the [Clues Worksheet](clues/README.md) for each student is recommended. 
 
 ##Vocabulary
-~~A note to curriculum writers: list any new terms here~~
-*
+* String
+* Variable
+* Conditional
+* Loop
 
 ##References
 * [Clues Worksheet](clues/README.md)
@@ -82,9 +79,17 @@ Explain to the students that today's project is a scavenger hunt. The "clues" ar
 
 ##Lecture
 Before students begin work on this project they must be introduced to the following concepts. The lecturer may decide the best way to deliver these topics.
-*
 
-##Project Creation
+ * Programs build on each other, so it is in your best interest to complete them sequentially.
+* When completed with a program, save it (This is so the students have a library of programs to reference back to in the future.)  
+* Raise hand when complete so a teacher can come over to check it before moving onto the next program.  
+ * Even though programs build on each other it is important to complete each program in its own file (there are few expections, teachers should use their best judgement). 
+ * Collaboration is encouraged.. copying is not!
+ * Before moving onto a new program the student must have a program checked and tallied by a teacher. 
+* Prizes will be awarded to the top point earners.
+
+
+##Project Creation Time
 ~~A note to curriculum writers: How will the room look while the project is being completed? Are students in groups? Is there storyboarding? How are the teachers assisting? etc..~~
 
 ##Closing
