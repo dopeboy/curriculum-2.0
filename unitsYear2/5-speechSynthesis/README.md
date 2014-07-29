@@ -39,7 +39,7 @@ While completing this project the student will..
 ##Web Programming Skills
 This project improves the student's web programming skills in the following way. For a description of each skill please refer to the [Year 2 Rubric.](https://docs.google.com/a/scripted.org/spreadsheet/ccc?key=0AmfF2axUr9M_dDA0WEV0LWo2MnBUM0JaQnJTYy1sc0E&usp=drive_web#gid=0)
 
-~~A note to curriculum writers: Not all Web Programming Skills need to be addressed in all projects. If a skills is not used in this project please remove it from this page.~~  
+~~A note to curriculum writers: Not all Web Programming Skills need to be addressed in all projects. If a skill is not used in this project please remove it from this page.~~  
 **Forms:**  
 While completing this project the student will..
 
