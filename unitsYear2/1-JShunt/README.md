@@ -27,47 +27,29 @@ This main goal of this project to re-aclimate the students to the skills learned
 This project improves the student's industry skills in the following way. For a description of each skill please refer to the [Year 2 Rubric.](https://docs.google.com/a/scripted.org/spreadsheet/ccc?key=0AmfF2axUr9M_dDA0WEV0LWo2MnBUM0JaQnJTYy1sc0E&usp=drive_web#gid=0)
 
 **Technical Vocabulary:**  
-While completing this project the student will..
+While completing this project the students will receive aid in the form of technical jargon.
 
 **Paired Programming:**   
-While completing this project the student will..
+While completing this project the student will work in teams to create the many programs.
 
 **Version Control:**   
-While completing this project the student will..
+While completing this project the student will be using Github to store their programs.
 
 **Code Review:**   
-While completing this project the student will..
+While completing this project the student will use review code from early programs to help write later programs.
 
 **Search Engine Skills:**  
-While completing this project the student will..
+While completing this project the student will look in various libraries for reference to he program at hand.
 
 **Command Line:**  
-While completing this project the student will..
+While completing this project the student may choose to run these programs in the terminal.
 
-##Web Programming Skills
-This project improves the student's web programming skills in the following way. For a description of each skill please refer to the [Year 2 Rubric.](https://docs.google.com/a/scripted.org/spreadsheet/ccc?key=0AmfF2axUr9M_dDA0WEV0LWo2MnBUM0JaQnJTYy1sc0E&usp=drive_web#gid=0)
-
-~~A note to curriculum writers: Not all Web Programming Skills need to be addressed in all projects. If a skills is not used in this project please remove it from this page.~~  
-**Forms:**  
-While completing this project the student will..
-
-**http methods:**   
-While completing this project the student will..
-
-**Routing/ URLs:**   
-While completing this project the student will..
-
-**Templating:**   
-While completing this project the student will..
-
-**API:**   
-While completing this project the student will..
+**Debugging**  
+While completing this project the students will need to take earlier programs and debug them inorder to create a more challenging programming.
 
 ##Year One Review
 This project will improve upon the following skills from the [Year 1 Rubric.](https://docs.google.com/a/scripted.org/spreadsheet/ccc?key=0AobNdyExPHV5dGRWMVI0QVpnSWYtczZZT2ZyV01kcmc&usp=drive_web#gid=0)  
-~~A note to curriculum writers: Please list covered year one skills here.~~  
-
-
+ 
 
 #During Class
 
