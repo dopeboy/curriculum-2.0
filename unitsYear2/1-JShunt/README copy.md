@@ -90,13 +90,19 @@ Before students begin work on this project they must be introduced to the follow
 
 
 ##Project Creation Time
-~~A note to curriculum writers: How will the room look while the project is being completed? Are students in groups? Is there storyboarding? How are the teachers assisting? etc..~~
+During lab time of this project, students should be broken up into groups and only allowed to use one computer for writing the programs. Other computers may be used but only for research. When a program is done the group may call over a teacher to check it works before moving on to the next program.  
+
+Teachers should be doing three things:  
+* Checking completed programs for groups with raised hands. (This will be hectic at the start and should slow down as class progresses.)  
+* Assisting groups who need the help
+* Updating the scoreboard
+
 
 ##Closing
-~~A note to curriculum writers: How should the day be wrapped up? Was the day modeled like a competition, or could this end with a series of questions and a conversation with the room?~~
+In closing this project, Students should share all programs to the other members in their group. During this time total scores should be counted in order to find the winner.
 
 ##Check for Understanding
-~~A note to curriculum writers: How will the teacher know that all the students were successful. How do we know they learned the skills listed above?~~
+Before allowing the students to leave, a conversation needs to be made with the class regarding everyone's ability to create these programs. If a student was not pulling their own weight during lab time they will need to complete the project again for homework.
 
 ##Homework
-~~A note to curriculum writers: Will you be giving any homework?~~
+Students who did not contribute to the project creation will need to complete the scavenger hunt for homework.
