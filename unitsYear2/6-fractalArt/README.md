@@ -1,4 +1,4 @@
-#Project 2 - Rock, Paper, Scissors
+#Project 6 - Fractal Art
 ![Image](http://)
 
 ##Synopsis
