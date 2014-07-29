@@ -36,6 +36,10 @@ While completing this project the student will..
 **Command Line:**  
 While completing this project the student will..
 
+**Debugging**  
+While completing this project the student will...
+
+
 ##Web Programming Skills
 This project improves the student's web programming skills in the following way. For a description of each skill please refer to the [Year 2 Rubric.](https://docs.google.com/a/scripted.org/spreadsheet/ccc?key=0AmfF2axUr9M_dDA0WEV0LWo2MnBUM0JaQnJTYy1sc0E&usp=drive_web#gid=0)
 
