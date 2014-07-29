@@ -7,6 +7,7 @@ This unit introduces the student to the fundamentals of web design using HTML an
 
 1. [Your First Webpage: Basic Tags](lessons/1-BasicTags)
 2. [Images and Basic Styles](lessons/2-ImageStyles)
+3. [Lists and Tables](lessons/3-listTable)
 3. [Project: Social Media webpage](lessons/project)
 
 ##Standards
