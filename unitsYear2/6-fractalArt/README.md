@@ -72,7 +72,7 @@ As the students walk into class they are...
 Before students begin work on this project they must be introduced to the following concepts. The lecturer may decide the best way to deliver these topics.
 *
 
-##Project Creation
+##Project Creation Time
 ~~A note to curriculum writers: How will the room look while the project is being completed? Are students in groups? Is there storyboarding? How are the teachers assisting? etc..~~
 
 ##Closing
