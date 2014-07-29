@@ -7,9 +7,7 @@ This unit introduces the student to the fundamentals of web design using HTML an
 
 1. [Your First Webpage: Basic Tags](lessons/1-BasicTags)
 2. [Images and Basic Styles](lessons/2-ImageStyles)
-3. [Header, Styles & Buttons](lessons/3-HeaderStyleButton)
-4. [Multiple Pages and External Style Sheets](lessons/4-PagesStyles)
-5. [Div Tags & Div Classes](lessons/5-Div)
+3. [Project: Social Media webpage](lessons/project)
 
 ##Standards
 
