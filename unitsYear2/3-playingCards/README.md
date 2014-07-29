@@ -1,4 +1,4 @@
-#Project 2 - Rock, Paper, Scissors
+#Project 2 - Playing Cards
 ![Image](http://)
 
 ##Synopsis
