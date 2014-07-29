@@ -71,8 +71,6 @@ This project will improve upon the following skills from the [Year 1 Rubric.](ht
 ~~A note to curriculum writers: Please list covered year one skills here.~~  
 
 
-##Standards
-
 
 #During Class
 
