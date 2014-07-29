@@ -1,4 +1,4 @@
-#Project 2 - Rock, Paper, Scissors
+#Project 7 - Art Generator
 ![Image](http://)
 
 ##Synopsis
