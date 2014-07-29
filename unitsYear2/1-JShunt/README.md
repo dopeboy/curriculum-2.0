@@ -61,13 +61,12 @@ Explain to the students that today's project is a scavenger hunt. The "clues" ar
 
 ##Lecture
 Before students begin work on this project they must be introduced to the following concepts. The lecturer may decide the best way to deliver these topics.
-
- * Programs build on each other, so it is in your best interest to complete them sequentially.
+* Programs build on each other, so it is in your best interest to complete them sequentially.
 * When completed with a program, save it (This is so the students have a library of programs to reference back to in the future.)  
 * Raise hand when complete so a teacher can come over to check it before moving onto the next program.  
- * Even though programs build on each other it is important to complete each program in its own file (there are few expections, teachers should use their best judgement). 
- * Collaboration is encouraged.. copying is not!
- * Before moving onto a new program the student must have a program checked and tallied by a teacher. 
+* Even though programs build on each other it is important to complete each program in its own file (there are few expections, teachers should use their best judgement). 
+* Collaboration is encouraged.. copying is not!
+* Before moving onto a new program the student must have a program checked and tallied by a teacher. 
 * Prizes will be awarded to the top point earners.
 
 
