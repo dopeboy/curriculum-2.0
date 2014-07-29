@@ -1,6 +1,8 @@
-#Lesson 2 - Images and Basic Styles 
-![image](http://i.imgur.com/LnFsXHH.png)
+#Project 2 - Creating a social media Webpage 
+![image](http://i.imgur.com/TIgYcoR.png)
 
+#Scope
+This project
 ## Before class
 ---
 ###Teacher Preperation
