@@ -1,4 +1,4 @@
-#Project 2 - Playing Cards
+#Project 3 - Playing Cards
 ![Image](http://)
 
 ##Synopsis
