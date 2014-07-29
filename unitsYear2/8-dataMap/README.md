@@ -1,7 +1,7 @@
 #Project 8 - NYC Data Map
 ![Image](http://)
 
-##Synopsis
+##Scope
 ~~A note to curriculum writers: A one to two paragraph scope of the project. Which concepts are being introduced? Which concepts are being revisited? What will the students gain while completing this assignment? etc..~~ 
 
 #Before Class
