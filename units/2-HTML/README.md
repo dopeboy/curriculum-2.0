@@ -1,7 +1,7 @@
 #Unit 2 - HTML
 
 ##Synopsis
-This unit introduces the student to the fundamentals of web design using HTML and CSS. It asssumes no background knowledge in HTML at all. By the end of the unit every student is expected to have a completed 4-page website that uses a multitude of HTML and CSS tags. 
+This unit introduces the student to the fundamentals of web design using HTML and simple CSS styles. It asssumes no background knowledge in HTML at all. By the end of the unit every student is expected to have webpage consisting of text, images, lists, tables and styles. 
 
 ##Lessons
 

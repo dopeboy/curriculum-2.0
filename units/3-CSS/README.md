@@ -1,9 +1,8 @@
 #Unit 3 - Cascading Style Sheets
 
 ##Synopsis
-This unit focuses on the styling of websites using CSS. Beginnning with a General Assembly tutorial and moving str 
+This unit focuses on the styling of websites using CSS. Through several learning conventions the students will become comfortable with designing a website that includes multiple pages all styled with an external style sheet. Next, they will pull from the Bootstrap framework to design resposive websites.     
 
-This unit begins with an activity to demonstrate the difference between how a human and a program think. The first portion is completed without the use of a computer. After this, the students begin work on Scratch 2.0. Scratch is a block based programming language that allows for visual representation of a computer program without using any syntax. Through three quick activities in Scratch the students will obtain a base knowledge in creating Algorithms, Boolean Logic and Variables. 
 
 ##Lessons
 
