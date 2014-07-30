@@ -66,4 +66,4 @@ These programs should all be completed in either a text editor or cloud9.
 | 3 | count476.js | ...prints 1 through 476. | 4 | 
 | 4 | sum55.js | ...prints the sum of the numbers 1 through 55. (final value is 1540) | 4 | 
 | 5 | sum128.js | ...prints the sum of the numbers 1 through 128. (final value is 8256) | 2 | 
-| 6 | prod476.js | ...prints the product of the numbers 1 through 15. (final value is 1307674368000)  | 3 |
+| 6 | prod15.js | ...prints the product of the numbers 1 through 15. (final value is 1307674368000)  | 3 |
