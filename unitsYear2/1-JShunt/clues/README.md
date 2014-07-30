@@ -32,8 +32,8 @@ These programs should all be completed in either a text editor or cloud9.
 | 5a | transport.js (unicycle)  | ...uses division to set "numberOfWheels" to one and set "modeOfTransit" to unicycle.| 2 | 
 | 6 | avg.js | ...asks for two numbers and prints the average of those two numbers. | 2 |
 | 7 | madlibs1.js  | ...asks for one item then prints out a sentance using that item.    | 2 | 
-| 8 | madlibs3.js  | ...asks for three items then prints out a story using all three items.| 3 |
-| 9 | roman.js  | ...can convert any interger from 1-1000 into a roman numeral.| 10 |  
+| 8 | madlibs3.js  | ...asks for three items then prints out a story using all three items.| 4 |
+| 9 | roman.js  | ...can convert any interger from 1-1000 into a roman numeral.| 8 |  
 
 ####JavaScript: Strings
 
