@@ -41,7 +41,7 @@
 1. Attendance: http://scripted.org/attendance
 2. Ask students to complete the following on paper:
 	* Create a list of your 3 favorite hobbies.
-	* Create a table of you three favorite hobbies.
+	* Create a table of your three favorite hobbies.
 
 
 ## Opening
