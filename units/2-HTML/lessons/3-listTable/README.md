@@ -17,7 +17,8 @@
 ### Key points
 
 * Lists can be ordered or unordered depending on the tag you use.
-* A table can be used to organize information inline on a webpage.
+* Almost anything can be placed in a table, not just text.
+* You often see tables on weboages and don't even notice it.
 
 ### Assessment
 
