@@ -9,25 +9,33 @@ This unit introduces the student to the fundamentals of web design using HTML an
 2. [Images and Basic Styles](lessons/2-ImageStyles)
 3. [Lists and Tables](lessons/3-listTable)
 3. [Project: Social Media webpage](lessons/project)
+  
+#Standards
 
-##Standards
-
-####English Standards
+###English Standards
  
 [CCSS.ELA-LITERACY.RST.9-10.3](http://www.corestandards.org/ELA-Literacy/RST/9-10/3/)
 
 Follow precisely a complex multistep procedure when carrying out experiments, taking measurements, or performing technical tasks, attending to special cases or exceptions defined in the text.
 
-####Math Standards
+###Math Standards
  
 [CCSS.MATH.CONTENT.8.F.A.1](http://www.corestandards.org/Math/Content/8/F/A/1/)
 
 Understand that a function is a rule that assigns to each input exactly one output. The graph of a function is the set of ordered pairs consisting of an input and the corresponding output.1
 
-####CSTA Standards
+###ScriptEd Standards
 
-###CPP.L3A-01
-Evaluate ways that different algorithms may be used to solve the same problem.
+**CPP.L2-03 & CPP.L3A-01: HTML pages**  
+* Student can employ HTML body / head tags  
+* Student can create sections and groups in HTML and can style accordingly using CSS.      
+* Student can identify and explain the separation of structure and style in the creation of web pages.
 
+**CPP.L2-03 & CPP.L3A-01: Page Content**  
+* Student can use appropriate tags to display text, images, titles, tables and links on a webpage.  
+* Student can use the nesting structure of web pages to group elements and control page flow.
+
+**CPP.L2-03 & CPP.L3A-01: Wire Framing**  
+* Student can construct a wire frame for a web page using HTML
  
 

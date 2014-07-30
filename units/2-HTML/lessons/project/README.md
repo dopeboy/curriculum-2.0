@@ -1,4 +1,4 @@
-#Project 2 - Creating a social media Webpage 
+#Project 2 - Creating a Social Media Webpage 
 ![Image](http://i.imgur.com/5UG5VKA.png) ![Image](http://i.imgur.com/PS8OBmG.png) ![Image](http://i.imgur.com/KkiYDtC.png)
 
 #Scope
@@ -7,9 +7,6 @@ This project asks the student to create a webpage that is designed like a social
 #Before Class
 Create a wireframe for a social media page using your information. When creating your own page remember to only use tags that have been taught in previous classes.
 
-##Skills covered
-This project will improve upon the following skills from the [Year 1 Rubric.](https://docs.google.com/a/scripted.org/spreadsheet/ccc?key=0AobNdyExPHV5dGRWMVI0QVpnSWYtczZZT2ZyV01kcmc&usp=drive_web#gid=0)  
-~~A note to curriculum writers: Do not worry about this section, Tom will complete this at a later date.~~  
 
 #During Class
 
