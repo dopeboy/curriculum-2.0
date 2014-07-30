@@ -39,73 +39,57 @@
 ### Do-now
 
 1. Attendance: http://scripted.org/attendance
-2. Have students log onto c9.io to set up a free account.
+2. Ask students to complete the following on paper:
+	* Create a list of your 3 favorite hobbies.
+	* Create a table of you three favorite hobbies.
 
 
 ## Opening
 
-* “Now that everyone has set up a Cloud 9 account let’s set what we are looking at.” The teacher should explain how Cloud 9 is an IDE (Integrated Development Environment) that allows us to easily edit and view our webpage in one window.    
-* The teacher may want to provide a quick demo of how to create workspaces, folders, files, save file, etc. while using Cloud 9.
+"We have asked evryine to create a list on paper of your hobbies. Now let's compare lists and tables." Ask some of the following questions to see how list and table structure compared between students.  
+* Did you give your list/ table a title? What title?  
+* Did you use bullet points on you list?  
+* Did you use number your hobbies 1, 2 and 3?  
+* Does your table have a border? Is it the same border everyone else used?
 
 ## Introduction of new material (“I Do”)
 
-**Ask students to close computer screens** “We are going to take our firstpage.html project from last class and add two pictures to it.. later in class we will add some CSS styles too” On the board create a new workspace in Cloud9. Make sure to create a folder and new file with a .html extension. **It is important to show students how to properly organize/save files right form the start.** 
+"We can create lists and tables in HTML the same way we can create them on paper. We just need to know what tags to use." 
+**Ordered Lists**  
+An Ordered List tag (ol) allows use to create a numbered list. It uses List Items tags (li) for each item on the list. Create a list on the board in front of the class.  
+![Image](http://i.imgur.com/m0v6tER.png)  
+Ask for a student volunteer to create and place a title for this list. Once a title is in point out First In Last Out tag structure to the class.
 
-Demonstrate, in front of the class, how to add a picture to an absolute image (an image linked online) to a webpage using  the img src= tag. After placing that picture in also place a relative image on this page (an image saved locally) You should ask questions such as:
-
-* How does this tag differ from other tags we have used so far?
-* Where is this image located? Both on the page and where is it saved?
-
+**Unordered Lists**  
+Through a quick demo, show students how similar an ordered list and an unordered list can be.  
+![Image](http://i.imgur.com/R4zuorv.png)  
 
 ## Guided Practice (“We Do”)
 
-“Let’s all open up Cloud9 and create a place to work on this project.” All together, create a new workspace (this tends to take a lot of time to process on Cloud9) to house this html project. Students should also find a picture they can save in a folder labeled images.
+"Now that you have seen me create a list, let's all create a table together." Ask students to open a new file in their IDE. They can follow along as you demo on the board.  
+
+First create a table tag with a border of 1. Let students know that the border is something that will be explained later.  
+![Image](http://i.imgur.com/Iig4oFU.png)  
+
+Next we will use a table row(tr) tag that we will use to later place information in.  
+![Image](http://i.imgur.com/5ze27QA.png)  
+
+Next we will place three table data(td) tags in this page. We will place our three hobbies in these td tags.  
+![Image](http://i.imgur.com/HcAT9oc.png)
+![Image](http://i.imgur.com/rp6oRpr.png)
 
 ## Independent practice ("You do")
 
-Ask all students to create a page with the following criteria:
-
-* A title
-* A heading
-* 2 pictures (1 absolute and 1 relative) both with text under them.
-
-During this time teachers will circulate to help students with technical issues. If a majority of the class is struggling with the same issue you may consider demonstrating the solution on the board.
-
-
-## Introduction of new material #2 (“I Do”)
-
-“Looks great! Everyone has a webpage with two images and text. Now we are going to add some style to this page. To do this we are going to need a new tag and a whole new set of styles that go inside the tag.” With student’s screens shut, demonstrate where a style tag must go and the syntax behind styling a portion of the page.  
-![Image](http://i.imgur.com/vdrUxIf.png)
-
-Main talking points of the demonstration/lecture are:
-
-* The style tag is inside the head tag
-* In order to specify which part of the page to style you must use a selector (h1 in the example above) and curly brackets.
-* There are many types of styles ranging from color, text-align, size, etc. 
-
-## Guided Practice #2(“We Do”)
-
-“Let’s all together add a style tag inside the head of your page and set the background color to blue.” 
-![Image](http://i.imgur.com/zSgMT0u.png)
-
-## Independent practice #2("You do")
-
-After students have applied 1 style to their page they are ready to style the page on their own. Provide a bank of style properties (some are listed below). Tell the students they have the rest of class to add a minimum of the following styles to their page:
-
-
-* At least one style that applies only the paragraph text
-* At least two styles that apply to the entire body
-* At least one style that is not provided to them. Encourage them to research CSS style properties. (www.w3schools.com is a great resource)
-
-During the time while students are adding styles the teacher will circulate to help with technical issues and encourage students to push their abilities.  
-
-
-CSS Property examples:  
-![Image](http://i.imgur.com/WLiDgh6.png)
-
-
+"Now that we have a horizontal table try to create the same table but this time make the list vertical."   
+After students have completed this task ask them to complete the following:  
+1. Create a table that is 2x2 cells.  
+2. One cell should have an ordered list with a title.  
+3. One cell should have an unordered list with a title.  
+4. the other two cells should include pictures and text.  
+Extension: add styles to the table.
+  
 ## Closing/ Homework
-“Today we created a HTML webpage with multiple tags and style types. Would anyone like to share what they have done and explain how they did it?”
+“Today we created a HTML webpage with a table which included lists and images. Would anyone like to show off what they have done and explain how they did it?”
 
 ## Check for understanding
 Students must share their site with the teacher for your review.
