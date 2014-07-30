@@ -1,13 +1,15 @@
-#Unit 1 - Introduction
+#Unit 3 - Cascading Style Sheets
 
 ##Synopsis
+This unit focuses on the styling of websites using CSS. Beginnning with a General Assembly tutorial and moving str 
+
 This unit begins with an activity to demonstrate the difference between how a human and a program think. The first portion is completed without the use of a computer. After this, the students begin work on Scratch 2.0. Scratch is a block based programming language that allows for visual representation of a computer program without using any syntax. Through three quick activities in Scratch the students will obtain a base knowledge in creating Algorithms, Boolean Logic and Variables. 
 
 ##Lessons
 
-1. [Human vs. Computing Thought Processes](lessons/1-Computing Processes)
-2. [Algorithms](lessons/2-Algorithms)
-3. [Boolean and Variables](lessons/3-Variables and Logic)
+1. [Header, Styles & Buttons](lessons/1-headerStyleButton)
+2. [Multiple Pages & External Style Sheets](lessons/2-pagesStyles)
+3. [Div Tags & Div Classes](lessons/3-div)
 
 ##Standards
 
