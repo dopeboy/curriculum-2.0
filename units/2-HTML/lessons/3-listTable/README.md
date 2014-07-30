@@ -47,19 +47,19 @@
 
 ## Opening
 
-"We have asked evryine to create a list on paper of your hobbies. Now let's compare lists and tables." Ask some of the following questions to see how list and table structure compared between students.  
+"We have asked everyone to create a list on paper of your hobbies. Now let's compare lists and tables." Ask some of the following questions to see how list and table structure compared between students.  
 * Did you give your list/ table a title? What title?  
 * Did you use bullet points on you list?  
-* Did you use number your hobbies 1, 2 and 3?  
+* Did you number your hobbies 1, 2 and 3?  
 * Does your table have a border? Is it the same border everyone else used?
 
 ## Introduction of new material (“I Do”)
 
 "We can create lists and tables in HTML the same way we can create them on paper. We just need to know what tags to use." 
 **Ordered Lists**  
-An Ordered List tag (ol) allows use to create a numbered list. It uses List Items tags (li) for each item on the list. Create a list on the board in front of the class.  
+An Ordered List tag (ol) allows us to create a numbered list. It uses List Items tags (li) for each item on the list. Create a list on the board in front of the class.  
 ![Image](http://i.imgur.com/m0v6tER.png)  
-Ask for a student volunteer to create and place a title for this list. Once a title is in point out First In Last Out tag structure to the class.
+Ask for a student volunteer to create and place a title on this list. Once a title is in, point out First In Last Out tag structure to the class.
 
 **Unordered Lists**  
 Through a quick demo, show students how similar an ordered list and an unordered list can be.  
@@ -86,7 +86,7 @@ After students have completed this task ask them to complete the following:
 1. Create a table that is 2x2 cells.  
 2. One cell should have an ordered list with a title.  
 3. One cell should have an unordered list with a title.  
-4. the other two cells should include pictures and text.  
+4. The other two cells should include pictures and text.  
 Extension: add styles to the table.
   
 ## Closing/ Homework
