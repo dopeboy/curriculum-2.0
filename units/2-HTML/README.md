@@ -38,4 +38,5 @@ Understand that a function is a rule that assigns to each input exactly one outp
 **CPP.L2-03 & CPP.L3A-01: Wire Framing**  
 * Student can construct a wire frame for a web page using HTML
  
-
+**Career Readiness: Independence in Problem Solving**  
+* Student utilizes a repertoire of resources (search engines, StackOverflow, Mozilla Developer Network, comments and documentation, personal notes) to answer questions and solve problems.

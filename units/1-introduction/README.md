@@ -25,10 +25,22 @@ Use various types of phrases (noun, verb, adjectival, adverbial, participial, pr
 
 ####CSTA Standards
 
-###CT.L2-03
+**CT.L2-03**
 Define an algorithm as a sequence of instructions that can be processed by a computer. 
 
-###CT.L2-04
+**CT.L2-04**
 Evaluate ways that different algorithms may be used to solve the same problem. 
 
+####ScriptEd Standards
+
+**CPP.L2-03: Variables**  
+* Student can create, name, and assign values to variables. 
+* Student understands and can explain variable creation, reassignment, and scope.    
+
+**CPP.L2-05: Boolean/Comparisons**  
+* Student can name and appropriately use Boolean values to solve programming problems.  
+* Student can employ conditional statements (“if”, “else”) to solve programming problems.
+
+**CPP.L2-03 & CPP.L3A-01: Wire Framing**  
+* Student can construct a wire frame for a web page using HTML
 
