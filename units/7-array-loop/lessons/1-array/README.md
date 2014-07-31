@@ -191,7 +191,7 @@ This prints out `banana, watermelon, apple`. The `join()` function acts *on* an 
 
 Now we're going to work with arrays together. 
 
-``var vegetables=["broccoli", "kale", "tomato"]``
+``var vegetables=["broccoli", "kale", "tomato"];``
 
 1. How do I print out the second vegetable?
 2. How do I change the first vegetable?
