@@ -102,7 +102,7 @@ Let's talk about the size of an array. How big is our array? Let's use JavaScrip
 
 ``console.log(fruits.length);``
 
-Tjis prints out `3`. What's the index of the last element in our array? How is connected to the length of it? What can we always conclude about the two?
+This prints out `3`. What's the index of the last element in our array? How is connected to the length of it? What can we always conclude about the two?
 
 ####Add to the beginning of an array
 
