@@ -196,7 +196,7 @@ Now we're going to work with arrays together.
 1. How do I print out the second vegetable?
 2. How do I change the first vegetable?
 3. How do I find the length of our array?
-4. How do I find the last vegetable in our array?
+4. How do I find the first vegetable in our array?
 5. How do I find the last vegetable in any array?
 6. How do I add one vegetable to the beginning of our array?
 7. How do I add one vegetable to the end of our array?
