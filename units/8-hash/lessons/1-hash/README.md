@@ -165,7 +165,7 @@ var birdSounds = animalSounds["bird"]
 console.log(birdSounds["swan"]); 
 ```
 
-Here, the `bird` key has a value that is a hash. So we first unload that hash into its own variable. Then we access like it any other hash.
+Here, the `bird` key has a value that is a hash. So we first unload that hash into its own variable. Then we access it like any other hash.
 
 Think about why we used a hash inside a hash here. We could have just added two more key-value pairs to the `animalSounds` hash. But we didn't because we want to use the keys in that hash to represent *types* of animals, not specific kinds.
 
