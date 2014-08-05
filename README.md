@@ -32,5 +32,6 @@ ScriptEd Curriculum Year 2
 | [6. Fractal Art](unitsYear2/6-fractalArt)|   |  | | 
 | [7. artGenerator](unitsYear2/7-artGenerator) |   |  | | 
 | [8. NYC Data Map](unitsYear2/8-dataMap) |   |   |  | 
-| **9. Entrepreneurism** |  |  |  |
-| **10. ** |   | | 
+| [9. Learningpod Test Prep](unitsYear2/9-learningpod) |   |   |  | 
+| **10. Entrepreneurism** |  |  |  |
+| **11. ** |   | | 
