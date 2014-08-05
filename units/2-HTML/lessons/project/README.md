@@ -5,7 +5,7 @@
 This project asks the student to create a webpage that is designed like a social media page. The focus here is not to have functioning links or even a functioning page. The focus here is to have a page that resembles something you see on social media. Students will be able to complete this using the skills the have already learned in class.
  
 #Before Class
-Take a look at the [Starter Code](/starterP2.html) and [Solution Code](solutionP2.html). Become familiar with the two documents as you will be using them in class.
+Take a look at the [Starter Code](starterP2.html) and [Solution Code](solutionP2.html). Become familiar with the two documents as you will be using them in class.
 
 #During Class
 
@@ -24,7 +24,7 @@ Today in class you are all going to make your own social media bio page.[Here](s
 Before students are given a computer they must make a paper mock up of how they would like their page to be laid out **on paper**. 
 
 #####Build Time
-Before students begin, provide a link where they can download the [Starter Code](/starterP2.html).  
+Before students begin, provide a link where they can download the [Starter Code](starterP2.html).  
 
 Students may work alone or pair program (teachers should use their own discretion.) The teacher's role will be to walk around the room helping students with any quesitons they have. Students are encouraged to look at previous lessons for reference.
 
