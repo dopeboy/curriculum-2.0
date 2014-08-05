@@ -36,6 +36,7 @@
 * img src=
 
 ###References
+* [Cloud 9 and GitHub Setup](Cloud9GitHubSetup.pdf)
 * <https://c9.io/> 
 
 
@@ -44,13 +45,13 @@
 ### Do-now
 
 1. Attendance: http://scripted.org/attendance
-2. Have students log onto c9.io to set up a free account.
+2. Hand students a [Cloud 9 and GitHub Setup](Cloud9GitHubSetup.pdf) worksheet. Students will sign up for GitHub and Cloud9 with help from this worksheet.
 
 
 ## Opening
 
-* “Now that everyone has set up a Cloud 9 account let’s set what we are looking at.” The teacher should explain how Cloud 9 is an IDE (Integrated Development Environment) that allows us to easily edit and view our webpage in one window.    
-* The teacher may want to provide a quick demo of how to create workspaces, folders, files, save file, etc. while using Cloud 9.
+* “Now that everyone has set up a GitHub and Cloud 9 account let’s set what we are looking at.” The teacher should explain how Cloud 9 is an IDE (Integrated Development Environment) that allows us to easily edit and view our webpage in one window. Do not spend too much time explaining GitHub at this point. It will be covered later in the year.    
+* The teacher will want to provide a quick demo of how to create workspaces, folders, files, save file, etc. while using Cloud 9.
 
 ## Introduction of new material (“I Do”)
 
