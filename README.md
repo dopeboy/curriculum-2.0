@@ -1,8 +1,9 @@
 ScriptEd Curriculum Year 1
 ===================
 ####Semester I
+ During unit 2 students will set up an account with GitHub and Cloud9 IDE [this pdf](gitHubCloud9Setup/Cloud9GitHubSetup.pdf) will serve as a tutorial for creating an account with each. 
 
-| Unit  | Lessons | Topics | Project | 
+| Unit  | Lessons | Topics | Project |
 |-------|:-------:|------|--------------|
 | [**1. Introduction**](units/1-introduction/)| 3 | Computing processes, Algorithms, Boolean and Variables | Ol Mc'Donald MadLibs w/ `if`/`else` statement | N/A |
 | [**2. HTML**](units/2-HTML/)| 3 | Webpages structure, Simple Styles, Site Layout |Social Media Webpage   |
@@ -13,14 +14,15 @@ ScriptEd Curriculum Year 1
 | [**7. Arrays & Loops**](units/7-array-loop/) | 3  | Arrays, `while` / `for` loops. | | 
 | [**8. Hashes**](units/8-hash) | 2  | Hashes, key-value pairs, `for-in` loops  |  | 
 | **9. jQuery** |  |  |  |
-| **10. Version Control** |   | | 
+| **10. Version Control** |   | |   
   
-  
+ 
 ---
 
 ScriptEd Curriculum Year 2
 =========================
 ####Semester I
+ Second year students will be completing their final projects using Cloud9 IDE. They will also need to sign in using their GitHub account. [this pdf](gitHubCloud9Setup/Cloud9GitHubSetup.pdf) will serve as a tutorial for creating an account for students who need to do so. 
 
 | Unit  | Date(s) of Lesson | Skills | Project | 
 |-------|:-------:|------|--------------|
