@@ -1,7 +1,7 @@
 ScriptEd Curriculum Year 1
 ===================
 ####Semester I
- During unit 2 students will set up an account with GitHub and Cloud9 IDE [this pdf](gitHubCloud9Setup/Cloud9GitHubSetup.pdf) will serve as a tutorial for creating an account with each. 
+ During unit 2 students will set up an account with GitHub and Cloud9 account. [this pdf](gitHubCloud9Setup/Cloud9GitHubSetup.pdf) will serve as a tutorial for creating an account with each. 
 
 | Unit  | Lessons | Topics | Project |
 |-------|:-------:|------|--------------|
