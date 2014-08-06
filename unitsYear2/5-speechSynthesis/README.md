@@ -85,5 +85,8 @@ Before students begin work on this project they must be introduced to the follow
 ##Check for Understanding
 ~~A note to curriculum writers: How will the teacher know that all the students were successful. How do we know they learned the skills listed above?~~
 
+##How to Submit
+The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
+
 ##Homework
 ~~A note to curriculum writers: Will you be giving any homework?~~

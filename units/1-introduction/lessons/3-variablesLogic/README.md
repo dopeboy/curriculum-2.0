@@ -69,8 +69,9 @@
 
 “Today we covered the basics of using variables and Boolean logic in programming. You are uncovering more about how a program thinks. Next we will be using some real programming languages to apply the concepts we learned here in Scratch today.”
 
-##Check for understanding
-Students must share the link to their Scratch project with the teacher in a Google form.
+##Check for understanding: Submitting this project
+The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
+
 
 ##Homework
 Students can log into Scratch at home and create a game that uses a variable to keep score. This assignment does not technically need to be graded but should be seen as a way for students to explore further into Scratch outside of class. 
