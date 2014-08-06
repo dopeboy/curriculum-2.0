@@ -1,35 +1,34 @@
-#Unit 3 - Cascading Style Sheets
+#Project 3 - 
+![Image]() 
+#Scope
+~~A note to curriculum writers: A one to two paragraph scope of the project. Which concepts are being introduced? Which concepts are being revisited? What will the students gain while completing this assignment? etc..~~ 
+ 
+#Before Class
+~~A note to curriculum writers: How can the teacher best prepare for this lesson? Provide a list of things that must be known/ prepared before walking into the class.~~  
+~~Also be sure to include a stater and solution sample code.~~
 
-##Synopsis
-This unit focuses on the styling of websites using CSS. Through several learning conventions the students will become comfortable with designing a website that includes multiple pages all styled with an external style sheet. Next, they will pull from the Bootstrap framework to design resposive websites.     
+#During Class
 
+##Do Now
+As the students walk into class they are...
 
-##Lessons
+##Opening
+~~The hook to begin class and grab excitement. Could possible be combined with the lecture~~
 
-1. [Header, Styles & Buttons](lessons/1-headerStyleButton)
-2. [Multiple Pages & External Style Sheets](lessons/2-pagesStyles)
-3. [Div Tags & Div Classes](lessons/3-div)
+##Lecture
+Today in class you are all going to make...[Here]() is an example of one that we(the teachers) made before class.
 
-##Standards
+##Project Creation Time
+#####Brianstorming/Prototyping
 
-####English Standards
-**CCSS.ELA-Literacy.L9.-10.1**  
-[CCSS.ELA-LITERACY.L9-10.1](http://www.corestandards.org/ELA-Literacy/L/9-10/1/)
+#####Build Time
+Students may work alone or pair program (teachers should use their own discretion.) The teacher's role will be to walk around the room helping students with any quesitons they have. Students are encouraged to look at previous lessons for reference.
 
-Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.
+##Closing
+~~Will the studetns present these projects? How will the teacher end this project?~~
 
-[CCSS.ELA-LITERACY.L.9-10.1.A](http://www.corestandards.org/ELA-Literacy/L/9-10/1/a/)  
-Use parallel structure
+##Check for Understanding
+Teachers should keep track of student success while they are presenting to the class.
 
-[CCSS.ELA-LITERACY.L.9-10.1.B](http://www.corestandards.org/ELA-Literacy/L/9-10/1/b/)  
-Use various types of phrases (noun, verb, adjectival, adverbial, participial, prepositional, absolute) and clauses (independent, dependent; noun, relative, adverbial) to convey specific meanings and add variety and interest to writing or presentations.
-
-####CSTA Standards
-
-###CT.L2-03
-Define an algorithm as a sequence of instructions that can be processed by a computer. 
-
-###CT.L2-04
-Evaluate ways that different algorithms may be used to solve the same problem. 
-
-
+##How to Submit
+The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
