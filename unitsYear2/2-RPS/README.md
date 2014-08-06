@@ -6,7 +6,7 @@
 
 #Before Class
 ~~A note to curriculum writers: How can the teacher best prepare for this lesson? Provide a list of things that must be known/ prepared before walking into the class.~~
-
+~~Also be sure to include a stater and solution sample code.~~
 ##Vocabulary
 ~~A note to curriculum writers: list any new terms here~~
 *
