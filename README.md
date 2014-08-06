@@ -6,7 +6,7 @@ ScriptEd Curriculum Year 1
 | Unit  | Lessons | Topics | Project |
 |-------|:-------:|------|--------------|
 | [**1. Introduction**](units/1-introduction/)| 3 | Computing processes, Algorithms, Boolean and Variables | [Ol Mc'Donald MadLibs](units/1-introduction/lessons/3-variablesLogic) w/ `if`/`else` statement | N/A |
-| [**2. HTML**](units/2-HTML/)| 3 | Webpages structure, Simple Styles, Site Layout |[Social Media Webpage](units/2-HTML/project)   |
+| [**2. HTML**](units/2-HTML/)| 3 | Webpages structure, Simple Styles, Site Layout |[Social Media Webpage](units/2-HTML/lessons/project)   |
 | [**3. CSS**](units/3-CSS/)|  | Site Mapping, Div tags,  |  | 
 | [**4. JavaScript**] (units/4-javascript/) | 4 | Variables, functions, pseudo-code, comments |  | 
 | [**5. Strings**] (units/5-string/) | 2  | Functions, casting, comparison |  | 
