@@ -5,7 +5,8 @@
 ~~A note to curriculum writers: A one to two paragraph scope of the project. Which concepts are being introduced? Which concepts are being revisited? What will the students gain while completing this assignment? etc..~~ 
 
 #Before Class
-~~A note to curriculum writers: How can the teacher best prepare for this lesson? Provide a list of things that must be known/ prepared before walking into the class.~~
+~~A note to curriculum writers: How can the teacher best prepare for this lesson? Provide a list of things that must be known/ prepared before walking into the class.~~  
+~~Also be sure to include a stater and solution sample code.~~
 
 ##Vocabulary
 ~~A note to curriculum writers: list any new terms here~~
