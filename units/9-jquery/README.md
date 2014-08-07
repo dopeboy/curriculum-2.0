@@ -11,5 +11,5 @@ This unit makes an introduction to jQuery. Students will learn about selectors a
 ##Standards
 
 ###CPP.L2-05 I - Event-Driven Behavior
-1. Student	can	use	“onclick”	events	to	trigger	JavaScript	behavior	from	user	interaction.
+1. Student	can	use	"onclick"	events	to	trigger	JavaScript	behavior	from	user	interaction.
 2. Student	can modify	page	contents	from	JavaScript.
