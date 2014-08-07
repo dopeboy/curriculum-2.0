@@ -13,7 +13,7 @@ ScriptEd Curriculum Year 1
 | [**6. Conditionals**](units/6-conditional/) | 2  | Boolean values, `if`/`else`, comparison operators, logical operators | | 
 | [**7. Arrays & Loops**](units/7-array-loop/) | 3  | Arrays, `while` / `for` loops. | | 
 | [**8. Hashes**](units/8-hash) | 2  | Hashes, key-value pairs, `for-in` loops  |  | 
-| **9. jQuery** |  |  |  |
+| [**9. jQuery**] (units/9-jquery)| 2 | Selectors, click handlers |  |
 | **10. Version Control** |   | |   
   
  
