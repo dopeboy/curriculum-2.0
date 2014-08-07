@@ -94,6 +94,23 @@ Do not worry about understanding this code. Just know that (1) any code that you
 
 #### Selectors
 
+A **selector** allows you to find and manipulate HTML elements. Sound familar? It's because we've already seen them in CSS. For example:
+
+```
+#box 
+{
+  background-color: red;
+}
+```
+
+The above CSS code instructs the browser to find all elements that have an ID of "box" and then change their background color. 
+
+jQuery has selectors too. To instruct it to find all elements that have an ID of "box", write:
+
+```
+$("#box");
+```
+
 
 
 ### Guided practice ("We do")
