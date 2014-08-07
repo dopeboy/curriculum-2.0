@@ -63,21 +63,36 @@ Because it is a library, we need to import it into our own work before we can ma
 Copy the code below and paste it between the ``<head>...</head>`` tags in your HTML file: 
 
 ```
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 ```
 
 ##### Installation (2)
 
-To use jQuery, you must write JavaScript. Typically this JavaScript is stored in its own file. Suppose this file is called ``project.js``. We first create this file and then link it in our HTML page using the ``<script>`` tag. **This latter tag must be included after the jQuery ``<script>`` tag**. Thus, after the inclusion of both files, the ``<head>..</head>`` section of your page would look like:
+To use jQuery, you must write JavaScript. Typically this JavaScript is stored in its own file. Suppose this file is called ``project.js``. We first create this file and then link it in our HTML page using the ``<script>`` tag. **This latter tag must be included after the jQuery ``<script>`` tag**. 
+
+Thus, after the inclusion of both files, the ``<head>..</head>`` section of your page would look like:
 
 ```
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="project.js"></script>
 ```
 
 The ``project.js`` inclusion must be done after the jQuery inclusion because the browser loads scripts in order. Because ``project.js`` makes use of jQuery, it must be loaded after it.
 
 ##### Starter template
+
+Copy and code below and paste it into your own JavaScript file (``project.js`` if you are continuing from above):
+
+```
+$( document ).ready(function() 
+{
+
+});
+```
+
+Do not worry about understanding this code. Just know that (1) any code that you write using jQuery must be included between the braces above and (2) the code is executed when the page loads.
+
+#### Selectors
 
 
 
