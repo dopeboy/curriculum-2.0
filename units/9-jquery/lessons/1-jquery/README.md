@@ -52,17 +52,30 @@ Let's review HTML & CSS first. What is HTML used for? What's a tag? Give me an e
 
 ### Introduction of new material ("I do")
 
-#### Installation
+#### Getting started
+
+##### Installation
 
 jQuery is a software library. It is a body of code that others have written so that we programmers could reuse it. 
 
 Because it is a library, we need to import it into our own work before we can make use of it. jQuery is written in JavaScript and is contained in one file. To bring it into our own project, we have to use the same tag we would use when we want to bring in our own JavaScript file: the ``link`` tag.  
 
-Copy the code below and paste it into the ``<head></head>`` tag. 
+Copy the code below and paste it between the ``<head>...</head>`` tags in your HTML file: 
 
 ```
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 ```
+
+To use jQuery, you must write JavaScript. Typically this JavaScript is stored in its own file. Suppose this file is called ``project.js``. We would first create this file and then link it in our HTML page using the ``<script>`` tag. This latter tag must be included **after** the jQuery ``<script>`` tag. Thus, the ``<head>..</head>`` section of your page would look like:
+
+```
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="project.js"></script>
+```
+
+##### Starter template
+
+
 
 ### Guided practice ("We do")
 
