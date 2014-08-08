@@ -70,7 +70,28 @@ We will use Git in the command line.
 
 **Github** is a service that lets programmers use Git to store their work on cloud based servers. 
 
+In the following exercise, we are going to create our own repository, copy other work into it, and then modify our copy. All commands must be performed in a command line terminal (*Window -> New Terminal* in Cloud9).
+
 ##### Sign up
+
+If you haven't already, create an account on Github here: https://github.com/
+
+##### Create repository
+
+A **repository** (or repo) is a place where we store our code.
+
+Click [here](https://github.com/new) to create one. For repository name, enter "unit-10-walkthrough". Leave everything else blank and click on the green "Create Repository" button. Do not follow the instructions on the next page.
+
+At this point, you have an empty repository on Github.
+
+##### Clone repository
+
+Next, we **clone** (or copy) an existing repository onto our machine. To do this, run:
+
+```
+
+```
+
 
 ### Independent practice ("You do")
 
