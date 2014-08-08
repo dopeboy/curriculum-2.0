@@ -155,7 +155,7 @@ git commit -u -m "changed pikachu to snorlax"
 
 ##### (7) Push
 
-We are now ready to push our modified code to Github's servers. We do this by:
+We are now ready to `push` our modified code to Github's servers. We do this by:
 
 ```
 git push origin master
@@ -174,7 +174,7 @@ git push origin master
 
 ##### (9) Merge (optional)
 
-If multiple people are working on the same file, we will need to **merge** everyone's work together. See the references section for more details.
+If multiple people are working on the same file, we will need to **`merge`** everyone's work together. See the references section for more details.
 
 ### Independent practice ("You do")
 
