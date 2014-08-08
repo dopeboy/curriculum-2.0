@@ -111,6 +111,38 @@ jQuery has selectors too. To instruct it to find all elements that have an ID of
 $("#box");
 ```
 
+Notice the syntax: a dollar sign followed by parentheses. Inside the parentheses is a string which contains the identifier. Remember that a pound sign (`#`) represents an ID and a period (`.`) represents a class.
+
+Note that the above code doesn't do anything after it has selected all the found items. Let's look at a more interesting case.
+
+##### Read element  
+
+Suppose your HTML looks like so:
+
+```
+<html>
+  <head>...</head>
+  <body>
+    <div id="main">
+      Pikachu I choose you!
+    </div>
+  </body>
+</html>
+```
+
+This will so the following in the browser:
+
+```
+Pikachu I choose you!
+```
+
+If we want to change the contents of the `div` above, we can 
+
+##### Edit element
+
+##### Create element
+
+##### Remove element
 
 
 ### Guided practice ("We do")
