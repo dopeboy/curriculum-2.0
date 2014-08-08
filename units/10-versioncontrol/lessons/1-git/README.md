@@ -6,7 +6,7 @@
 
 ### Objective
 
-Students will understand the basics of version control. They will be able to setup an account on Github and perform the clone, push, and pull operations.
+Students will understand the basics of version control. They will be able to setup an account on Github and perform the `clone`, `push`, and `pull` operations.
 
 ### Key points
 
@@ -87,7 +87,7 @@ At this point, you have an empty repository on Github.
 
 ##### (3) Clone repository
 
-Next, we **clone** (or copy) an existing repository onto our machine. We are going to clone a test repository. To do this, run:
+Next, we **`clone`** (or copy) an existing repository onto our machine. We are going to clone a test repository. To do this, run:
 
 ```
 git clone https://github.com/dopeboy/test-repo-scripted.git
@@ -95,7 +95,7 @@ git remote rename origin upstream
 ```
 ##### (4) Push to our own repository
 
-A **push** is an action to upload our own work to a repository that we have control over. We are going to copy the contents of the cloned repository into our own repository. Replace "xxxxxx" with your Github username below:
+A **`push`** is an action to upload our own work to a repository that we have control over. We are going to copy the contents of the cloned repository into our own repository. Replace "xxxxxx" with your Github username below:
 
 ```
 git remote add origin https://github.com/xxxxxx/unit-10-walkthrough.git
@@ -147,7 +147,7 @@ git add main.html
 
 ##### (6) Commit
 
-When we **commit** a file, we tell Git that we're about to make our change final. This gives Git a chance to record any changes made. We also need to provide a message saying what changed so that other programmers can understand what we did.
+When we **`commit`** a file, we tell Git that we're about to make our change final. This gives Git a chance to record any changes made. We also need to provide a message saying what changed so that other programmers can understand what we did.
 
 ```
 git commit -u -m "changed pikachu to snorlax"
@@ -165,7 +165,7 @@ You will again be asked for your username and password. Remember that your passw
 
 ##### (8) Pull (optional)
 
-Suppose the repository where we cloned our work from got new files added to it. We could update our own repository by running a **pull** operation:
+Suppose the repository where we cloned our work from got new files added to it. We could update our own repository by running a **`pull`** operation:
 
 ```
 git pull upstream master
