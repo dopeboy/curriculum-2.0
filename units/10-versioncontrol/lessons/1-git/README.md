@@ -1,41 +1,41 @@
 #Lesson 1 - Git
 
-![image](http://i.imgur.com/UNTTbXt.jpg)
+![image](http://i.imgur.com/C2u8bun.jpg)
 
 ## Before class
 
 ### Objective
 
-Students will be able to create, read, update, and delete HTML elements using jQuery. Additionally, they will be able to write and attach click handlers to an HTML element.
+Students will understand the basics of version control. They will be able to setup an account on Github and perform the clone, push, pull, and merge operations.
 
 ### Key points
 
-* A selector is used to find one or more HTML elements in your page.
-* A handler is used to execute a body of code after an event has occured. A common kind of handler is a click handler. 
+* Version control software helps programmers collaborate on code together.
+* Version control software tracks all changes to your code. This enables you to revert back to an older version of the code.
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../8-hash/lessons/1-hash/assessments/).
+1. Write do-now based off of [assessments from previous lesson](../../../9-jquery/lessons/1-jquery/assessments/).
 2. Write exit-ticket based off [assessments from current lesson](assessments/).
 
 Students will show progress toward reaching the objective based on their performance on the exit-ticket quiz.
 
 ### Vocabulary
 
-* Selector
-* Append
-* Handler
+* Version control
+* Git
+* Github
+* Clone
+* Push
+* Pull
+* Merge
+* Stage
+* Commit
 
 ### References
 
-* http://www.w3schools.com/jquery/jquery_selectors.asp
-* http://www.w3schools.com/jquery/jquery_events.asp
-* http://www.w3schools.com/jquery/jquery_dom_get.asp
-* http://www.w3schools.com/jquery/jquery_dom_set.asp
-* http://www.w3schools.com/jquery/jquery_dom_add.asp
-* http://www.w3schools.com/jquery/jquery_dom_remove.asp
-* http://www.w3schools.com/jquery/jquery_css_classes.asp
-* http://www.w3schools.com/jquery/jquery_css.asp
+* http://gitref.org/basic/
+* https://try.github.io/levels/1/challenges/1
 
 ## During class
 
