@@ -278,7 +278,34 @@ If we want to change the background color of our div, we can use the ``css()`` f
 $("#main").css("background-color", "yellow");
 ```
 
-Just like the ``attr()`` function above, the ``css()`` function takes two parameters: the property you wish to add (or change) and the value you want to set it to.
+Just like the ``attr()`` function above, the ``css()`` function takes two parameters: the property you wish to add (or change) and the value you want to set it to. The above code will change the background color of the `div` to yellow.
+
+#### Handlers
+
+A **handler** is a piece of code that runs after an event has occured. Example of events include a key press on a keyboard and the scroll on a mouse. 
+
+##### Click handler
+
+A common kind of handler is a mouse click handler which runs after the mouse has been clicked over a certain element. Let's suppose we had HTML code like so:
+
+```
+<html>
+  <head>...</head>
+  <body>
+    <button class=".btn">Team rocket</button>
+  </body>
+</html>
+```
+Clicking on the button will not do anything. Let's add a click handler to change that:
+
+```
+$(".btn").click(function()
+{
+  alert("Prepare for trouble. Make it double.");
+});
+```
+
+Clicking on the button will now trigger a pop-up window (or alert) with the following text: "Prepare for trouble. Make it double.".
 
 ### Guided practice ("We do")
 
