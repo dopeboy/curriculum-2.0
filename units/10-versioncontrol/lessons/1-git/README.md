@@ -72,11 +72,11 @@ We will use Git in the command line.
 
 In the following exercise, we are going to create our own repository, copy other work into it, and then modify our copy. All commands must be performed in a command line terminal (*Window -> New Terminal* in Cloud9).
 
-##### Sign up
+##### (1) Sign up
 
 If you haven't already, create an account on Github here: https://github.com/
 
-##### Create repository
+##### (2) Create repository
 
 A **repository** (or repo) is a place where we store our code.
 
