@@ -54,7 +54,7 @@ Today we will learn about version control. This is important because version con
 
 Raise your hand if you've written an essay for English class. Walk me through the steps that happen before you submit your essay. You start with a first draft. You might get feedback from a classmate or teacher and start working on the next draft. You might realize that the next draft isn't going well and revert, or go back, to an older draft. Once you're done, you submit the final draft. To pull up a history of your work, you might find all your drafts and track the progress you made over time. 
 
-Version control (also called source control) lets you save drafts of your code. This way, you and others around you can track your code. Suppose your latest draft of the code introduced a bug. With source control, you can revert the code to an older version (or draft) to eliminate the bug and then understand what caused it. 
+**Version control** (also called source control) lets you save drafts of your code. This way, you and others around you can track your code. Suppose your latest draft of the code introduced a bug. With source control, you can revert the code to an older version (or draft) to eliminate the bug and then understand what caused it. 
 
 Version control also lets groups of people collaborate on code together. Suppose you are working with a partner on the same HTML file. You are responsible for the ```<head>...</head>``` section and your partner is responsible for the ```<body>...</body>``` section. Once the both of you are done, you will need to combine each of your files together. This would involve pasting your code into your partner's code and making sure you don't accidentally break your partner's file. This doesn't seem like too much work until you start working on hundreds of files together. Using version control software, you could merge, or combine,  your work and your partner's work automatically.
 
@@ -62,9 +62,15 @@ Version control also lets groups of people collaborate on code together. Suppose
 
 #### Git
 
-Git is an example of a version control software. It it the most widely used version control tool. For more information on Git, see the references section.
+**Git** is an example of a version control software. It it the most widely used version control tool and supports performing the actions discussed above. For more information on Git, see the references section.
 
 We will use Git in the command line.
+
+#### Github
+
+**Github** is a service that lets programmers use Git to store their work on cloud based servers. 
+
+##### Sign up
 
 ### Independent practice ("You do")
 
