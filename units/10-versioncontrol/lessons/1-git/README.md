@@ -178,7 +178,8 @@ If multiple people are working on the same file, we will need to merge everyone'
 
 ### Independent practice ("You do")
 
-
+1. Find the official jQuery repository on Github.
+2. Repeat steps (2)-(7) from above. Use the jQuery repository during the cloning step. 
 
 #### Exit ticket
 
@@ -186,7 +187,7 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about jQuery. This is important because jQuery enables us to dynamically interact with our HTML and CSS. Next, we will do a jQuery project.
+Today you learned about Git. This is important because Git is an essential tool for working on code in a team setting. Next, we will do a Git based project.
 
 #### Homework
 
