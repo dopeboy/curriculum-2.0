@@ -23,6 +23,7 @@ Students will show progress toward reaching the objective based on their perform
 ### Vocabulary
 
 * Selector
+* Append
 * Handler
 
 ### References
@@ -115,9 +116,9 @@ Notice the syntax: a dollar sign followed by parentheses. Inside the parentheses
 
 Note that the above code doesn't do anything after it has selected all the found items. Let's look at a more interesting case.
 
-##### Read element  
+##### Read `div`  
 
-Suppose your HTML looks like so:
+Suppose our HTML looks like so:
 
 ```
 <html>
@@ -130,20 +131,131 @@ Suppose your HTML looks like so:
 </html>
 ```
 
-This will so the following in the browser:
+This will show the following in the browser:
 
 ```
 Pikachu I choose you!
 ```
 
-If we want to change the contents of the `div` above, we can 
+If we want to read the contents of the `div` with an ID `main` and then print it out to the console, we can call the `text()` function on the `div` element like so:
 
-##### Edit element
+```
+console.log($("#box").text());
+```
 
-##### Create element
+##### Edit `div`
 
-##### Remove element
+Suppose our HTML looks like:
 
+```
+<html>
+  <head>...</head>
+  <body>
+    <div id="main">
+      Pikachu I choose you!
+    </div>
+  </body>
+</html>
+```
+
+If we want to change the contents of the `div` above so that it contains different text, we can do so:
+
+```
+$("#box").text("Bulbasaur I choose you!");
+```
+
+This page will now show:
+
+```
+Bulbasaur I choose you!
+```
+
+##### Create `div`
+
+Suppose our HTML looks like:
+
+```
+<html>
+  <head>...</head>
+  <body>
+    <div id="main">
+      Pikachu I choose you!
+    </div>
+  </body>
+</html>
+```
+
+If we want to **append** or add another `div` below our existing one, we can by using the ``append()`` function and a string:
+
+```
+$("body").append("<div>Gotta catch em all!</div>");
+```
+
+Note how we wrote a string that contains HTML code. Also notice that we appended this new `div` to the `body` element. This page will now show:
+
+```
+Pikachu I choose you!
+Gotta catch em all!
+```
+
+##### Remove `div`
+
+Suppose our HTML looks like:
+
+```
+<html>
+  <head>...</head>
+  <body>
+    <div id="main">
+      Pikachu I choose you!
+    </div>
+    <div id="other">
+      Jigglypuff
+    </div>
+  </body>
+</html>
+```
+
+If we want to remove the first `div` with an ID of `main`, we can use the ``remove()`` function:
+
+```
+$("#main").remove();
+```
+
+This page will now show:
+
+```
+Jigglypuff
+```
+
+##### Edit attribute
+
+Suppose our HTML looks like:
+
+```
+<html>
+  <head>...</head>
+  <body>
+    <img src="http://i.imgur.com/iWFGbVq.jpg" title="Hosted by imgur.com" />
+  </body>
+</html>
+```
+
+In the browser, this page looks like:
+
+![image](http://i.imgur.com/iWFGbVq.jpg)
+
+Suppose we want to change the image. We could delete the `img` tag and make a new one with the right `src` URL. But we're lazy programmers so we try to do things that take the least amount of effort. Instead, we can edit the `src` attribute:
+
+```
+$("img").attr("src", "http://i.imgur.com/fkKkNX5.png")
+```
+
+In the browser, the page now looks like:
+
+![image](http://i.imgur.com/fkKkNX5.png)
+
+##### Edit CSS
 
 ### Guided practice ("We do")
 
