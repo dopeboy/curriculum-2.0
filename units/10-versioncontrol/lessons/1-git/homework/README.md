@@ -9,4 +9,4 @@
 
 ## Deliverables
 
-Your HTML, CSS, and JavaScript code.
+The link to your Github repository.
