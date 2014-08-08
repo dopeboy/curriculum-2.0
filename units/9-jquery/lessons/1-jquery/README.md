@@ -245,17 +245,40 @@ In the browser, this page looks like:
 
 ![image](http://i.imgur.com/iWFGbVq.jpg)
 
-Suppose we want to change the image. We could delete the `img` tag and make a new one with the right `src` URL. But we're lazy programmers so we try to do things that take the least amount of effort. Instead, we can edit the `src` attribute:
+Suppose we want to change the image. We could delete the `img` tag and make a new one with the right `src` URL. But we're lazy programmers so we try to do things that take the least amount of effort. Instead, we can edit the `src` attribute by using the ``attr()`` function:
 
 ```
 $("img").attr("src", "http://i.imgur.com/fkKkNX5.png")
 ```
+
+Note that this function takes two parameters: the name of the attribute you wish to change the value you want to set the attribute to.
 
 In the browser, the page now looks like:
 
 ![image](http://i.imgur.com/fkKkNX5.png)
 
 ##### Edit CSS
+
+Suppose our HTML looks like:
+
+```
+<html>
+  <head>...</head>
+  <body>
+    <div id="main">
+      Pikachu I choose you!
+    </div>
+  </body>
+</html>
+```
+
+If we want to change the background color of our div, we can use the ``css()`` function:
+
+```
+$("#main").css("background-color", "yellow");
+```
+
+Just like the ``attr()`` function above, the ``css()`` function takes two parameters: the property you wish to add (or change) and the value you want to set it to.
 
 ### Guided practice ("We do")
 
