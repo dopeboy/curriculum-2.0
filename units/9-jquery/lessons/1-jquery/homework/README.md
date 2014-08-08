@@ -16,4 +16,4 @@ Your page needs to do the following:
 
 ## Deliverables
 
-Your JavaScript code.
+Your HTML, CSS, and JavaScript code.
