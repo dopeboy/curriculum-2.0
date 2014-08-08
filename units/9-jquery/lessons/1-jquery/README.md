@@ -347,7 +347,7 @@ Suppose we have an HTML file with the following code:
 ```
 Suppose we do not have any other files.
 
-1. Include jQuery into our project?
+1. Include jQuery into our project.
 2. Create an empty JavaScript file. Include it in your HTML file.
 3. What starter code do you put in the empty JavaScript file so that you can use jQuery?
 4. Create two new empty ``div``s with a class of "animal" and IDs of "shark" and "turtle" respectively.
