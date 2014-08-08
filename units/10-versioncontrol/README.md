@@ -5,7 +5,7 @@ This unit introduces version control. Students will learn how to clone, pull, pu
 
 ##Lessons
 
-1. [git](lessons/1-git)
+1. [Git](lessons/1-git)
 2. [Project](lessons/2-project)
 
 ##Standards
