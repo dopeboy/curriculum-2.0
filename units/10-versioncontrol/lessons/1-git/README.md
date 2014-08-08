@@ -176,10 +176,15 @@ git push origin master
 
 If multiple people are working on the same file, we will need to **`merge`** everyone's work together. See the references section for more details.
 
+### Guided practice ("We do")
+
+1. Let's find an interesting repository on Github.
+2. Let's go through steps (2) to (7) from above. In the step where we change the file, let's add something funny to the README.md.
+
 ### Independent practice ("You do")
 
 1. Find the official jQuery repository on Github.
-2. Repeat steps (2)-(7) from above. Use the jQuery repository during the cloning step. 
+2. Repeat steps (2)-(7) from above. Use the jQuery repository during the cloning step. Instead of modifying a file, add a new one.
 
 #### Exit ticket
 
