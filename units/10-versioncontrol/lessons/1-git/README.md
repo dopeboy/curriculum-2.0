@@ -6,7 +6,7 @@
 
 ### Objective
 
-Students will understand the basics of version control. They will be able to setup an account on Github and perform the clone, push, pull, and merge operations.
+Students will understand the basics of version control. They will be able to setup an account on Github and perform the clone, push, and pull operations.
 
 ### Key points
 
@@ -165,7 +165,7 @@ You will again be asked for your username and password. Remember that your passw
 
 ##### (8) Pull (optional)
 
-Suppose the repository where we cloned our work from got new files added to it. We could update our own repository by:
+Suppose the repository where we cloned our work from got new files added to it. We could update our own repository by running a **pull** operation:
 
 ```
 git pull upstream master
@@ -174,7 +174,7 @@ git push origin master
 
 ##### (9) Merge (optional)
 
-If multiple people are working on the same file, we will need to merge everyone's work together. See the references section for more details.
+If multiple people are working on the same file, we will need to **merge** everyone's work together. See the references section for more details.
 
 ### Independent practice ("You do")
 
