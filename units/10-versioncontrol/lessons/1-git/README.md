@@ -39,6 +39,7 @@ Students will show progress toward reaching the objective based on their perform
 * https://try.github.io/levels/1/challenges/1
 * http://en.wikipedia.org/wiki/Revision_control
 * http://en.wikipedia.org/wiki/Git_(software)
+* http://git-scm.com/docs/git-merge
 
 ## During class
 
@@ -70,7 +71,7 @@ We will use Git in the command line.
 
 **Github** is a service that lets programmers use Git to store their work on cloud based servers. 
 
-In the following exercise, we are going to create our own repository, copy other work into it, and then modify our copy. All commands must be performed in a command line terminal (*Window -> New Terminal* in Cloud9).
+In the following exercise, we are going to create our own repository, copy other work into it, and then modify our copy. This lesson assumes knowledge of the command line. All commands must be performed in a command line terminal (*Window -> New Terminal* in Cloud9). 
 
 ##### (1) Sign up
 
@@ -80,18 +81,100 @@ If you haven't already, create an account on Github here: https://github.com/
 
 A **repository** (or repo) is a place where we store our code.
 
-Click [here](https://github.com/new) to create one. For repository name, enter "unit-10-walkthrough". Leave everything else blank and click on the green "Create Repository" button. Do not follow the instructions on the next page.
+Click [here](https://github.com/new) to create one. For repository name, enter "unit-10-walkthrough". Leave everything else blank and click on the green "Create Repository" button. Do not follow any of the instructions on the next page.
 
 At this point, you have an empty repository on Github.
 
-##### Clone repository
+##### (3) Clone repository
 
-Next, we **clone** (or copy) an existing repository onto our machine. To do this, run:
-
-```
+Next, we **clone** (or copy) an existing repository onto our machine. We are going to clone a test repository. To do this, run:
 
 ```
+git clone https://github.com/dopeboy/test-repo-scripted.git
+git remote rename origin upstream
+```
+##### (4) Push to our own repository
 
+A **push** is an action to upload our own work to a repository that we have control over. We are going to copy the contents of the cloned repository into our own repository. Replace "xxxxxx" with your Github username below:
+
+```
+git remote add origin https://github.com/xxxxxx/unit-10-walkthrough.git
+git push origin master
+```
+
+After you run the second command, you will be asked for your Github username. Then you will be asked for your password. During this step, you will not be able to see what you are typing in. This is OK, the computer is still recording what you type. Once you're done, hit the enter key. 
+
+If the commands ran successfully, you should see something like so:
+
+```
+Counting objects: 20, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (20/20), 6.52 KiB | 0 bytes/s, done.
+Total 20 (delta 2), reused 0 (delta 0)
+To https://github.com/xxxxxx/unit-10-walkthrough.git
+ * [new branch]      master -> master
+```
+
+Run the ``ls`` command and you will see a new folder in your directory. Open ``main.html`` in this directory and read it.
+
+##### (5) Add
+
+Suppose we want to change ``main.html`` in our repository. First, we make the changes using our text editor. Let's change "Pikachu I choose you!" to "Snorlax I choose you!". Then run:
+
+```
+git status
+```
+
+We should see something like:
+
+```
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   main.html
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+```
+
+Git has detected we have changed the file. But as it notes, we must add it to our list of files we want to update. We do this by:
+
+```
+git add main.html
+```
+
+##### (6) Commit
+
+When we **commit** a file, we tell Git that we're about to make our change final. This gives Git a chance to record any changes made. We also need to provide a message saying what changed so that other programmers can understand what we did.
+
+```
+git commit -u -m "changed pikachu to snorlax"
+```
+
+##### (7) Push
+
+We are now ready to push our modified code to Github's servers. We do this by:
+
+```
+git push origin master
+```
+
+You will again be asked for your username and password. Remember that your password will be invisible when you type it.
+
+##### (8) Pull (optional)
+
+Suppose the repository where we cloned our work from got new files added to it. We could update our own repository by:
+
+```
+git pull upstream master
+git push origin master
+```
+
+##### (9) Merge (optional)
+
+If multiple people are working on the same file, we will need to merge everyone's work together. See the references section for more details.
 
 ### Independent practice ("You do")
 
