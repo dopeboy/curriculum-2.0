@@ -6,7 +6,7 @@
 Students will produce a heatmap showing NYC 311 service request data. The objective of this project is to expose students to the Google maps API and to a "big data" dataset. Students will gain practice with using an API to retrieve data. They will learn how to draw gradients on a Google map.
 
 #Before Class
-Introduce the concept of "big data". Show a big excel spreadsheet of data. Segue into data visualization. Draw an analogy to charts and graphs. Explain what a heatmap is and why they are used. Show an example of a heatmap.
+Look at the starter code and solution code.
 
 TODO: include starter and solution code
 
@@ -49,8 +49,6 @@ While completing this project the students will need to take earlier programs an
 ##Web Programming Skills
 This project improves the student's web programming skills in the following way. For a description of each skill please refer to the [Year 2 Rubric.](https://docs.google.com/a/scripted.org/spreadsheet/ccc?key=0AmfF2axUr9M_dDA0WEV0LWo2MnBUM0JaQnJTYy1sc0E&usp=drive_web#gid=0)
 
-~~A note to curriculum writers: Not all Web Programming Skills need to be addressed in all projects. If a skill is not used in this project please remove it from this page.~~  
-
 **API**  
 While completing this project the students will use an API to retrieve data.
 
@@ -64,26 +62,32 @@ This project will improve upon the following skills from the [Year 1 Rubric.](ht
 #During Class
 
 ##Do Now
-As the students walk into class they are...
+As the students walk into class, they are given a short quiz about APIs.
 
 ##Opening
-~~A note to curriculum writers: An introduction of the project. Think of this as a hackathon introduction, get them excited for this work!~~
+Introduce the concept of "big data". Show a big excel spreadsheet of data. Segue into data visualization. Draw an analogy to charts and graphs. Explain what a heatmap is and why they are used. Show an example of a heatmap.
 
 ##Lecture
-Before students begin work on this project they must be introduced to the following concepts. The lecturer may decide the best way to deliver these topics.
-*
+* What is google maps? What problem does it solve?
+* Talk about the google maps API. Run through a simple example of placing a marker.
+* WHat is 311? Show 311 data: https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9?
+* Talk about the available interface and how to talk to it. Run a sample request.
 
 ##Project Creation Time
-~~A note to curriculum writers: How will the room look while the project is being completed? Are students in groups? Is there storyboarding? How are the teachers assisting? etc..~~
+
+* Break students into pairs.
+* Do a wireframe
+* Run sample requests and view responses.
+* Start heatmap.
 
 ##Closing
-~~A note to curriculum writers: How should the day be wrapped up? Was the day modeled like a competition, or could this end with a series of questions and a conversation with the room?~~
+* Talk about big data. Talk about the problem that it solves. Connect that to the project.
 
 ##Check for Understanding
-~~A note to curriculum writers: How will the teacher know that all the students were successful. How do we know they learned the skills listed above?~~
+* Give an exit-ticket quiz that tests for understand around big data, APIs, data visualization, etc.
 
 ##How to Submit
 The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
 
 ##Homework
-~~A note to curriculum writers: Will you be giving any homework?~~
+Instructor will assign homework based on progress in class.
