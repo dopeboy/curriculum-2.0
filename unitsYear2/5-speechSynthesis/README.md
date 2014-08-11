@@ -15,6 +15,11 @@
 ##References
 ~~A note to curriculum writers: Include links the teacher can use in class and/or review before class to optimize this lesson.~~
  
+* http://msdn.microsoft.com/en-us/library/dd576287.aspx
+* https://datamarket.azure.com/dataset/bing/microsofttranslator
+* http://www.html5rocks.com/en/tutorials/getusermedia/intro/
+* http://blog.teamtreehouse.com/getting-started-speech-synthesis-api
+* http://api.microsofttranslator.com
 
 ##Industry Skills
 This project improves the student's industry skills in the following way. For a description of each skill please refer to the [Year 2 Rubric.](https://docs.google.com/a/scripted.org/spreadsheet/ccc?key=0AmfF2axUr9M_dDA0WEV0LWo2MnBUM0JaQnJTYy1sc0E&usp=drive_web#gid=0)
