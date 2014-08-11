@@ -192,7 +192,7 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Today you learned about Git. This is important because Git is an essential tool for working on code in a team setting. Next, we will do a Git based project.
+Today you learned about Git. This is important because Git is an essential tool for working on code in a team setting.
 
 #### Homework
 
