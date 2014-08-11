@@ -3,7 +3,7 @@
 ![image](http://i.imgur.com/BGvcCjt.png)
 
 ##Scope
-Students will produce a heatmap showing NYC 311 service request data. The objective of this project is to expose students to the Google maps API and to a "big data" dataset. Students will gain practice with using an API to retrieve data. They will learn how to draw gradients on a Google map.
+Students will produce a heatmap showing NYC 311 service request data. The objective of this project is to expose students to the Google maps API and to a "big data" exercise. Students will gain practice with using an API to retrieve data. They will learn how to draw gradients on a Google map.
 
 #Before Class
 Look at the starter code and solution code.
