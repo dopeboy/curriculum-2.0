@@ -1,12 +1,11 @@
 #Unit 10 - Version control
 
 ##Synopsis
-This unit introduces version control. Students will learn how to `clone`, `push`, and `pull` using Git.
+This unit introduces version control. Students will learn how to `clone`, `push`, and `pull` using Git. There is no project for this unit.
 
 ##Lessons
 
 1. [Git](lessons/1-git)
-2. [Project](lessons/2-project)
 
 ##Standards
 
