@@ -3,14 +3,14 @@
 
 ##Scope
 
-This project will introduce the student to simple one page javascript app to play Rock Paper Scissors. They will be introduced to the idea of libraries and the use the use the JQuery library to manage events.  The students should have previous experience with events and event handlers.  Furthermore they will be introduced to Random numbers and how they are simulated in computers.  After they have completed the simple game, they can be asked to complete a more comlex variant, Rock-Paper-Scissors-Lizard-Spock.
+This project will introduce the student to simple one page javascript app to play Rock-Paper-Scissors. They will be introduced to the idea of libraries and the use the use the JQuery library to manage events.  The students should have previous experience with events and event handlers.  Furthermore they will be introduced to Random numbers and how they are simulated in computers.  After they have completed the simple game, they can be asked to complete a more comlex variant, Rock-Paper-Scissors-Lizard-Spock.
 
 #Before Class
 
 The teacher should become familar with the following topics.
 * Javascript Events
 * The JQuery Documentation and how to nagivate it, especially the documentation about events
-* Javascript libraries and how they should be loaded into a page
+* Javascript Libraries and how they should be loaded into a page
 * Random and PseudoRandom numbers, ie the what makes a number "random"
 
 
@@ -22,7 +22,7 @@ The teacher should become familar with the following topics.
 
 ##References
 
-* [Javascript Library](http://en.wikipedia.org/wiki/JavaScript_library4)
+* [Javascript Library](http://en.wikipedia.org/wiki/JavaScript_library)
 * [Script Tag](http://javascript.crockford.com/script.html)
 * [How Jquery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
 * [JQuery Events](http://api.jquery.com/category/events/)
@@ -39,6 +39,7 @@ This project improves the student's industry skills in the following way. For a 
 While completing this project the student will learn about how to simulate random numbers in javascript. She will also learn to apply the JQuery library to bind user actions to behavior in an application. She will also have the opportunity to modify the initial app to add features as new requirements are revealed.
 
 **Paired Programming:**   
+...
 
 **Version Control:**   
 
@@ -54,6 +55,8 @@ While completing this project the student will have to use and augment their sea
 They will probably also have to search for usages of Math.random
 
 **Command Line:**  
+
+...
 
 **Debugging**  
 
@@ -105,7 +108,8 @@ Before students begin work on this project they must be introduced to the follow
 * Javascript Libraries
 * How to load libraries
 * Random and PseudoRandom numbers
-* How to simulate a dice roll.
+* How to simulate a fair dice roll.
+* How to simulate an unfair dice roll.
 
 ##Project Creation Time
 
@@ -125,6 +129,7 @@ They day can be wrapped up by having a RPS competition with the students and the
 ##Check for Understanding
 
 Ask students how they would use double click instead of single click to signal their choice.
+
 Ask students how they would modify the AI to pick Rock 1% of the time and the other choices equally.
 
 ##How to Submit
