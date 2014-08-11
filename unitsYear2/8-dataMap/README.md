@@ -1,68 +1,65 @@
 #Project 8 - NYC Data Map
-![Image](http://)
+
+![image](http://i.imgur.com/BGvcCjt.png)
 
 ##Scope
-~~A note to curriculum writers: A one to two paragraph scope of the project. Which concepts are being introduced? Which concepts are being revisited? What will the students gain while completing this assignment? etc..~~ 
+Students will produce a heatmap showing NYC 311 service request data. The objective of this project is to expose students to the Google maps API and to a "big data" dataset. Students will gain practice with using an API to retrieve data. They will learn how to draw gradients on a Google map.
 
 #Before Class
-~~A note to curriculum writers: How can the teacher best prepare for this lesson? Provide a list of things that must be known/ prepared before walking into the class.~~
-~~Also be sure to include a stater and solution sample code.~~
+Introduce the concept of "big data". Show a big excel spreadsheet of data. Segue into data visualization. Draw an analogy to charts and graphs. Explain what a heatmap is and why they are used. Show an example of a heatmap.
+
+TODO: include starter and solution code
 
 ##Vocabulary
-~~A note to curriculum writers: list any new terms here~~
-*
+
+* Big data
+* Data visualization
+* Heatmap
+* Color gradient
 
 ##References
-~~A note to curriculum writers: Include links the teacher can use in class and/or review before class to optimize this lesson.~~
- 
 
+* https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9?
+* https://developers.google.com/maps/documentation/javascript/examples/layer-heatmap
+ 
 ##Industry Skills
 This project improves the student's industry skills in the following way. For a description of each skill please refer to the [Year 2 Rubric.](https://docs.google.com/a/scripted.org/spreadsheet/ccc?key=0AmfF2axUr9M_dDA0WEV0LWo2MnBUM0JaQnJTYy1sc0E&usp=drive_web#gid=0)
 
 **Technical Vocabulary:**  
-While completing this project the student will..
+While completing this project the students will receive aid in the form of technical jargon.
 
 **Paired Programming:**   
-While completing this project the student will..
+While completing this project the student will work in teams to create the many programs.
 
 **Version Control:**   
-While completing this project the student will..
+While completing this project the student will be using Github to store their programs.
 
 **Code Review:**   
-While completing this project the student will..
+While completing this project the student will use review code from early programs to help write later programs.
 
 **Search Engine Skills:**  
-While completing this project the student will..
+While completing this project the student will look in various libraries for reference to he program at hand.
 
 **Command Line:**  
-While completing this project the student will..
+While completing this project the student may choose to run these programs in the terminal.
 
 **Debugging**  
-While completing this project the student will...
+While completing this project the students will need to take earlier programs and debug them inorder to create a more challenging programming.
 
 ##Web Programming Skills
 This project improves the student's web programming skills in the following way. For a description of each skill please refer to the [Year 2 Rubric.](https://docs.google.com/a/scripted.org/spreadsheet/ccc?key=0AmfF2axUr9M_dDA0WEV0LWo2MnBUM0JaQnJTYy1sc0E&usp=drive_web#gid=0)
 
 ~~A note to curriculum writers: Not all Web Programming Skills need to be addressed in all projects. If a skill is not used in this project please remove it from this page.~~  
-**Forms:**  
-While completing this project the student will..
 
-**http methods:**   
-While completing this project the student will..
+**API**  
+While completing this project the students will use an API to retrieve data.
 
-**Routing/ URLs:**   
-While completing this project the student will..
-
-**Templating:**   
-While completing this project the student will..
-
-**API:**   
-While completing this project the student will..
+**Client server interaction**  
+While completing this project the students will use an API to retrieve data from the server and then process it on the client side.
 
 ##Year One Review
 This project will improve upon the following skills from the [Year 1 Rubric.](https://docs.google.com/a/scripted.org/spreadsheet/ccc?key=0AobNdyExPHV5dGRWMVI0QVpnSWYtczZZT2ZyV01kcmc&usp=drive_web#gid=0)  
 ~~A note to curriculum writers: Do not worry about this section, Tom will complete this at a later date.~~  
-
 
 #During Class
 
