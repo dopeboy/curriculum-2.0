@@ -30,10 +30,10 @@ ScriptEd Curriculum Year 2
 | [2. Rock, Paper, Scissors](unitsYear2/2-RPS)| 10/4/14 | API, math.random, JQuery | A functioning game of user vs. bot |
 | [3. Playing Cards](unitsYear2/3-playingCards)|  |  |  | 
 | [4. SoundMood](unitsYear2/4-soundMood) |  |  |  | 
-| [5. Speech Synthesis](unitsYear2/5-speechSynthesis) |   |  |  | 
+| [5. Speech Synthesis](unitsYear2/5-speechSynthesis) |   | Form, API, Responsive Design, http calling, JQuery |  | 
 | [6. Fractal Art](unitsYear2/6-fractalArt)|   |  | | 
 | [7. artGenerator](unitsYear2/7-artGenerator) |   |  | | 
-| [8. NYC Data Map](unitsYear2/8-dataMap) |   |   |  | 
+| [8. NYC Data Map](unitsYear2/8-dataMap) |   | Big Data, Data Visualization, API, Client Server  | HeatMap of various data pulled from 311 | 
 | [9. Learningpod Test Prep](unitsYear2/9-learningpod) |   |   |  | 
 | **10. Entrepreneurism** |  |  |  |
 | **11. ** |   | | 
