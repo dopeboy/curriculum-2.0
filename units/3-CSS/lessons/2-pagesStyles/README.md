@@ -1,4 +1,5 @@
-#Lesson 4 - Linking Pages and StyleSheets
+#Lesson 2 & Project 3A  
+##Linking Pages and StyleSheets
 ![image](http://i.imgur.com/lQblSYV.jpg)
 
 
@@ -21,7 +22,7 @@
 
 ### Assessment
 
-1. Full "About Me" website made in Cloud9 IDE.
+1. Full, 4-page "About Me" website made in Cloud9 IDE.
 
 
 ### Vocabulary
@@ -59,7 +60,8 @@ Students should arrive to the # symbol needs to be replaced with a file path.
 In order for this new file path to link to another page we need to create that page.
 
 ## Guided Practice (“We Do”)
-Have all students open their computers log onto their CLoud9 account. Have students create a new workspace called AboutMe. Also have the teacher's workspace open on the front board. "All together let's create proper organization for this workspace." Create the following workspace as students follow along.  
+Have all students open their computers log onto their Cloud9 account. If studnets do no already have a CLoud9 account they may use [this pdf.](gitHubCloud9Setup/Cloud9GitHubSetup.pdf)  
+Have students create a new workspace called AboutMe. Also have the teacher's workspace open on the front board. "All together let's create proper organization for this workspace." Create the following workspace as students follow along.  
 ![Image](http://i.imgur.com/6abqxzm.png)  
 At this point teachers should give a quick check for understanding to make sure all students have an organized workspace.  
 
@@ -97,10 +99,12 @@ The rest of class can be dedicated to students completing this website using the
 
 ## Check for understanding
 Leave time at the end of class for students to wrap up and ask teachers any questions they may have.  
-Students should send you there website. Consider leaving time to allow students to webhost. A great free webhosting site is www.bitballoon.com.
+
+##How to Submit
+The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
 
 ##Homework
-Students who are not complete with their site by the end of class should complete it at home for homework.
+Students who are not complete with their site by the end of class should complete it at home for homework. **Note: This project can take multiple days of class. Adjust schedule as necessary**
  
 ## After Class
 

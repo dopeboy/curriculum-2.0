@@ -7,10 +7,9 @@ This unit focuses on the styling of websites using CSS. Through several learning
 ##Lessons
 
 1. [Header, Styles & Buttons](lessons/1-headerStyleButton)
-2. [Multiple Pages & External Style Sheets](lessons/2-pagesStyles)
-3. [Project: Part A](lessons/projectPartA)
-4. [Div Tags & Div Classes](lessons/3-div)
-5. [Project: Part B](lessons/projectPartB)
+2. [Multiple Pages & External Style Sheets **Project 3A**](lessons/2-pagesStyles)
+3. [Div Tags & Div Classes](lessons/3-div)
+4. [Project 3: Part B](lessons/projectPartB)
 
 ##Standards
 
