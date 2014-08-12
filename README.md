@@ -6,8 +6,8 @@ ScriptEd Curriculum Year 1
 | Unit  | Lessons | Topics | Project |
 |-------|:-------:|------|--------------|
 | [**1. Introduction**](units/1-introduction/)| 3 | Computing processes, Algorithms, Boolean and Variables | [Ol Mc'Donald MadLibs](units/1-introduction/lessons/3-variablesLogic) w/ `if`/`else` statement | N/A |
-| [**2. HTML**](units/2-HTML/)| 3 | Webpages structure, Simple Styles, Site Layout |[Social Media Webpage](units/2-HTML/lessons/project)   |
-| [**3. CSS**](units/3-CSS/)|  | Site Mapping, Div tags,  | [PartA: 4 Page About Me Site](units/3-CSS/lessons/pagesStyles)   [PartB: Bootstrap](units/3-CSS/lessons/projectPartB)  | 
+| [**2. HTML**](units/2-HTML/)| 3 | Webpages structure, Simple Styles, Site Layout |[Social Media Webpage](units/2-HTML/lessons/4-project)   |
+| [**3. CSS**](units/3-CSS/)|  | Site Mapping, Div tags,  | [PartA: 4 Page About Me Site](units/3-CSS/lessons/2-pagesStyles)   [PartB: Bootstrap](units/3-CSS/lessons/projectPartB)  | 
 | [**4. JavaScript**] (units/4-javascript/) | 4 | Variables, functions, pseudo-code, comments |  | 
 | [**5. Strings**] (units/5-string/) | 2  | Functions, casting, comparison |  | 
 | [**6. Conditionals**](units/6-conditional/) | 2  | Boolean values, `if`/`else`, comparison operators, logical operators | | 
