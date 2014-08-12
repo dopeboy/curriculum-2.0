@@ -57,7 +57,16 @@ While completing this project the students will use an API to retrieve data from
 
 ##Year One Review
 This project will improve upon the following skills from the [Year 1 Rubric.](https://docs.google.com/a/scripted.org/spreadsheet/ccc?key=0AobNdyExPHV5dGRWMVI0QVpnSWYtczZZT2ZyV01kcmc&usp=drive_web#gid=0)  
-~~A note to curriculum writers: Do not worry about this section, Tom will complete this at a later date.~~  
+
+
+HTML/CSS | JavaScript | Work Readiness
+------------ | ------------- | ------------
+Structure	| Variables		| Debugging
+Content		| Types  		| Team Work
+Styling		|	Boolean		| 
+Wireframing	| 	Loops		|
+			|	Functions	|
+		   
 
 #During Class
 

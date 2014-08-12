@@ -49,7 +49,15 @@ While completing this project the students will need to take earlier programs an
 
 ##Year One Review
 This project will improve upon the following skills from the [Year 1 Rubric.](https://docs.google.com/a/scripted.org/spreadsheet/ccc?key=0AobNdyExPHV5dGRWMVI0QVpnSWYtczZZT2ZyV01kcmc&usp=drive_web#gid=0)  
- 
+    
+HTML/CSS | JavaScript | Work Readiness
+------------ | ------------- | ------------
+Structure	| Variables		| Debugging
+Content		| Types  		| Team Work
+Styling		|	Boolean		| Version Control
+Wireframing	| 	Loops		|
+			|	Functions	|
+		
 
 #During Class
 
