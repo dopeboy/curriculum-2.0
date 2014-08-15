@@ -165,7 +165,7 @@ You will again be asked for your username and password. Remember that your passw
 
 ##### (8) Pull (optional)
 
-Suppose the repository where we cloned our work from got new files added to it. We could update our own repository by running a **`pull`** operation:
+Suppose the repository where we cloned our work from got new files added to it. We could update our own repository by running a **`pull`** operation on the first repository and a **push** to ours:
 
 ```
 git pull upstream master
