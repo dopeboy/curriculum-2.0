@@ -9,7 +9,7 @@ ScriptEd Curriculum Year 1
 | [**2. HTML**](units/2-HTML/)| 3 | Webpages structure, Simple Styles, Site Layout |[Social Media Webpage](units/2-HTML/lessons/4-project/README.md)   |
 | [**3. CSS**](units/3-CSS/)|  | Site Mapping, Div tags,  | [PartA: 4 Page About Me Site](units/3-CSS/lessons/2-pagesStyles)   [PartB: Bootstrap](units/3-CSS/lessons/projectPartB)  | 
 | [**4. JavaScript**] (units/4-javascript/) | 4 | Variables, functions, pseudo-code, comments |  | 
-| [**5. Strings**] (units/5-string/) | 2  | Functions, casting, comparison |  | 
+| [**5. Strings**] (units/5-string/) | 2  | Functions, casting, comparison | [MadLibs](units/5-string/2-project) | 
 | [**6. Conditionals**](units/6-conditional/) | 2  | Boolean values, `if`/`else`, comparison operators, logical operators | | 
 | [**7. Arrays & Loops**](units/7-array-loop/) | 3  | Arrays, `while` / `for` loops. | | 
 | [**8. Hashes**](units/8-hash) | 2  | Hashes, key-value pairs, `for-in` loops  |  | 

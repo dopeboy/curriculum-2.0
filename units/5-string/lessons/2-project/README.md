@@ -1,19 +1,19 @@
-#Project 5 - 
-![Image]() 
+#Project 5 - MadLibs
+![Image](http://i.imgur.com/AK56Els.png) 
 #Scope
-~~A note to curriculum writers: A one to two paragraph scope of the project. Which concepts are being introduced? Which concepts are being revisited? What will the students gain while completing this assignment? etc..~~ 
+In this project, students will be creating a JavaScript MadLibs game using string replacement, alerts and prompts.
  
 #Before Class
-~~A note to curriculum writers: How can the teacher best prepare for this lesson? Provide a list of things that must be known/ prepared before walking into the class.~~  
-~~Also be sure to include a stater and solution sample code.~~
+Take a look at the [Starter Code]() and [Solution Code.]() Become familiar with the two documents as you will be using them in class.
 
 #During Class
 
 ##Do Now
-As the students walk into class they are...
+As the students walk into class ask them to take a look at some MadLibs games you have prepared. Either a MadLibs book or a few good electronic sources you may have,
 
 ##Opening
-~~The hook to begin class and grab excitement. Could possible be combined with the lecture~~
+Today we're going to build Mad Libs! This game will be VERY similar to the MadLibs we created in Scratch during unit one. The difference this time is we will be creating this game in JavaScript.  
+The program will ask the user for different types of words (verbs, nouns, numbers, colors). Once we have their responses, we are going take a story and replace the blanks with the user's responses!
 
 ##Lecture
 Today in class you are all going to make...[Here]() is an example of one that we(the teachers) made before class.
